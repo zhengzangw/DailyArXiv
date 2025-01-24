@@ -8,8 +8,3 @@ Only the most recent articles for each keyword are retained, up to a maximum of 
 You can click the 'Watch' button to receive daily email notifications.
 
 Last update: 2025-01-23
-
-## Video Generation
-
-## Diffusion
-
