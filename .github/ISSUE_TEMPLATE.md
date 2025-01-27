@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 27, 2025
+title: Latest 15 Papers - January 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VideoShield: Regulating Diffusion-based Video Generation Models via Watermarking](http://arxiv.org/abs/2501.14195v1)** | 2025-01-24 | <details><summary>Inter...</summary><p>International Conference on Learning Representations (ICLR) 2025</p></details> |
 | **[Improving Video Generation with Human Feedback](http://arxiv.org/abs/2501.13918v1)** | 2025-01-23 |  |
 | **[EchoVideo: Identity-Preserving Human Video Generation by Multimodal Feature Fusion](http://arxiv.org/abs/2501.13452v1)** | 2025-01-23 |  |
 | **[Video Depth Anything: Consistent Depth Estimation for Super-Long Videos](http://arxiv.org/abs/2501.12375v2)** | 2025-01-22 | <details><summary>Proje...</summary><p>Project page: https://videodepthanything.github.io/</p></details> |
@@ -21,24 +22,23 @@ labels: documentation
 | **[DiffuEraser: A Diffusion Model for Video Inpainting](http://arxiv.org/abs/2501.10018v1)** | 2025-01-17 | 11pages, 13figures |
 | **[RichSpace: Enriching Text-to-Video Prompt Space via Text Embedding Interpolation](http://arxiv.org/abs/2501.09982v1)** | 2025-01-17 |  |
 | **[VideoWorld: Exploring Knowledge Learning from Unlabeled Videos](http://arxiv.org/abs/2501.09781v1)** | 2025-01-16 | <details><summary>Code ...</summary><p>Code and models are released at: https://maverickren.github.io/VideoWorld.github.io/</p></details> |
-| **[Learnings from Scaling Visual Tokenizers for Reconstruction and Generation](http://arxiv.org/abs/2501.09755v1)** | 2025-01-16 | <details><summary>28 pa...</summary><p>28 pages, 25 figures, 7 Tables</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Diffusion based Text-to-Music Generationwith Global and Local Text based Conditioning](http://arxiv.org/abs/2501.14680v1)** | 2025-01-24 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2025</p></details> |
+| **[Diffusive transport on the real line: semi-contractive gradient flows and their discretization](http://arxiv.org/abs/2501.14527v1)** | 2025-01-24 | 26 pages |
+| **[Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.*](http://arxiv.org/abs/2501.14524v1)** | 2025-01-24 |  |
+| **[Handling Heterophily in Recommender Systems with Wavelet Hypergraph Diffusion](http://arxiv.org/abs/2501.14399v1)** | 2025-01-24 |  |
+| **[A Survey on Diffusion Models for Anomaly Detection](http://arxiv.org/abs/2501.11430v3)** | 2025-01-24 |  |
+| **[ComPC: Completing a 3D Point Cloud with 2D Diffusion Priors](http://arxiv.org/abs/2404.06814v2)** | 2025-01-24 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
+| **[VideoShield: Regulating Diffusion-based Video Generation Models via Watermarking](http://arxiv.org/abs/2501.14195v1)** | 2025-01-24 | <details><summary>Inter...</summary><p>International Conference on Learning Representations (ICLR) 2025</p></details> |
+| **[A three-stage method for reconstructing multiple coefficients in coupled photoacoustic and diffuse optical imaging](http://arxiv.org/abs/2408.03496v3)** | 2025-01-23 |  |
+| **[Full Event Particle-Level Unfolding with Variable-Length Latent Variational Diffusion](http://arxiv.org/abs/2404.14332v3)** | 2025-01-23 | <details><summary>Submi...</summary><p>Submission to SciPost</p></details> |
+| **[LLM-guided Instance-level Image Manipulation with Diffusion U-Net Cross-Attention Maps](http://arxiv.org/abs/2501.14046v1)** | 2025-01-23 | <details><summary>Prese...</summary><p>Presented at BMVC 2024</p></details> |
 | **[Binary Diffusion Probabilistic Model](http://arxiv.org/abs/2501.13915v1)** | 2025-01-23 |  |
+| **[INDIGO+: A Unified INN-Guided Probabilistic Diffusion Algorithm for Blind and Non-Blind Image Restoration](http://arxiv.org/abs/2501.14014v1)** | 2025-01-23 | <details><summary>Accep...</summary><p>Accepted by IEEE Journal of Selected Topics in Signal Processing (JSTSP)</p></details> |
 | **[Accelerate High-Quality Diffusion Models with Inner Loop Feedback](http://arxiv.org/abs/2501.13107v2)** | 2025-01-23 | <details><summary>submi...</summary><p>submission currently under review; 20 pages, 17 figures, 6 tables</p></details> |
 | **[Efficient Domain Augmentation for Autonomous Driving Testing Using Diffusion Models](http://arxiv.org/abs/2409.13661v2)** | 2025-01-23 |  |
 | **[Efficient Shallow Ritz Method For 1D Diffusion Problems](http://arxiv.org/abs/2404.17750v2)** | 2025-01-23 |  |
-| **[Unveiling the Power of Noise Priors: Enhancing Diffusion Models for Mobile Traffic Prediction](http://arxiv.org/abs/2501.13794v1)** | 2025-01-23 |  |
-| **[An Efficient Diffusion-based Non-Autoregressive Solver for Traveling Salesman Problem](http://arxiv.org/abs/2501.13767v1)** | 2025-01-23 | Accepted at KDD2025 |
-| **[Deep-Relative-Trust-Based Diffusion for Decentralized Deep Learning](http://arxiv.org/abs/2501.03162v3)** | 2025-01-23 |  |
-| **[Diffusion-based Perceptual Neural Video Compression with Temporal Diffusion Information Reuse](http://arxiv.org/abs/2501.13528v1)** | 2025-01-23 |  |
-| **[Self-Supervised Diffusion MRI Denoising via Iterative and Stable Refinement](http://arxiv.org/abs/2501.13514v1)** | 2025-01-23 | 39pages, 34figures |
-| **[MultiDreamer3D: Multi-concept 3D Customization with Concept-Aware Diffusion Guidance](http://arxiv.org/abs/2501.13449v1)** | 2025-01-23 | 9 pages |
-| **[Guided Reconstruction with Conditioned Diffusion Models for Unsupervised Anomaly Detection in Brain MRIs](http://arxiv.org/abs/2312.04215v2)** | 2025-01-23 | <details><summary>Prepr...</summary><p>Preprint: Accepted paper at Combuters in Biology and medicine</p></details> |
-| **[General Error Estimates of Non Conforming Approximation of System of Reaction-Diffusion Equations](http://arxiv.org/abs/2501.13423v1)** | 2025-01-23 |  |
-| **[Polyhedra Encoding Transformers: Enhancing Diffusion MRI Analysis Beyond Voxel and Volumetric Embedding](http://arxiv.org/abs/2501.13352v1)** | 2025-01-23 |  |
-| **[Flow-Guided Diffusion for Video Inpainting](http://arxiv.org/abs/2311.15368v2)** | 2025-01-23 | <details><summary>This ...</summary><p>This paper has been withdrawn as a new iteration of the work has been developed, which includes significant improvements and refinements based on this submission. The withdrawal is made to ensure academic integrity and compliance with publication standards. If you are interested, please refer to the updated work at arXiv:2412.00857</p></details> |
-| **[MSF: Efficient Diffusion Model Via Multi-Scale Latent Factorize](http://arxiv.org/abs/2501.13349v1)** | 2025-01-23 |  |
 
