@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 04, 2025
+title: Latest 15 Papers - February 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RichSpace: Enriching Text-to-Video Prompt Space via Text Embedding Interpolation](http://arxiv.org/abs/2501.09982v2)** | 2025-02-02 |  |
+| **[Your Image is Secretly the Last Frame of a Pseudo Video](http://arxiv.org/abs/2410.20158v2)** | 2025-02-02 | 19 pages, 7 figures |
 | **[Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search](http://arxiv.org/abs/2501.19252v1)** | 2025-01-31 | <details><summary>Websi...</summary><p>Website: https://sites.google.com/view/t2v-dlbs</p></details> |
 | **[Collaboratively Self-supervised Video Representation Learning for Action Recognition](http://arxiv.org/abs/2401.07584v2)** | 2025-01-31 |  |
 | **[Comprehensive Subjective and Objective Evaluation Method for Text-generated Video](http://arxiv.org/abs/2501.08545v2)** | 2025-01-31 |  |
@@ -20,25 +22,23 @@ labels: documentation
 | **["See What I Imagine, Imagine What I See": Human-AI Co-Creation System for 360$^\circ$ Panoramic Video Generation in VR](http://arxiv.org/abs/2501.15456v1)** | 2025-01-26 |  |
 | **[People are poorly equipped to detect AI-powered voice clones](http://arxiv.org/abs/2410.03791v2)** | 2025-01-25 |  |
 | **[VideoShield: Regulating Diffusion-based Video Generation Models via Watermarking](http://arxiv.org/abs/2501.14195v1)** | 2025-01-24 | <details><summary>Inter...</summary><p>International Conference on Learning Representations (ICLR) 2025</p></details> |
-| **[Improving Video Generation with Human Feedback](http://arxiv.org/abs/2501.13918v1)** | 2025-01-23 |  |
-| **[EchoVideo: Identity-Preserving Human Video Generation by Multimodal Feature Fusion](http://arxiv.org/abs/2501.13452v1)** | 2025-01-23 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scalable diffusion posterior sampling in infinite-dimensional inverse problems](http://arxiv.org/abs/2405.15643v2)** | 2025-02-03 | 27 pages, 9 figures |
+| **[Invertible Diffusion Models for Compressed Sensing](http://arxiv.org/abs/2403.17006v2)** | 2025-02-03 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</p></details> |
+| **[Multimodal ELBO with Diffusion Decoders](http://arxiv.org/abs/2408.16883v2)** | 2025-02-03 |  |
+| **[Beyond Monte Carlo: Harnessing Diffusion Models to Simulate Financial Market Dynamics](http://arxiv.org/abs/2412.00036v3)** | 2025-02-02 | 27 pages |
+| **[Efficient Fine-Grained Guidance for Diffusion-Based Symbolic Music Generation](http://arxiv.org/abs/2410.08435v2)** | 2025-02-02 |  |
+| **[Task-agnostic Pre-training and Task-guided Fine-tuning for Versatile Diffusion Planner](http://arxiv.org/abs/2409.19949v2)** | 2025-02-02 |  |
+| **[Diffusion-BBO: Diffusion-Based Inverse Modeling for Online Black-Box Optimization](http://arxiv.org/abs/2407.00610v3)** | 2025-02-02 |  |
+| **[xTED: Cross-Domain Adaptation via Diffusion-Based Trajectory Editing](http://arxiv.org/abs/2409.08687v3)** | 2025-02-01 | <details><summary>xTED ...</summary><p>xTED offers a novel, generic, flexible, simple and effective paradigm that casts cross-domain policy adaptation as a data pre-processing problem</p></details> |
+| **[Zero-Shot Video Restoration and Enhancement Using Pre-Trained Image Diffusion Model](http://arxiv.org/abs/2407.01960v4)** | 2025-02-01 | <details><summary>Accep...</summary><p>Accepted by AAAI 2025</p></details> |
+| **[Optimal compressed sensing for image reconstruction with diffusion probabilistic models](http://arxiv.org/abs/2405.17456v2)** | 2025-02-01 |  |
 | **[SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders](http://arxiv.org/abs/2501.18052v2)** | 2025-01-31 |  |
 | **[Beyond Fixed Horizons: A Theoretical Framework for Adaptive Denoising Diffusions](http://arxiv.org/abs/2501.19373v1)** | 2025-01-31 |  |
 | **[Medical Semantic Segmentation with Diffusion Pretrain](http://arxiv.org/abs/2501.19265v1)** | 2025-01-31 |  |
 | **[Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search](http://arxiv.org/abs/2501.19252v1)** | 2025-01-31 | <details><summary>Websi...</summary><p>Website: https://sites.google.com/view/t2v-dlbs</p></details> |
 | **[Accelerating Diffusion Transformer via Error-Optimized Cache](http://arxiv.org/abs/2501.19243v1)** | 2025-01-31 |  |
-| **[PSyDUCK: Training-Free Steganography for Latent Diffusion](http://arxiv.org/abs/2501.19172v1)** | 2025-01-31 |  |
-| **[RMDM: Radio Map Diffusion Model with Physics Informed](http://arxiv.org/abs/2501.19160v1)** | 2025-01-31 |  |
-| **[HarmoniCa: Harmonizing Training and Inference for Better Feature Caching in Diffusion Transformer Acceleration](http://arxiv.org/abs/2410.01723v3)** | 2025-01-31 | <details><summary>Our c...</summary><p>Our code will be released upon acceptance. The Change Logs on Page 9 reveal our significant changes compared with v1 and v2</p></details> |
-| **[Ambient Denoising Diffusion Generative Adversarial Networks for Establishing Stochastic Object Models from Noisy Image Data](http://arxiv.org/abs/2501.19094v1)** | 2025-01-31 | <details><summary>SPIE ...</summary><p>SPIE Medical Imaging 2025</p></details> |
-| **[Consistency Diffusion Models for Single-Image 3D Reconstruction with Priors](http://arxiv.org/abs/2501.16737v2)** | 2025-01-31 |  |
-| **[Dfilled: Repurposing Edge-Enhancing Diffusion for Guided DSM Void Filling](http://arxiv.org/abs/2501.15440v2)** | 2025-01-31 | <details><summary>Accep...</summary><p>Accepted to IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW)</p></details> |
-| **[Collaborative Diffusion Model for Recommender System](http://arxiv.org/abs/2501.18997v1)** | 2025-01-31 | WWW'25 short |
-| **[Fantastic Targets for Concept Erasure in Diffusion Models and Where To Find Them](http://arxiv.org/abs/2501.18950v1)** | 2025-01-31 |  |
-| **[BinaryDM: Accurate Weight Binarization for Efficient Diffusion Models](http://arxiv.org/abs/2404.05662v5)** | 2025-01-31 | ICLR 2025 |
-| **[Generating with Fairness: A Modality-Diffused Counterfactual Framework for Incomplete Multimodal Recommendations](http://arxiv.org/abs/2501.11916v2)** | 2025-01-31 |  |
 
