@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 12, 2025
+title: Latest 15 Papers - March 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion](http://arxiv.org/abs/2503.07418v1)** | 2025-03-10 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
-| **[Automated Movie Generation via Multi-Agent CoT Planning](http://arxiv.org/abs/2503.07314v1)** | 2025-03-10 | <details><summary>The c...</summary><p>The code and project website are available at: https://github.com/showlab/MovieAgent and https://weijiawu.github.io/MovieAgent</p></details> |
-| **[Learning to Animate Images from A Few Videos to Portray Delicate Human Actions](http://arxiv.org/abs/2503.00276v2)** | 2025-03-10 |  |
-| **[Motion Dreamer: Boundary Conditional Motion Reasoning for Physically Coherent Video Generation](http://arxiv.org/abs/2412.00547v3)** | 2025-03-10 |  |
-| **[E2ED^2:Direct Mapping from Noise to Data for Enhanced Diffusion Models](http://arxiv.org/abs/2412.21044v2)** | 2025-03-10 | Technical report |
-| **[VideoPhy-2: A Challenging Action-Centric Physical Commonsense Evaluation in Video Generation](http://arxiv.org/abs/2503.06800v1)** | 2025-03-09 | 41 pages, 33 Figures |
-| **[IPO: Iterative Preference Optimization for Text-to-Video Generation](http://arxiv.org/abs/2502.02088v3)** | 2025-03-09 |  |
-| **[TR-DQ: Time-Rotation Diffusion Quantization](http://arxiv.org/abs/2503.06564v1)** | 2025-03-09 |  |
-| **[QuantCache: Adaptive Importance-Guided Quantization with Hierarchical Latent and Layer Caching for Video Generation](http://arxiv.org/abs/2503.06545v1)** | 2025-03-09 | <details><summary>The c...</summary><p>The code and models will be available at https://github.com/JunyiWuCode/QuantCache</p></details> |
-| **[A Light and Tuning-free Method for Simulating Camera Motion in Video Generation](http://arxiv.org/abs/2503.06508v1)** | 2025-03-09 | 18 pages in total |
-| **[Generative Video Bi-flow](http://arxiv.org/abs/2503.06364v1)** | 2025-03-09 |  |
-| **[Text2Story: Advancing Video Storytelling with Text Guidance](http://arxiv.org/abs/2503.06310v1)** | 2025-03-08 | 15 pages, 6 figures |
-| **[Rethinking Video Tokenization: A Conditioned Diffusion-based Approach](http://arxiv.org/abs/2503.03708v2)** | 2025-03-08 |  |
-| **[The Best of Both Worlds: Integrating Language Models and Diffusion Models for Video Generation](http://arxiv.org/abs/2503.04606v2)** | 2025-03-08 |  |
-| **[Self-Guidance: Boosting Flow and Diffusion Generation on Their Own](http://arxiv.org/abs/2412.05827v2)** | 2025-03-08 | 15 pages, 10 figures |
+| **[REGEN: Learning Compact Video Embedding with (Re-)Generative Decoder](http://arxiv.org/abs/2503.08665v1)** | 2025-03-11 |  |
+| **[Tuning-Free Multi-Event Long Video Generation via Synchronized Coupled Sampling](http://arxiv.org/abs/2503.08605v1)** | 2025-03-11 | <details><summary>Proje...</summary><p>Project page with visuals: https://syncos2025.github.io/</p></details> |
+| **[Video-to-Audio Generation with Hidden Alignment](http://arxiv.org/abs/2407.07464v3)** | 2025-03-11 | <details><summary>https...</summary><p>https://sites.google.com/view/vta-ldm</p></details> |
+| **[$^R$FLAV: Rolling Flow matching for infinite Audio Video generation](http://arxiv.org/abs/2503.08307v1)** | 2025-03-11 |  |
+| **[HunyuanVideo: A Systematic Framework For Large Video Generative Models](http://arxiv.org/abs/2412.03603v6)** | 2025-03-11 |  |
+| **[WISA: World Simulator Assistant for Physics-Aware Text-to-Video Generation](http://arxiv.org/abs/2503.08153v1)** | 2025-03-11 |  |
+| **[Señorita-2M: A High-Quality Instruction-based Dataset for General Video Editing by Video Specialists](http://arxiv.org/abs/2502.06734v2)** | 2025-03-11 |  |
+| **[VACE: All-in-One Video Creation and Editing](http://arxiv.org/abs/2503.07598v2)** | 2025-03-11 | <details><summary>Proje...</summary><p>Project page: https://ali-vilab.github.io/VACE-Page/</p></details> |
+| **[MotionAura: Generating High-Quality and Motion Consistent Videos using Discrete Diffusion](http://arxiv.org/abs/2410.07659v2)** | 2025-03-11 | <details><summary>Accep...</summary><p>Accepted in ICLR 2025 (spotlight paper)</p></details> |
+| **[T2VEval: Benchmark Dataset and Objective Evaluation Method for T2V-generated Videos](http://arxiv.org/abs/2501.08545v5)** | 2025-03-11 |  |
+| **[Efficient Physics Simulation for 3D Scenes via MLLM-Guided Gaussian Splatting](http://arxiv.org/abs/2411.12789v2)** | 2025-03-11 |  |
+| **[ObjectMover: Generative Object Movement with Video Prior](http://arxiv.org/abs/2503.08037v1)** | 2025-03-11 | <details><summary>CVPR ...</summary><p>CVPR 2025, Project Page: https://xinyu-andy.github.io/ObjMover</p></details> |
+| **[SweetTok: Semantic-Aware Spatial-Temporal Tokenizer for Compact Video Discretization](http://arxiv.org/abs/2412.10443v3)** | 2025-03-11 |  |
+| **[How Can Video Generative AI Transform K-12 Education? Examining Teachers' Perspectives through TPACK and TAM](http://arxiv.org/abs/2503.08003v1)** | 2025-03-11 |  |
+| **[LightMotion: A Light and Tuning-free Method for Simulating Camera Motion in Video Generation](http://arxiv.org/abs/2503.06508v2)** | 2025-03-11 | 18 pages in total |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DRESS: Diffusion Reasoning-based Reward Shaping Scheme For Intelligent Networks](http://arxiv.org/abs/2503.07433v1)** | 2025-03-10 |  |
-| **[AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion](http://arxiv.org/abs/2503.07418v1)** | 2025-03-10 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
-| **[TimeStep Master: Asymmetrical Mixture of Timestep LoRA Experts for Versatile and Efficient Diffusion Models in Vision](http://arxiv.org/abs/2503.07416v1)** | 2025-03-10 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 13 tables</p></details> |
-| **[SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models](http://arxiv.org/abs/2503.07392v1)** | 2025-03-10 |  |
-| **[TRCE: Towards Reliable Malicious Concept Erasure in Text-to-Image Diffusion Models](http://arxiv.org/abs/2503.07389v1)** | 2025-03-10 |  |
-| **[Extracting Training Data from Unconditional Diffusion Models](http://arxiv.org/abs/2410.02467v6)** | 2025-03-10 |  |
-| **[AttenST: A Training-Free Attention-Driven Style Transfer Framework with Pre-Trained Diffusion Models](http://arxiv.org/abs/2503.07307v1)** | 2025-03-10 |  |
-| **[LOGen: Toward Lidar Object Generation by Point Diffusion](http://arxiv.org/abs/2412.07385v2)** | 2025-03-10 | <details><summary>Proje...</summary><p>Project web page: https://nerminsamet.github.io/logen/</p></details> |
-| **[AnomalyPainter: Vision-Language-Diffusion Synergy for Zero-Shot Realistic and Diverse Industrial Anomaly Synthesis](http://arxiv.org/abs/2503.07253v1)** | 2025-03-10 | <details><summary>anoma...</summary><p>anomaly synthesis,anomaly detection</p></details> |
-| **[Boosting Diffusion-Based Text Image Super-Resolution Model Towards Generalized Real-World Scenarios](http://arxiv.org/abs/2503.07232v1)** | 2025-03-10 |  |
-| **[Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models](http://arxiv.org/abs/2501.01423v3)** | 2025-03-10 | <details><summary>Model...</summary><p>Models and codes are available at: https://github.com/hustvl/LightningDiT</p></details> |
-| **[VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer](http://arxiv.org/abs/2502.05979v3)** | 2025-03-10 |  |
-| **[Exposure Bias Reduction for Enhancing Diffusion Transformer Feature Caching](http://arxiv.org/abs/2503.07120v1)** | 2025-03-10 |  |
-| **[Efficient Dataset Distillation via Diffusion-Driven Patch Selection for Improved Generalization](http://arxiv.org/abs/2412.09959v3)** | 2025-03-10 |  |
-| **[Robust Diffusion Models for Adversarial Purification](http://arxiv.org/abs/2403.16067v4)** | 2025-03-10 |  |
+| **[MEAT: Multiview Diffusion Model for Human Generation on Megapixels with Mesh Attention](http://arxiv.org/abs/2503.08664v1)** | 2025-03-11 | <details><summary>CVPR ...</summary><p>CVPR 2025. Code https://github.com/johannwyh/MEAT Project Page https://johann.wang/MEAT/</p></details> |
+| **[TED-VITON: Transformer-Empowered Diffusion Models for Virtual Try-On](http://arxiv.org/abs/2411.17017v3)** | 2025-03-11 | <details><summary>Proje...</summary><p>Project page: https://github.com/ZhenchenWan/TED-VITON</p></details> |
+| **[Rethinking Diffusion Model in High Dimension](http://arxiv.org/abs/2503.08643v1)** | 2025-03-11 |  |
+| **[RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion](http://arxiv.org/abs/2404.07199v2)** | 2025-03-11 | <details><summary>Publi...</summary><p>Published at 3DV 2025</p></details> |
+| **[Curriculum Direct Preference Optimization for Diffusion and Consistency Models](http://arxiv.org/abs/2405.13637v3)** | 2025-03-11 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025</p></details> |
+| **[Modular Customization of Diffusion Models via Blockwise-Parameterized Low-Rank Adaptation](http://arxiv.org/abs/2503.08575v1)** | 2025-03-11 |  |
+| **[Posterior-Mean Denoising Diffusion Model for Realistic PET Image Reconstruction](http://arxiv.org/abs/2503.08546v1)** | 2025-03-11 | 12 pages, 2 figures |
+| **[PointDiffuse: A Dual-Conditional Diffusion Model for Enhanced Point Cloud Semantic Segmentation](http://arxiv.org/abs/2503.06094v2)** | 2025-03-11 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, 7 tables</p></details> |
+| **[Chemistry-Inspired Diffusion with Non-Differentiable Guidance](http://arxiv.org/abs/2410.06502v2)** | 2025-03-11 | <details><summary>accep...</summary><p>accepted by ICLR 2025</p></details> |
+| **[Modeling Neural Switching via Drift-Diffusion Models](http://arxiv.org/abs/2410.00781v3)** | 2025-03-11 |  |
+| **[Structure Preserving Diffusion Models](http://arxiv.org/abs/2402.19369v2)** | 2025-03-11 |  |
+| **[Automatic Robotic-Assisted Diffuse Reflectance Spectroscopy Scanning System](http://arxiv.org/abs/2503.08470v1)** | 2025-03-11 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Robotics and Automation (ICRA) 2025</p></details> |
+| **[Controlling Latent Diffusion Using Latent CLIP](http://arxiv.org/abs/2503.08455v1)** | 2025-03-11 |  |
+| **[Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models](http://arxiv.org/abs/2503.08434v1)** | 2025-03-11 | <details><summary>Proje...</summary><p>Project page: https://atfortes.github.io/projects/bokeh-diffusion/</p></details> |
+| **[Using Powerful Prior Knowledge of Diffusion Model in Deep Unfolding Networks for Image Compressive Sensing](http://arxiv.org/abs/2503.08429v1)** | 2025-03-11 | CVPR2025 accepted |
 
