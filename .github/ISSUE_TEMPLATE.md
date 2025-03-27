@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 27, 2025
+title: Latest 15 Papers - March 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FullDiT: Multi-Task Video Generative Foundation Model with Full Attention](http://arxiv.org/abs/2503.19907v1)** | 2025-03-25 | <details><summary>Proje...</summary><p>Project Page: https://fulldit.github.io/</p></details> |
-| **[Mask$^2$DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation](http://arxiv.org/abs/2503.19881v1)** | 2025-03-25 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
-| **[AudCast: Audio-Driven Human Video Generation by Cascaded Diffusion Transformers](http://arxiv.org/abs/2503.19824v1)** | 2025-03-25 | <details><summary>Accep...</summary><p>Accepted to IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025. Project page: https://guanjz20.github.io/projects/AudCast</p></details> |
-| **[Aether: Geometric-Aware Unified World Modeling](http://arxiv.org/abs/2503.18945v2)** | 2025-03-25 | <details><summary>Proje...</summary><p>Project Page: https://aether-world.github.io/</p></details> |
-| **[Synergizing Motion and Appearance: Multi-Scale Compensatory Codebooks for Talking Head Video Generation](http://arxiv.org/abs/2412.00719v2)** | 2025-03-25 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025. Project page: https://shaelynz.github.io/synergize-motion-appearance/</p></details> |
-| **[AccVideo: Accelerating Video Diffusion Model with Synthetic Dataset](http://arxiv.org/abs/2503.19462v1)** | 2025-03-25 | <details><summary>Proje...</summary><p>Project Page: https://aejion.github.io/accvideo/</p></details> |
-| **[Re-HOLD: Video Hand Object Interaction Reenactment via adaptive Layout-instructed Diffusion Model](http://arxiv.org/abs/2503.16942v3)** | 2025-03-25 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
-| **[Inference-Time Scaling for Flow Models via Stochastic Generation and Rollover Budget Forcing](http://arxiv.org/abs/2503.19385v1)** | 2025-03-25 | <details><summary>Proje...</summary><p>Project page: https://flow-inference-time-scaling.github.io/</p></details> |
-| **[MVPortrait: Text-Guided Motion and Emotion Control for Multi-view Vivid Portrait Animation](http://arxiv.org/abs/2503.19383v1)** | 2025-03-25 | CVPR 2025 |
-| **[EfficientMT: Efficient Temporal Adaptation for Motion Transfer in Text-to-Video Diffusion Models](http://arxiv.org/abs/2503.19369v1)** | 2025-03-25 |  |
-| **[Hardware-Friendly Static Quantization Method for Video Diffusion Transformers](http://arxiv.org/abs/2502.15077v2)** | 2025-03-25 |  |
-| **[Long-Context Autoregressive Video Modeling with Next-Frame Prediction](http://arxiv.org/abs/2503.19325v1)** | 2025-03-25 | <details><summary>Proje...</summary><p>Project page at https://farlongctx.github.io/</p></details> |
-| **[GameFactory: Creating New Games with Generative Interactive Videos](http://arxiv.org/abs/2501.08325v2)** | 2025-03-25 |  |
-| **[Improved Training Technique for Latent Consistency Models](http://arxiv.org/abs/2502.01441v2)** | 2025-03-25 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025</p></details> |
-| **[AMD-Hummingbird: Towards an Efficient Text-to-Video Model](http://arxiv.org/abs/2503.18559v2)** | 2025-03-25 | <details><summary>Homep...</summary><p>Homepage: https://www.amd.com/en/developer/resources/technical-articles/amd-hummingbird-0-9b-text-to-video-diffusion-model-with-4-step-inferencing.html| GitHub: https://github.com/AMD-AIG-AIMA/AMD-Hummingbird-T2V</p></details> |
+| **[RecTable: Fast Modeling Tabular Data with Rectified Flow](http://arxiv.org/abs/2503.20731v1)** | 2025-03-26 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 10 tables</p></details> |
+| **[AccidentSim: Generating Physically Realistic Vehicle Collision Videos from Real-World Accident Reports](http://arxiv.org/abs/2503.20654v1)** | 2025-03-26 |  |
+| **[GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving](http://arxiv.org/abs/2503.20523v1)** | 2025-03-26 | Technical Report |
+| **[VPO: Aligning Text-to-Video Generation Models with Prompt Optimization](http://arxiv.org/abs/2503.20491v1)** | 2025-03-26 |  |
+| **[Fantastic Copyrighted Beasts and How (Not) to Generate Them](http://arxiv.org/abs/2406.14526v2)** | 2025-03-26 |  |
+| **[Inference-Time Scaling for Flow Models via Stochastic Generation and Rollover Budget Forcing](http://arxiv.org/abs/2503.19385v2)** | 2025-03-26 | <details><summary>Proje...</summary><p>Project page: https://flow-inference-time-scaling.github.io/</p></details> |
+| **[VSD2M: A Large-scale Vision-language Sticker Dataset for Multi-frame Animated Sticker Generation](http://arxiv.org/abs/2412.08259v2)** | 2025-03-26 |  |
+| **[DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation](http://arxiv.org/abs/2412.18597v2)** | 2025-03-26 | <details><summary>CVPR ...</summary><p>CVPR 2025; 21 pages, 23 figures, Project page: https://onevfall.github.io/project_page/ditctrl ; GitHub repository: https://github.com/TencentARC/DiTCtrl</p></details> |
+| **[CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer](http://arxiv.org/abs/2408.06072v3)** | 2025-03-26 | Accepted by ICLR2025 |
+| **[HumanDiT: Pose-Guided Diffusion Transformer for Long-form Human Motion Video Generation](http://arxiv.org/abs/2502.04847v3)** | 2025-03-26 | <details><summary>https...</summary><p>https://agnjason.github.io/HumanDiT-page/</p></details> |
+| **[Wan: Open and Advanced Large-Scale Video Generative Models](http://arxiv.org/abs/2503.20314v1)** | 2025-03-26 | 60 pages, 33 figures |
+| **[DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation](http://arxiv.org/abs/2410.13726v3)** | 2025-03-26 |  |
+| **[Unconditional Priors Matter! Improving Conditional Generation of Fine-Tuned Diffusion Models](http://arxiv.org/abs/2503.20240v1)** | 2025-03-26 |  |
+| **[Video Motion Graphs](http://arxiv.org/abs/2503.20218v1)** | 2025-03-26 | 14 pages,10 figures |
+| **[EfficientMT: Efficient Temporal Adaptation for Motion Transfer in Text-to-Video Diffusion Models](http://arxiv.org/abs/2503.19369v2)** | 2025-03-26 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Learning 3D Object Spatial Relationships from Pre-trained 2D Diffusion Models](http://arxiv.org/abs/2503.19914v1)** | 2025-03-25 | <details><summary>Proje...</summary><p>Project Page: https://tlb-miss.github.io/oor/</p></details> |
-| **[ICE: Intrinsic Concept Extraction from a Single Image via Diffusion Models](http://arxiv.org/abs/2503.19902v1)** | 2025-03-25 | <details><summary>CVPR ...</summary><p>CVPR 2025, Project page: https://visual-ai.github.io/ice</p></details> |
-| **[Repurposing Pre-trained Video Diffusion Models for Event-based Video Interpolation](http://arxiv.org/abs/2412.07761v2)** | 2025-03-25 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
-| **[Scaling Down Text Encoders of Text-to-Image Diffusion Models](http://arxiv.org/abs/2503.19897v1)** | 2025-03-25 | <details><summary>accep...</summary><p>accepted by CVPR 2025</p></details> |
-| **[Mask$^2$DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation](http://arxiv.org/abs/2503.19881v1)** | 2025-03-25 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
-| **[Aesthetic Post-Training Diffusion Models from Generic Preferences with Step-by-step Preference Optimization](http://arxiv.org/abs/2406.04314v3)** | 2025-03-25 | <details><summary>CVPR ...</summary><p>CVPR 2025. Project Page: https://rockeycoss.github.io/spo.github.io/</p></details> |
-| **[AudCast: Audio-Driven Human Video Generation by Cascaded Diffusion Transformers](http://arxiv.org/abs/2503.19824v1)** | 2025-03-25 | <details><summary>Accep...</summary><p>Accepted to IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025. Project page: https://guanjz20.github.io/projects/AudCast</p></details> |
-| **[GCC: Generative Color Constancy via Diffusing a Color Checker](http://arxiv.org/abs/2502.17435v2)** | 2025-03-25 | <details><summary>Paper...</summary><p>Paper accepted to CVPR 2025. Project page: https://chenwei891213.github.io/GCC/</p></details> |
-| **[EmoAttack: Emotion-to-Image Diffusion Models for Emotional Backdoor Generation](http://arxiv.org/abs/2406.15863v2)** | 2025-03-25 |  |
-| **[Unpaired Object-Level SAR-to-Optical Image Translation for Aircraft with Keypoints-Guided Diffusion Models](http://arxiv.org/abs/2503.19798v1)** | 2025-03-25 |  |
-| **[Fine-Grained Erasure in Text-to-Image Diffusion-based Foundation Models](http://arxiv.org/abs/2503.19783v1)** | 2025-03-25 | <details><summary>Publi...</summary><p>Published in CVPR 2025</p></details> |
-| **[DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models](http://arxiv.org/abs/2407.01519v4)** | 2025-03-25 | <details><summary>Proje...</summary><p>Project page: https://jimmycv07.github.io/DiffIR2VR_web/</p></details> |
-| **[Localized Concept Erasure for Text-to-Image Diffusion Models Using Training-Free Gated Low-Rank Adaptation](http://arxiv.org/abs/2503.12356v2)** | 2025-03-25 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
-| **[Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy](http://arxiv.org/abs/2503.19757v1)** | 2025-03-25 | <details><summary>Prepr...</summary><p>Preprint; https://robodita.github.io;</p></details> |
-| **[PCM : Picard Consistency Model for Fast Parallel Sampling of Diffusion Models](http://arxiv.org/abs/2503.19731v1)** | 2025-03-25 | <details><summary>Accep...</summary><p>Accepted to the CVPR 2025</p></details> |
+| **[High Quality Diffusion Distillation on a Single GPU with Relative and Absolute Position Matching](http://arxiv.org/abs/2503.20744v1)** | 2025-03-26 |  |
+| **[A weakly-supervised deep learning model for fast localisation and delineation of the skeleton, internal organs, and spinal canal on Whole-Body Diffusion-Weighted MRI (WB-DWI)](http://arxiv.org/abs/2503.20722v1)** | 2025-03-26 |  |
+| **[DexHandDiff: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation](http://arxiv.org/abs/2411.18562v5)** | 2025-03-26 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025. Camera ready version. Previous DexDiffuser. Project page: https://dexdiffuser.github.io/</p></details> |
+| **[Text-to-Model: Text-Conditioned Neural Network Diffusion for Train-Once-for-All Personalization](http://arxiv.org/abs/2405.14132v2)** | 2025-03-26 | Preprint |
+| **[Data Augmentation in Earth Observation: A Diffusion Model Approach](http://arxiv.org/abs/2406.06218v2)** | 2025-03-26 | 25 pages, 12 figures |
+| **[Black-Box Forgery Attacks on Semantic Watermarks for Diffusion Models](http://arxiv.org/abs/2412.03283v2)** | 2025-03-26 | <details><summary>28 pa...</summary><p>28 pages, 22 figures, 8 tables, to be published in The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR)</p></details> |
+| **[Unleashing Vecset Diffusion Model for Fast Shape Generation](http://arxiv.org/abs/2503.16302v2)** | 2025-03-26 | Technical report |
+| **[Diffusion Counterfactuals for Image Regressors](http://arxiv.org/abs/2503.20595v1)** | 2025-03-26 | <details><summary>24 Pa...</summary><p>24 Pages, 5 Figures, Accepted at 3rd World Conference on eXplainable Artificial Intelligence (xAI-2025), Code and reproduction instructions available on GitHub, see https://github.com/DevinTDHa/Diffusion-Counterfactuals-for-Image-Regressors</p></details> |
+| **[Stochastic Transport Maps in Diffusion Models and Sampling](http://arxiv.org/abs/2503.20573v1)** | 2025-03-26 | 34 pages |
+| **[Exploring Robustness of Cortical Morphometry in the presence of white matter lesions, using Diffusion Models for Lesion Filling](http://arxiv.org/abs/2503.20571v1)** | 2025-03-26 |  |
+| **[TD-BFR: Truncated Diffusion Model for Efficient Blind Face Restoration](http://arxiv.org/abs/2503.20537v1)** | 2025-03-26 | <details><summary>Accep...</summary><p>Accepted by ICME 2025</p></details> |
+| **[Contrastive Learning Guided Latent Diffusion Model for Image-to-Image Translation](http://arxiv.org/abs/2503.20484v1)** | 2025-03-26 | 11 pages, 13 figures |
+| **[Dissecting and Mitigating Diffusion Bias via Mechanistic Interpretability](http://arxiv.org/abs/2503.20483v1)** | 2025-03-26 | <details><summary>CVPR ...</summary><p>CVPR 2025; Project Page: https://foundation-model-research.github.io/difflens</p></details> |
+| **[Latent Beam Diffusion Models for Decoding Image Sequences](http://arxiv.org/abs/2503.20429v1)** | 2025-03-26 |  |
+| **[ITA-MDT: Image-Timestep-Adaptive Masked Diffusion Transformer Framework for Image-Based Virtual Try-On](http://arxiv.org/abs/2503.20418v1)** | 2025-03-26 | <details><summary>CVPR ...</summary><p>CVPR 2025, Project Page: https://jiwoohong93.github.io/ita-mdt/</p></details> |
 
