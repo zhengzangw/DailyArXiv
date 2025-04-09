@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 09, 2025
+title: Latest 15 Papers - April 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CamContextI2V: Context-aware Controllable Video Generation](http://arxiv.org/abs/2504.06022v1)** | 2025-04-08 |  |
 | **[One-Minute Video Generation with Test-Time Training](http://arxiv.org/abs/2504.05298v1)** | 2025-04-07 | CVPR 2025 |
 | **[Track4Gen: Teaching Video Diffusion Models to Track Points Improves Video Generation](http://arxiv.org/abs/2412.06016v3)** | 2025-04-07 | <details><summary>CVPR ...</summary><p>CVPR 2025, Project page: hyeonho99.github.io/track4gen</p></details> |
 | **[Video-Bench: Human-Aligned Video Generation Benchmark](http://arxiv.org/abs/2504.04907v1)** | 2025-04-07 | Accepted by CVPR'25 |
@@ -21,24 +22,23 @@ labels: documentation
 | **[DiTaiListener: Controllable High Fidelity Listener Video Generation with Diffusion](http://arxiv.org/abs/2504.04010v1)** | 2025-04-05 | <details><summary>Proje...</summary><p>Project page: https://havent-invented.github.io/DiTaiListener</p></details> |
 | **[InterDyn: Controllable Interactive Dynamics with Video Diffusion Models](http://arxiv.org/abs/2412.11785v3)** | 2025-04-04 |  |
 | **[VLIPP: Towards Physically Plausible Video Generation with Vision and Language Informed Physical Prior](http://arxiv.org/abs/2503.23368v3)** | 2025-04-04 | 18 pages, 11 figures |
-| **[Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency](http://arxiv.org/abs/2409.02634v3)** | 2025-04-04 | <details><summary>ICLR ...</summary><p>ICLR 2025 (Oral), Homepage: https://loopyavatar.github.io/</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Dimension-Free Convergence of Diffusion Models for Approximate Gaussian Mixtures](http://arxiv.org/abs/2504.05300v1)** | 2025-04-07 |  |
-| **[AnomalousNet: A Hybrid Approach with Attention U-Nets and Change Point Detection for Accurate Characterization of Anomalous Diffusion in Video Data](http://arxiv.org/abs/2504.05271v1)** | 2025-04-07 | 20 pages, 9 figures |
-| **[DiffPatch: Generating Customizable Adversarial Patches using Diffusion Models](http://arxiv.org/abs/2412.01440v3)** | 2025-04-07 |  |
-| **[Controlled Latent Diffusion Models for 3D Porous Media Reconstruction](http://arxiv.org/abs/2503.24083v2)** | 2025-04-07 | 58 pages |
-| **[DA2Diff: Exploring Degradation-aware Adaptive Diffusion Priors for All-in-One Weather Restoration](http://arxiv.org/abs/2504.05135v1)** | 2025-04-07 |  |
-| **[Turing instability for nonlocal heterogeneous reaction-diffusion systems: A computer-assisted proof approach](http://arxiv.org/abs/2504.05066v1)** | 2025-04-07 |  |
-| **[CleanDIFT: Diffusion Features without Noise](http://arxiv.org/abs/2412.03439v2)** | 2025-04-07 | <details><summary>for t...</summary><p>for the project page and code, view https://compvis.github.io/cleandift/</p></details> |
-| **[Graph-based Diffusion Model for Collaborative Filtering](http://arxiv.org/abs/2504.05029v1)** | 2025-04-07 |  |
-| **[No Re-Train, More Gain: Upgrading Backbones with Diffusion model for Pixel-Wise and Weakly-Supervised Few-Shot Segmentation](http://arxiv.org/abs/2407.16182v2)** | 2025-04-07 | 9 figures |
-| **[REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning](http://arxiv.org/abs/2504.04956v1)** | 2025-04-07 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025, project page: https://jyunlee.github.io/projects/rewind/</p></details> |
-| **[Anisotropic space-time goal-oriented error control and mesh adaptivity for convection-diffusion-reaction equations](http://arxiv.org/abs/2504.04951v1)** | 2025-04-07 |  |
-| **[Track4Gen: Teaching Video Diffusion Models to Track Points Improves Video Generation](http://arxiv.org/abs/2412.06016v3)** | 2025-04-07 | <details><summary>CVPR ...</summary><p>CVPR 2025, Project page: hyeonho99.github.io/track4gen</p></details> |
-| **[Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation](http://arxiv.org/abs/2504.02542v3)** | 2025-04-07 |  |
-| **[Latent Feature and Attention Dual Erasure Attack against Multi-View Diffusion Models for 3D Assets Protection](http://arxiv.org/abs/2408.11408v2)** | 2025-04-07 | <details><summary>This ...</summary><p>This paper has been accepted by ICME 2025</p></details> |
-| **[A Survey on Personalized Content Synthesis with Diffusion Models](http://arxiv.org/abs/2405.05538v3)** | 2025-04-07 |  |
+| **[TabRep: a Simple and Effective Continuous Representation for Training Tabular Diffusion Models](http://arxiv.org/abs/2504.04798v2)** | 2025-04-08 |  |
+| **[OSDM-MReg: Multimodal Image Registration based One Step Diffusion Model](http://arxiv.org/abs/2504.06027v1)** | 2025-04-08 |  |
+| **[Continuous Diffusion for Mixed-Type Tabular Data](http://arxiv.org/abs/2312.10431v5)** | 2025-04-08 | <details><summary>publi...</summary><p>published at ICLR 2025</p></details> |
+| **[Diffusion Based Ambiguous Image Segmentation](http://arxiv.org/abs/2504.05977v1)** | 2025-04-08 | Accepted at SCIA25 |
+| **[Parasite: A Steganography-based Backdoor Attack Framework for Diffusion Models](http://arxiv.org/abs/2504.05815v1)** | 2025-04-08 |  |
+| **[DDT: Decoupled Diffusion Transformer](http://arxiv.org/abs/2504.05741v1)** | 2025-04-08 | <details><summary>sota ...</summary><p>sota on ImageNet256 and ImageNet512</p></details> |
+| **[Reconstruction-Free Anomaly Detection with Diffusion Models via Direct Latent Likelihood Evaluation](http://arxiv.org/abs/2504.05662v1)** | 2025-04-08 | <details><summary>Code ...</summary><p>Code is available at https://github.com/SkyShunsuke/InversionAD</p></details> |
+| **[REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning](http://arxiv.org/abs/2504.04956v2)** | 2025-04-08 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025, project page: https://jyunlee.github.io/projects/rewind/</p></details> |
+| **[Tuning-Free Image Editing with Fidelity and Editability via Unified Latent Diffusion Model](http://arxiv.org/abs/2504.05594v1)** | 2025-04-08 | under review |
+| **[Studying Image Diffusion Features for Zero-Shot Video Object Segmentation](http://arxiv.org/abs/2504.05468v1)** | 2025-04-07 | <details><summary>Accep...</summary><p>Accepted to CVPRW2025</p></details> |
+| **[Fast constrained sampling in pre-trained diffusion models](http://arxiv.org/abs/2410.18804v2)** | 2025-04-07 |  |
+| **[Machine learning emulation of precipitation from km-scale regional climate simulations using a diffusion model](http://arxiv.org/abs/2407.14158v2)** | 2025-04-07 | <details><summary>47 pa...</summary><p>47 pages, 11 figures, 5 tables; re-ordered sections; further evaluation of future change in heavy precipitation</p></details> |
+| **[Diffusion-based Models for Unpaired Super-resolution in Fluid Dynamics](http://arxiv.org/abs/2504.05443v1)** | 2025-04-07 |  |
+| **[EP-Diffuser: An Efficient Diffusion Model for Traffic Scene Generation and Prediction via Polynomial Representations](http://arxiv.org/abs/2504.05422v1)** | 2025-04-07 |  |
+| **[Time-adaptive Video Frame Interpolation based on Residual Diffusion](http://arxiv.org/abs/2504.05402v1)** | 2025-04-07 | 17 pages |
 
