@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 08, 2025
+title: Latest 15 Papers - May 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation](http://arxiv.org/abs/2505.04512v1)** | 2025-05-07 |  |
+| **[Replace Anyone in Videos](http://arxiv.org/abs/2409.19911v2)** | 2025-05-07 |  |
 | **[Real-Time Person Image Synthesis Using a Flow Matching Model](http://arxiv.org/abs/2505.03562v1)** | 2025-05-06 |  |
 | **[AC3D: Analyzing and Improving 3D Camera Control in Video Diffusion Transformers](http://arxiv.org/abs/2411.18673v4)** | 2025-05-06 | <details><summary>CVPR ...</summary><p>CVPR 2025; Project Page: https://snap-research.github.io/ac3d/</p></details> |
 | **[Transformers for Learning on Noisy and Task-Level Manifolds: Approximation and Generalization Insights](http://arxiv.org/abs/2505.03205v1)** | 2025-05-06 |  |
@@ -20,25 +22,23 @@ labels: documentation
 | **[FreePCA: Integrating Consistency Information across Long-short Frames in Training-free Long Video Generation via Principal Component Analysis](http://arxiv.org/abs/2505.01172v1)** | 2025-05-02 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
 | **[Controllable Weather Synthesis and Removal with Video Diffusion Models](http://arxiv.org/abs/2505.00704v1)** | 2025-05-01 |  |
 | **[Latte: Latent Diffusion Transformer for Video Generation](http://arxiv.org/abs/2401.03048v3)** | 2025-05-01 | <details><summary>Accep...</summary><p>Accepted by Transactions on Machine Learning Research 2025; Project Page: https://maxin-cn.github.io/latte_project</p></details> |
-| **[T2VPhysBench: A First-Principles Benchmark for Physical Consistency in Text-to-Video Generation](http://arxiv.org/abs/2505.00337v1)** | 2025-05-01 |  |
-| **[SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference](http://arxiv.org/abs/2502.18137v2)** | 2025-05-01 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets](http://arxiv.org/abs/2412.07775v5)** | 2025-05-06 | <details><summary>Techn...</summary><p>Technical Report (37 pages, 31 figures), Accepted at ICLR 2025</p></details> |
-| **[Paragraph-to-Image Generation with Information-Enriched Diffusion Model](http://arxiv.org/abs/2311.14284v3)** | 2025-05-06 | <details><summary>The p...</summary><p>The project website is at: https://weijiawu.github.io/ParaDiffusionPage/. Code: https://github.com/weijiawu/ParaDiffusion</p></details> |
-| **[Sylvester-Preconditioned Adaptive-Rank Implicit Time Integrators for Advection-Diffusion Equations with Variable Coefficients](http://arxiv.org/abs/2410.19662v2)** | 2025-05-06 |  |
-| **[Bounding Box-Guided Diffusion for Synthesizing Industrial Images and Segmentation Map](http://arxiv.org/abs/2505.03623v1)** | 2025-05-06 | <details><summary>Accep...</summary><p>Accepted at Synthetic Data for Computer Vision Workshop - CVPR 2025</p></details> |
-| **[MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation](http://arxiv.org/abs/2505.02648v2)** | 2025-05-06 |  |
-| **[PAHA: Parts-Aware Audio-Driven Human Animation with Diffusion Model](http://arxiv.org/abs/2505.03603v1)** | 2025-05-06 |  |
-| **[Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking](http://arxiv.org/abs/2505.03507v1)** | 2025-05-06 | <details><summary>Accep...</summary><p>Accepted by the 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)</p></details> |
-| **[AC3D: Analyzing and Improving 3D Camera Control in Video Diffusion Transformers](http://arxiv.org/abs/2411.18673v4)** | 2025-05-06 | <details><summary>CVPR ...</summary><p>CVPR 2025; Project Page: https://snap-research.github.io/ac3d/</p></details> |
-| **[MRI motion correction via efficient residual-guided denoising diffusion probabilistic models](http://arxiv.org/abs/2505.03498v1)** | 2025-05-06 |  |
-| **[FLUX-Text: A Simple and Advanced Diffusion Transformer Baseline for Scene Text Editing](http://arxiv.org/abs/2505.03329v1)** | 2025-05-06 | 9 pages, 4 figures |
-| **[Mamba-Diffusion Model with Learnable Wavelet for Controllable Symbolic Music Generation](http://arxiv.org/abs/2505.03314v1)** | 2025-05-06 |  |
-| **[DiffVQA: Video Quality Assessment Using Diffusion Feature Extractor](http://arxiv.org/abs/2505.03261v1)** | 2025-05-06 |  |
-| **[PiCo: Enhancing Text-Image Alignment with Improved Noise Selection and Precise Mask Control in Diffusion Models](http://arxiv.org/abs/2505.03203v1)** | 2025-05-06 |  |
-| **[Resolving Memorization in Empirical Diffusion Model for Manifold Data in High-Dimensional Spaces](http://arxiv.org/abs/2505.02508v2)** | 2025-05-06 |  |
-| **[ToMCAT: Theory-of-Mind for Cooperative Agents in Teams via Multiagent Diffusion Policies](http://arxiv.org/abs/2502.18438v2)** | 2025-05-06 | <details><summary>Appea...</summary><p>Appears in Proc. of the Adaptive and Learning Agents Workshop (ALA 2025), ala-workshop.github.io</p></details> |
+| **[A Character-based Diffusion Embedding Algorithm for Enhancing the Generation Quality of Generative Linguistic Steganographic Texts](http://arxiv.org/abs/2505.00977v2)** | 2025-05-07 | <details><summary>we ne...</summary><p>we need to clarify authorship and make further revisions in collaboration with co-authors</p></details> |
+| **[Efficiency Meets Fidelity: A Novel Quantization Framework for Stable Diffusion](http://arxiv.org/abs/2412.06661v2)** | 2025-05-07 |  |
+| **[Text2CT: Towards 3D CT Volume Generation from Free-text Descriptions Using Diffusion Model](http://arxiv.org/abs/2505.04522v1)** | 2025-05-07 |  |
+| **[Bayesian computation with generative diffusion models by Multilevel Monte Carlo](http://arxiv.org/abs/2409.15511v3)** | 2025-05-07 | 13 images |
+| **[Illumination and Shadows in Head Rotation: experiments with Denoising Diffusion Models](http://arxiv.org/abs/2308.06057v2)** | 2025-05-07 |  |
+| **[Localized Diffusion Models for High Dimensional Distributions Generation](http://arxiv.org/abs/2505.04417v1)** | 2025-05-07 |  |
+| **[Multi-Robot Motion Planning with Diffusion Models](http://arxiv.org/abs/2410.03072v2)** | 2025-05-07 | <details><summary>The f...</summary><p>The first three authors contributed equally to this work. Published at ICLR 2025</p></details> |
+| **[CountDiffusion: Text-to-Image Synthesis with Training-Free Counting-Guidance Diffusion](http://arxiv.org/abs/2505.04347v1)** | 2025-05-07 | <details><summary>8 pag...</summary><p>8 pages, 9 figures, 3 tables</p></details> |
+| **[Riemannian Denoising Diffusion Probabilistic Models](http://arxiv.org/abs/2505.04338v1)** | 2025-05-07 | 28 pages |
+| **[MoDE: Mixture of Diffusion Experts for Any Occluded Face Recognition](http://arxiv.org/abs/2505.04306v1)** | 2025-05-07 | 8 pages,7 figures |
+| **[TS-Diff: Two-Stage Diffusion Model for Low-Light RAW Image Enhancement](http://arxiv.org/abs/2505.04281v1)** | 2025-05-07 | <details><summary>Inter...</summary><p>International Joint Conference on Neural Networks (IJCNN)</p></details> |
+| **[Non-stationary Diffusion For Probabilistic Time Series Forecasting](http://arxiv.org/abs/2505.04278v1)** | 2025-05-07 | <details><summary>Accep...</summary><p>Accepted as spotlight poster at ICML</p></details> |
+| **[HDiffTG: A Lightweight Hybrid Diffusion-Transformer-GCN Architecture for 3D Human Pose Estimation](http://arxiv.org/abs/2505.04276v1)** | 2025-05-07 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, International Joint Conference on Neural Networks (IJCNN)</p></details> |
+| **[Physics-Informed DeepONets for drift-diffusion on metric graphs: simulation and parameter identification](http://arxiv.org/abs/2505.04263v1)** | 2025-05-07 |  |
+| **[Bridging Geometry-Coherent Text-to-3D Generation with Multi-View Diffusion Priors and Gaussian Splatting](http://arxiv.org/abs/2505.04262v1)** | 2025-05-07 |  |
 
