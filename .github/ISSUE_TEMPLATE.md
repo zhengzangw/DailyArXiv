@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 12, 2025
+title: Latest 15 Papers - May 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,19 +26,19 @@ labels: documentation
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation](http://arxiv.org/abs/2505.05475v1)** | 2025-05-08 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025 SyntaGen Workshop, Project Page: https://yc4ny.github.io/SVAD/</p></details> |
-| **[DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion](http://arxiv.org/abs/2505.05473v1)** | 2025-05-08 | <details><summary>CVPR ...</summary><p>CVPR 2025. Project website: https://qitaozhao.github.io/DiffusionSfM</p></details> |
-| **[Uncertainty Comes for Free: Human-in-the-Loop Policies with Diffusion Models](http://arxiv.org/abs/2503.01876v2)** | 2025-05-08 |  |
-| **[Denoising Diffusion Probabilistic Models for Coastal Inundation Forecasting](http://arxiv.org/abs/2505.05381v1)** | 2025-05-08 |  |
-| **[Finite element approximation for quantitative photoacoustic tomography in a diffusive regime](http://arxiv.org/abs/2505.05361v1)** | 2025-05-08 | 24 pages |
-| **[Rethinking Video Super-Resolution: Towards Diffusion-Based Methods without Motion Alignment](http://arxiv.org/abs/2503.03355v4)** | 2025-05-08 |  |
-| **[Normalize Everything: A Preconditioned Magnitude-Preserving Architecture for Diffusion-Based Speech Enhancement](http://arxiv.org/abs/2505.05216v1)** | 2025-05-08 | <details><summary>Submi...</summary><p>Submitted to WASPAA 2025</p></details> |
-| **[Diffusion Model Quantization: A Review](http://arxiv.org/abs/2505.05215v1)** | 2025-05-08 | 40 pages, 8 figures |
-| **[EAM: Enhancing Anything with Diffusion Transformers for Blind Super-Resolution](http://arxiv.org/abs/2505.05209v1)** | 2025-05-08 |  |
-| **[Overcoming Dimensional Factorization Limits in Discrete Diffusion Models through Quantum Joint Distribution Learning](http://arxiv.org/abs/2505.05151v1)** | 2025-05-08 | Comments are welcome |
-| **[Research on Anomaly Detection Methods Based on Diffusion Models](http://arxiv.org/abs/2505.05137v1)** | 2025-05-08 | 6 pages, 3 table |
-| **[MDAA-Diff: CT-Guided Multi-Dose Adaptive Attention Diffusion Model for PET Denoising](http://arxiv.org/abs/2505.05112v1)** | 2025-05-08 |  |
-| **[MDE-Edit: Masked Dual-Editing for Multi-Object Image Editing via Diffusion Models](http://arxiv.org/abs/2505.05101v1)** | 2025-05-08 | 9 pages, 7 figures |
-| **[ItDPDM: Information-Theoretic Discrete Poisson Diffusion Model](http://arxiv.org/abs/2505.05082v1)** | 2025-05-08 | Pre-print |
-| **[PIDiff: Image Customization for Personalized Identities with Diffusion Models](http://arxiv.org/abs/2505.05081v1)** | 2025-05-08 | 9 pages, 11 figures |
+| **[DiffLocks: Generating 3D Hair from a Single Image using Diffusion Models](http://arxiv.org/abs/2505.06166v1)** | 2025-05-09 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
+| **[Deep Diffusion Maps](http://arxiv.org/abs/2505.06087v1)** | 2025-05-09 |  |
+| **[Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation](http://arxiv.org/abs/2505.06068v1)** | 2025-05-09 | Accepted by CVPR2025 |
+| **[Towards Better Cephalometric Landmark Detection with Diffusion Data Generation](http://arxiv.org/abs/2505.06055v1)** | 2025-05-09 |  |
+| **[Speed-accuracy relations for diffusion models: Wisdom from nonequilibrium thermodynamics and optimal transport](http://arxiv.org/abs/2407.04495v5)** | 2025-05-09 | 37 pages, 9 figures |
+| **[Diffusion piecewise exponential models for survival extrapolation using Piecewise Deterministic Monte Carlo](http://arxiv.org/abs/2505.05932v1)** | 2025-05-09 | <details><summary>25 pa...</summary><p>25 pages (+ references), 8 Figures, 3 Tables</p></details> |
+| **[RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction](http://arxiv.org/abs/2504.14298v2)** | 2025-05-09 | 13 pages, 7 figures |
+| **[Curriculum Direct Preference Optimization for Diffusion and Consistency Models](http://arxiv.org/abs/2405.13637v6)** | 2025-05-09 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025</p></details> |
+| **[A 3D pocket-aware and evolutionary conserved interaction guided diffusion model for molecular optimization](http://arxiv.org/abs/2505.05874v1)** | 2025-05-09 |  |
+| **[Towards Facial Image Compression with Consistency Preserving Diffusion Prior](http://arxiv.org/abs/2505.05870v1)** | 2025-05-09 |  |
+| **[PICD: Versatile Perceptual Image Compression with Diffusion Rendering](http://arxiv.org/abs/2505.05853v1)** | 2025-05-09 | CVPR 2025 |
+| **[Accelerating Diffusion Transformer via Increment-Calibrated Caching with Channel-Aware Singular Value Decomposition](http://arxiv.org/abs/2505.05829v1)** | 2025-05-09 | accepted by CVPR2025 |
+| **[Demystifying Diffusion Policies: Action Memorization and Simple Lookup Table Alternatives](http://arxiv.org/abs/2505.05787v1)** | 2025-05-09 |  |
+| **[Distillation of Discrete Diffusion through Dimensional Correlations](http://arxiv.org/abs/2410.08709v4)** | 2025-05-09 | <details><summary>39 pa...</summary><p>39 pages, ICML 2025 accepted</p></details> |
+| **[Automated Learning of Semantic Embedding Representations for Diffusion Models](http://arxiv.org/abs/2505.05732v1)** | 2025-05-09 | <details><summary>Exten...</summary><p>Extended version of the paper published in SDM25</p></details> |
 
