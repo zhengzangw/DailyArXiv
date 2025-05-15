@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 15, 2025
+title: Latest 15 Papers - May 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generating time-consistent dynamics with discriminator-guided image diffusion models](http://arxiv.org/abs/2505.09089v1)** | 2025-05-14 |  |
+| **[Generative AI for Autonomous Driving: Frontiers and Opportunities](http://arxiv.org/abs/2505.08854v1)** | 2025-05-13 |  |
 | **[VideoUFO: A Million-Scale User-Focused Dataset for Text-to-Video Generation](http://arxiv.org/abs/2503.01739v2)** | 2025-05-13 |  |
 | **[RT-GAN: Recurrent Temporal GAN for Adding Lightweight Temporal Consistency to Frame-Based Domain Translation Approaches](http://arxiv.org/abs/2310.00868v2)** | 2025-05-13 | <details><summary>MICCA...</summary><p>MICCAI 2025 Early Accept. First two authors contributed equally</p></details> |
 | **[AniSora: Exploring the Frontiers of Animation Video Generation in the Sora Era](http://arxiv.org/abs/2412.10255v4)** | 2025-05-13 |  |
@@ -20,25 +22,23 @@ labels: documentation
 | **[HumanDiT: Pose-Guided Diffusion Transformer for Long-form Human Motion Video Generation](http://arxiv.org/abs/2502.04847v4)** | 2025-05-12 | <details><summary>https...</summary><p>https://agnjason.github.io/HumanDiT-page/</p></details> |
 | **[Generative Pre-trained Autoregressive Diffusion Transformer](http://arxiv.org/abs/2505.07344v1)** | 2025-05-12 |  |
 | **[DAPE: Dual-Stage Parameter-Efficient Fine-Tuning for Consistent Video Editing with Diffusion Models](http://arxiv.org/abs/2505.07057v1)** | 2025-05-11 |  |
-| **[BridgeIV: Bridging Customized Image and Video Generation through Test-Time Autoregressive Identity Propagation](http://arxiv.org/abs/2505.06985v1)** | 2025-05-11 |  |
-| **[Jailbreaking the Text-to-Video Generative Models](http://arxiv.org/abs/2505.06679v1)** | 2025-05-10 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HarmoniCa: Harmonizing Training and Inference for Better Feature Caching in Diffusion Transformer Acceleration](http://arxiv.org/abs/2410.01723v5)** | 2025-05-13 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
-| **[Deep Representation Learning for Unsupervised Clustering of Myocardial Fiber Trajectories in Cardiac Diffusion Tensor Imaging](http://arxiv.org/abs/2504.01953v2)** | 2025-05-13 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. An extended journal manuscript is in preparation</p></details> |
-| **[No Other Representation Component Is Needed: Diffusion Transformers Can Provide Representation Guidance by Themselves](http://arxiv.org/abs/2505.02831v3)** | 2025-05-13 | <details><summary>Self-...</summary><p>Self-Representation Alignment for Diffusion Transformers. Code: https://github.com/vvvvvjdy/SRA</p></details> |
-| **[NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance](http://arxiv.org/abs/2505.08712v1)** | 2025-05-13 | 14 pages, 6 figures |
-| **[Diffusion-assisted Model Predictive Control Optimization for Power System Real-Time Operation](http://arxiv.org/abs/2505.08535v1)** | 2025-05-13 | <details><summary>This ...</summary><p>This paper has been accepted by the 2025 IEEE PES General Meeting (PESGM) which will be held in Austin, TX, July.27-31, 2005</p></details> |
-| **[Improving Data Fidelity via Diffusion Model-based Correction and Super resolution](http://arxiv.org/abs/2505.08526v1)** | 2025-05-13 |  |
-| **[Optimized View and Geometry Distillation from Multi-view Diffuser](http://arxiv.org/abs/2312.06198v4)** | 2025-05-13 | <details><summary>IJCAI...</summary><p>IJCAI 2025. Project page: https://youjiazhang.github.io/USD/</p></details> |
-| **[Gaussian Shading++: Rethinking the Realistic Deployment Challenge of Performance-Lossless Image Watermark for Diffusion Models](http://arxiv.org/abs/2504.15026v2)** | 2025-05-13 | 18 pages, 8 figures |
-| **[DiTPainter: Efficient Video Inpainting with Diffusion Transformers](http://arxiv.org/abs/2504.15661v2)** | 2025-05-13 |  |
-| **[TT-DF: A Large-Scale Diffusion-Based Dataset and Benchmark for Human Body Forgery Detection](http://arxiv.org/abs/2505.08437v1)** | 2025-05-13 | <details><summary>Accep...</summary><p>Accepted to PRCV 2024</p></details> |
-| **[DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control](http://arxiv.org/abs/2502.05855v2)** | 2025-05-13 | <details><summary>The w...</summary><p>The webpage is at https://dex-vla.github.io/</p></details> |
-| **[ConDiSim: Conditional Diffusion Models for Simulation Based Inference](http://arxiv.org/abs/2505.08403v1)** | 2025-05-13 |  |
-| **[Diffusion-VLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression](http://arxiv.org/abs/2412.03293v2)** | 2025-05-13 | <details><summary>The p...</summary><p>The project page is available at: http://diffusion-vla.github.io</p></details> |
-| **[CHD: Coupled Hierarchical Diffusion for Long-Horizon Tasks](http://arxiv.org/abs/2505.07261v2)** | 2025-05-13 |  |
-| **[Adaptive Diffusion Policy Optimization for Robotic Manipulation](http://arxiv.org/abs/2505.08376v1)** | 2025-05-13 |  |
+| **[LightLab: Controlling Light Sources in Images with Diffusion Models](http://arxiv.org/abs/2505.09608v1)** | 2025-05-14 | <details><summary>Proje...</summary><p>Project Page: https://nadmag.github.io/LightLab/</p></details> |
+| **[Learning Long-Context Diffusion Policies via Past-Token Prediction](http://arxiv.org/abs/2505.09561v1)** | 2025-05-14 | <details><summary>Video...</summary><p>Videos are available at https://long-context-dp.github.io</p></details> |
+| **[Fragment-Masked Diffusion for Molecular Optimization](http://arxiv.org/abs/2408.09106v3)** | 2025-05-14 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 4 tables</p></details> |
+| **[Train a Multi-Task Diffusion Policy on RLBench-18 in One Day with One GPU](http://arxiv.org/abs/2505.09430v1)** | 2025-05-14 |  |
+| **[Improving Data Fidelity via Diffusion Model-based Correction and Super-Resolution](http://arxiv.org/abs/2505.08526v2)** | 2025-05-14 |  |
+| **[Diffusion Recommender Models and the Illusion of Progress: A Concerning Study of Reproducibility and a Conceptual Mismatch](http://arxiv.org/abs/2505.09364v1)** | 2025-05-14 |  |
+| **[Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis](http://arxiv.org/abs/2505.09358v1)** | 2025-05-14 | <details><summary>Journ...</summary><p>Journal extension of our CVPR 2024 paper, featuring new tasks, improved efficiency, high-resolution capabilities, and enhanced accessibility</p></details> |
+| **[Bayesian computation with generative diffusion models by Multilevel Monte Carlo](http://arxiv.org/abs/2409.15511v4)** | 2025-05-14 | 13 images |
+| **[A Note on Semantic Diffusion](http://arxiv.org/abs/2505.09283v1)** | 2025-05-14 | 8 figures |
+| **[Generalizing imaging biomarker repeatability studies using Bayesian inference: Applications in detecting heterogeneous treatment response in whole-body diffusion-weighted MRI of metastatic prostate cancer](http://arxiv.org/abs/2505.09197v1)** | 2025-05-14 |  |
+| **[Latent Theory of Mind: A Decentralized Diffusion Architecture for Cooperative Manipulation](http://arxiv.org/abs/2505.09144v1)** | 2025-05-14 |  |
+| **[TopoDiT-3D: Topology-Aware Diffusion Transformer with Bottleneck Structure for 3D Point Cloud Generation](http://arxiv.org/abs/2505.09140v1)** | 2025-05-14 |  |
+| **[Diffusion Factor Models: Generating High-Dimensional Returns with Factor Structure](http://arxiv.org/abs/2504.06566v2)** | 2025-05-14 |  |
+| **[Generating time-consistent dynamics with discriminator-guided image diffusion models](http://arxiv.org/abs/2505.09089v1)** | 2025-05-14 |  |
+| **[Signal-based AI-driven software solution for automated quantification of metastatic bone disease and treatment response assessment using Whole-Body Diffusion-Weighted MRI (WB-DWI) biomarkers in Advanced Prostate Cancer](http://arxiv.org/abs/2505.09011v1)** | 2025-05-13 |  |
 
