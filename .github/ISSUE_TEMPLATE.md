@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 02, 2025
+title: Latest 15 Papers - June 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,13 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MiniMax-Remover: Taming Bad Noise Helps Video Object Removal](http://arxiv.org/abs/2505.24873v1)** | 2025-05-30 |  |
+| **[DreamDance: Animating Character Art via Inpainting Stable Gaussian Worlds](http://arxiv.org/abs/2505.24733v1)** | 2025-05-30 |  |
+| **[UniGeo: Taming Video Diffusion for Unified Consistent Geometry Estimation](http://arxiv.org/abs/2505.24521v1)** | 2025-05-30 | <details><summary>Proje...</summary><p>Project page: https://sunyangtian.github.io/UniGeo-web/</p></details> |
+| **[Interactive Video Generation via Domain Adaptation](http://arxiv.org/abs/2505.24253v1)** | 2025-05-30 | <details><summary>Prepr...</summary><p>Preprint. Under Review</p></details> |
+| **[STORK: Improving the Fidelity of Mid-NFE Sampling for Diffusion and Flow Matching Models](http://arxiv.org/abs/2505.24210v1)** | 2025-05-30 |  |
+| **[Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation](http://arxiv.org/abs/2309.15818v3)** | 2025-05-30 | <details><summary>proje...</summary><p>project page is https://showlab.github.io/Show-1</p></details> |
+| **[MTVCrafter: 4D Motion Tokenization for Open-World Human Image Animation](http://arxiv.org/abs/2505.10238v4)** | 2025-05-30 |  |
 | **[MAGREF: Masked Guidance for Any-Reference Video Generation](http://arxiv.org/abs/2505.23742v1)** | 2025-05-29 | <details><summary>Proje...</summary><p>Project website: https://magref-video.github.io/magref.github.io/</p></details> |
 | **[VF-Eval: Evaluating Multimodal LLMs for Generating Feedback on AIGC Videos](http://arxiv.org/abs/2505.23693v1)** | 2025-05-29 | ACL 2025 Main |
 | **[VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models](http://arxiv.org/abs/2505.23656v1)** | 2025-05-29 |  |
@@ -15,30 +22,23 @@ labels: documentation
 | **[DreamForge: Motion-Aware Autoregressive Video Generation for Multi-View Driving Scenes](http://arxiv.org/abs/2409.04003v4)** | 2025-05-29 | <details><summary>15 fi...</summary><p>15 figures, 11 tables</p></details> |
 | **[Dimension-Reduction Attack! Video Generative Models are Experts on Controllable Image Synthesis](http://arxiv.org/abs/2505.23325v1)** | 2025-05-29 |  |
 | **[RoboTransfer: Geometry-Consistent Video Diffusion for Robotic Visual Policy Transfer](http://arxiv.org/abs/2505.23171v1)** | 2025-05-29 | 20 pages, 15 figures |
-| **[Zero4D: Training-Free 4D Video Generation From Single Video Using Off-the-Shelf Video Diffusion](http://arxiv.org/abs/2503.22622v3)** | 2025-05-29 | <details><summary>proje...</summary><p>project page: https://zero4dvid.github.io/</p></details> |
-| **[Zero-to-Hero: Zero-Shot Initialization Empowering Reference-Based Video Appearance Editing](http://arxiv.org/abs/2505.23134v1)** | 2025-05-29 |  |
-| **[MMGT: Motion Mask Guided Two-Stage Network for Co-Speech Gesture Video Generation](http://arxiv.org/abs/2505.23120v1)** | 2025-05-29 |  |
-| **[GeoMan: Temporally Consistent Human Geometry Estimation using Image-to-Video Diffusion](http://arxiv.org/abs/2505.23085v1)** | 2025-05-29 | <details><summary>Proje...</summary><p>Project page: https://research.nvidia.com/labs/dair/geoman</p></details> |
-| **[MOVi: Training-free Text-conditioned Multi-Object Video Generation](http://arxiv.org/abs/2505.22980v1)** | 2025-05-29 |  |
-| **[Minute-Long Videos with Dual Parallelisms](http://arxiv.org/abs/2505.21070v2)** | 2025-05-29 | <details><summary>The c...</summary><p>The code is available at https://github.com/DualParal-Project/DualParal</p></details> |
-| **[HyperMotion: DiT-Based Pose-Guided Human Image Animation of Complex Motions](http://arxiv.org/abs/2505.22977v1)** | 2025-05-29 | 17 pages, 7 figures |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Diffusion Classifiers Understand Compositionality, but Conditions Apply](http://arxiv.org/abs/2505.17955v2)** | 2025-05-29 |  |
-| **[DarkDiff: Advancing Low-Light Raw Enhancement by Retasking Diffusion Models for Camera ISP](http://arxiv.org/abs/2505.23743v1)** | 2025-05-29 |  |
-| **[DiffER: Categorical Diffusion for Chemical Retrosynthesis](http://arxiv.org/abs/2505.23721v1)** | 2025-05-29 | <details><summary>25 pa...</summary><p>25 pages, 3 figures, 3 tables</p></details> |
-| **[BrainMRDiff: A Diffusion Model for Anatomically Consistent Brain MRI Synthesis](http://arxiv.org/abs/2504.04532v2)** | 2025-05-29 |  |
-| **[ImmunoDiff: A Diffusion Model for Immunotherapy Response Prediction in Lung Cancer](http://arxiv.org/abs/2505.23675v1)** | 2025-05-29 |  |
-| **[D-AR: Diffusion via Autoregressive Models](http://arxiv.org/abs/2505.23660v1)** | 2025-05-29 | Technical report |
-| **[Optimization-Free Diffusion Model -- A Perturbation Theory Approach](http://arxiv.org/abs/2505.23652v1)** | 2025-05-29 | 36 pages, 6 figures |
-| **[Inference-time Scaling of Diffusion Models through Classical Search](http://arxiv.org/abs/2505.23614v1)** | 2025-05-29 | <details><summary>Websi...</summary><p>Website at https://diffusion-inference-scaling.github.io/</p></details> |
-| **[Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model](http://arxiv.org/abs/2505.23606v1)** | 2025-05-29 | <details><summary>The c...</summary><p>The code and model are available at https://github.com/M-E-AGI-Lab/Muddit</p></details> |
-| **[Diffusion Sampling Correction via Approximately 10 Parameters](http://arxiv.org/abs/2411.06503v3)** | 2025-05-29 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
-| **[ReassembleNet: Learnable Keypoints and Diffusion for 2D Fresco Reconstruction](http://arxiv.org/abs/2505.21117v2)** | 2025-05-29 |  |
-| **[Broadband Ground Motion Synthesis by Diffusion Model with Minimal Condition](http://arxiv.org/abs/2412.17333v2)** | 2025-05-29 | <details><summary>Accep...</summary><p>Accepted to ICML 2025</p></details> |
-| **[LAFR: Efficient Diffusion-based Blind Face Restoration via Latent Codebook Alignment Adapter](http://arxiv.org/abs/2505.23462v1)** | 2025-05-29 |  |
-| **[Diffusion Guidance Is a Controllable Policy Improvement Operator](http://arxiv.org/abs/2505.23458v1)** | 2025-05-29 |  |
-| **[CryoCCD: Conditional Cycle-consistent Diffusion with Biophysical Modeling for Cryo-EM Synthesis](http://arxiv.org/abs/2505.23444v1)** | 2025-05-29 |  |
+| **[AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion](http://arxiv.org/abs/2505.24877v1)** | 2025-05-30 | <details><summary>Websi...</summary><p>Website: https://nvlabs.github.io/AdaHuman</p></details> |
+| **[Accelerated Sampling from Masked Diffusion Models via Entropy Bounded Unmasking](http://arxiv.org/abs/2505.24857v1)** | 2025-05-30 |  |
+| **[RealDrive: Retrieval-Augmented Driving with Diffusion Models](http://arxiv.org/abs/2505.24808v1)** | 2025-05-30 |  |
+| **[$\textit{Revelio}$: Interpreting and leveraging semantic information in diffusion models](http://arxiv.org/abs/2411.16725v2)** | 2025-05-30 | 15 pages, 14 figures |
+| **[Accelerating Diffusion-based Text-to-Speech Model Training with Dual Modality Alignment](http://arxiv.org/abs/2505.19595v2)** | 2025-05-30 | Interspeech 2025 |
+| **[Diffusion-Based Symbolic Regression](http://arxiv.org/abs/2505.24776v1)** | 2025-05-30 |  |
+| **[Generalization Dynamics of Linear Diffusion Models](http://arxiv.org/abs/2505.24769v1)** | 2025-05-30 |  |
+| **[Autoregression-free video prediction using diffusion model for mitigating error propagation](http://arxiv.org/abs/2505.22111v2)** | 2025-05-30 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 2 tables</p></details> |
+| **[On the Design Fundamentals of Diffusion Models: A Survey](http://arxiv.org/abs/2306.04542v4)** | 2025-05-30 | <details><summary>Accep...</summary><p>Accepted in Pattern Recognition</p></details> |
+| **[One-Step is Enough: Sparse Autoencoders for Text-to-Image Diffusion Models](http://arxiv.org/abs/2410.22366v3)** | 2025-05-30 |  |
+| **[Category-Level 6D Object Pose Estimation in Agricultural Settings Using a Lattice-Deformation Framework and Diffusion-Augmented Synthetic Data](http://arxiv.org/abs/2505.24636v1)** | 2025-05-30 | <details><summary>7 pag...</summary><p>7 pages, 4 figures. Submitted to the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025. This work has been submitted to the IEEE for possible publication</p></details> |
+| **[DiffDecompose: Layer-Wise Decomposition of Alpha-Composited Images via Diffusion Transformers](http://arxiv.org/abs/2505.21541v2)** | 2025-05-30 |  |
+| **[MedDiff-FM: A Diffusion-based Foundation Model for Versatile Medical Image Applications](http://arxiv.org/abs/2410.15432v2)** | 2025-05-30 |  |
+| **[UniGeo: Taming Video Diffusion for Unified Consistent Geometry Estimation](http://arxiv.org/abs/2505.24521v1)** | 2025-05-30 | <details><summary>Proje...</summary><p>Project page: https://sunyangtian.github.io/UniGeo-web/</p></details> |
+| **[Boost-and-Skip: A Simple Guidance-Free Diffusion for Minority Generation](http://arxiv.org/abs/2502.06516v2)** | 2025-05-30 | <details><summary>ICML ...</summary><p>ICML 2025, 29 pages, 11 figures</p></details> |
 
