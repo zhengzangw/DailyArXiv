@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 06, 2025
+title: Latest 15 Papers - June 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LayerFlow: A Unified Model for Layer-aware Video Generation](http://arxiv.org/abs/2506.04228v1)** | 2025-06-04 | <details><summary>Proje...</summary><p>Project Page: https://sihuiji.github.io/LayerFlow-Page/</p></details> |
-| **[UNIC: Unified In-Context Video Editing](http://arxiv.org/abs/2506.04216v1)** | 2025-06-04 | <details><summary>The p...</summary><p>The project page is at \href{https://zixuan-ye.github.io/UNIC}{https://zixuan-ye.github.io/UNIC}</p></details> |
-| **[FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers](http://arxiv.org/abs/2506.04213v1)** | 2025-06-04 |  |
-| **[Data-Juicer Sandbox: A Feedback-Driven Suite for Multimodal Data-Model Co-development](http://arxiv.org/abs/2407.11784v3)** | 2025-06-04 | <details><summary>Accep...</summary><p>Accepted by ICML 2025 (Spotlight). 33 pages, 16 tables, 14 figures</p></details> |
-| **[SViMo: Synchronized Diffusion for Video and Motion Generation in Hand-object Interaction Scenarios](http://arxiv.org/abs/2506.02444v2)** | 2025-06-04 |  |
-| **[FlowMo: Variance-Based Flow Guidance for Coherent Motion in Video Generation](http://arxiv.org/abs/2506.01144v2)** | 2025-06-04 |  |
-| **[Reasoning is All You Need for Video Generalization: A Counterfactual Benchmark with Sub-question Evaluation](http://arxiv.org/abs/2503.10691v2)** | 2025-06-04 | <details><summary>It ha...</summary><p>It has been accepted to the ACL-2025 Findings</p></details> |
-| **[DenseDPO: Fine-Grained Temporal Preference Optimization for Video Diffusion Models](http://arxiv.org/abs/2506.03517v1)** | 2025-06-04 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/DenseDPO/</p></details> |
-| **[ATI: Any Trajectory Instruction for Controllable Video Generation](http://arxiv.org/abs/2505.22944v2)** | 2025-06-03 |  |
-| **[Chipmunk: Training-Free Acceleration of Diffusion Transformers with Dynamic Column-Sparse Deltas](http://arxiv.org/abs/2506.03275v1)** | 2025-06-03 | 10 pages, 4 figures |
-| **[IllumiCraft: Unified Geometry and Illumination Diffusion for Controllable Video Generation](http://arxiv.org/abs/2506.03150v1)** | 2025-06-03 | Tech Report |
-| **[Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval](http://arxiv.org/abs/2506.03141v1)** | 2025-06-03 |  |
-| **[CamCloneMaster: Enabling Reference-based Camera Control for Video Generation](http://arxiv.org/abs/2506.03140v1)** | 2025-06-03 | <details><summary>Proje...</summary><p>Project Page: https://camclonemaster.github.io/</p></details> |
-| **[AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation](http://arxiv.org/abs/2506.03126v1)** | 2025-06-03 | <details><summary>Proje...</summary><p>Project released at: https://qiulu66.github.io/animeshooter/</p></details> |
-| **[DCM: Dual-Expert Consistency Model for Efficient and High-Quality Video Generation](http://arxiv.org/abs/2506.03123v1)** | 2025-06-03 |  |
+| **[Restereo: Diffusion stereo video generation and restoration](http://arxiv.org/abs/2506.06023v1)** | 2025-06-06 | 12 pages, 5 figures |
+| **[SageAttention2++: A More Efficient Implementation of SageAttention2](http://arxiv.org/abs/2505.21136v3)** | 2025-06-06 |  |
+| **[SpargeAttention: Accurate and Training-free Sparse Attention Accelerating Any Model Inference](http://arxiv.org/abs/2502.18137v5)** | 2025-06-06 | <details><summary>@inpr...</summary><p>@inproceedings{zhang2025spargeattn, title={Spargeattn: Accurate sparse attention accelerating any model inference}, author={Zhang, Jintao and Xiang, Chendong and Huang, Haofeng and Wei, Jia and Xi, Haocheng and Zhu, Jun and Chen, Jianfei}, booktitle={International Conference on Machine Learning (ICML)}, year={2025} }</p></details> |
+| **[LLIA -- Enabling Low-Latency Interactive Avatars: Real-Time Audio-Driven Portrait Video Generation with Diffusion Models](http://arxiv.org/abs/2506.05806v1)** | 2025-06-06 |  |
+| **[Astraea: A GPU-Oriented Token-wise Acceleration Framework for Video Diffusion Transformers](http://arxiv.org/abs/2506.05096v2)** | 2025-06-06 |  |
+| **[Ophora: A Large-Scale Data-Driven Text-Guided Ophthalmic Surgical Video Generation Model](http://arxiv.org/abs/2505.07449v4)** | 2025-06-06 | <details><summary>Early...</summary><p>Early accepted in MICCAI25</p></details> |
+| **[TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation](http://arxiv.org/abs/2503.11423v2)** | 2025-06-06 | <details><summary>CVPR ...</summary><p>CVPR 2025; Project Page: https://taste-rob.github.io</p></details> |
+| **[FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion](http://arxiv.org/abs/2506.04648v2)** | 2025-06-06 | <details><summary>Proje...</summary><p>Project Page: https://fps.ziplab.co</p></details> |
+| **[EX-4D: EXtreme Viewpoint 4D Video Synthesis via Depth Watertight Mesh](http://arxiv.org/abs/2506.05554v1)** | 2025-06-05 |  |
+| **[ContentV: Efficient Training of Video Generation Models with Limited Compute](http://arxiv.org/abs/2506.05343v1)** | 2025-06-05 | <details><summary>Proje...</summary><p>Project Page: https://contentv.github.io</p></details> |
+| **[GenLit: Reformulating Single-Image Relighting as Video Generation](http://arxiv.org/abs/2412.11224v2)** | 2025-06-05 |  |
+| **[FEAT: Full-Dimensional Efficient Attention Transformer for Medical Video Generation](http://arxiv.org/abs/2506.04956v1)** | 2025-06-05 | <details><summary>This ...</summary><p>This paper has been early accepted by MICCAI 2025</p></details> |
+| **[DualX-VSR: Dual Axial Spatial$\times$Temporal Transformer for Real-World Video Super-Resolution without Motion Compensation](http://arxiv.org/abs/2506.04830v1)** | 2025-06-05 | 15 pages, 9 figures |
+| **[FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers](http://arxiv.org/abs/2506.04213v2)** | 2025-06-05 |  |
+| **[SViMo: Synchronized Diffusion for Video and Motion Generation in Hand-object Interaction Scenarios](http://arxiv.org/abs/2506.02444v3)** | 2025-06-05 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation](http://arxiv.org/abs/2506.04225v1)** | 2025-06-04 |  |
-| **[FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers](http://arxiv.org/abs/2506.04213v1)** | 2025-06-04 |  |
-| **[Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector](http://arxiv.org/abs/2506.04211v1)** | 2025-06-04 | <details><summary>MM202...</summary><p>MM2024 poster, with appendix and codes</p></details> |
-| **[Image Editing As Programs with Diffusion Models](http://arxiv.org/abs/2506.04158v1)** | 2025-06-04 |  |
-| **[Generalized Diffusion Detector: Mining Robust Features from Diffusion Models for Domain-Generalized Detection](http://arxiv.org/abs/2503.02101v2)** | 2025-06-04 | <details><summary>CVPR2...</summary><p>CVPR2025 camera-ready version with supplementary material</p></details> |
-| **[EnergyMoGen: Compositional Human Motion Generation with Energy-Based Diffusion Model in Latent Space](http://arxiv.org/abs/2412.14706v2)** | 2025-06-04 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025. Project page: https://jiro-zhang.github.io/EnergyMoGen/</p></details> |
-| **[A Diffusion-Driven Temporal Super-Resolution and Spatial Consistency Enhancement Framework for 4D MRI imaging](http://arxiv.org/abs/2506.04116v1)** | 2025-06-04 |  |
-| **[Solving Inverse Problems via Diffusion-Based Priors: An Approximation-Free Ensemble Sampling Approach](http://arxiv.org/abs/2506.03979v1)** | 2025-06-04 | 45 pages |
-| **[Block Alpha-Circulant Preconditioners for All-at-Once Diffusion-Based Covariance Operators](http://arxiv.org/abs/2506.03947v1)** | 2025-06-04 | <details><summary>27 pa...</summary><p>27 pages, 8 figures, 8 Tables</p></details> |
-| **[Diffusing DeBias: Synthetic Bias Amplification for Model Debiasing](http://arxiv.org/abs/2502.09564v4)** | 2025-06-04 | 18 Pages, 9 Figures |
-| **[DiffCAP: Diffusion-based Cumulative Adversarial Purification for Vision Language Models](http://arxiv.org/abs/2506.03933v1)** | 2025-06-04 |  |
-| **[How Compositional Generalization and Creativity Improve as Diffusion Models are Trained](http://arxiv.org/abs/2502.12089v3)** | 2025-06-04 |  |
-| **[SViMo: Synchronized Diffusion for Video and Motion Generation in Hand-object Interaction Scenarios](http://arxiv.org/abs/2506.02444v2)** | 2025-06-04 |  |
-| **[Non-Conforming Structure Preserving Finite Element Method for Doubly Diffusive Flows on Bounded Lipschitz Domains](http://arxiv.org/abs/2403.10282v2)** | 2025-06-04 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2308.02178</p></details> |
-| **[Personalized MR-Informed Diffusion Models for 3D PET Image Reconstruction](http://arxiv.org/abs/2506.03804v1)** | 2025-06-04 | 10 pages, 10 figures |
+| **[Exploring Diffusion Transformer Designs via Grafting](http://arxiv.org/abs/2506.05340v2)** | 2025-06-06 | <details><summary>22 pa...</summary><p>22 pages; Project website: https://grafting.stanford.edu</p></details> |
+| **[Antithetic Noise in Diffusion Models](http://arxiv.org/abs/2506.06185v1)** | 2025-06-06 | <details><summary>43 pa...</summary><p>43 pages, 20 figures, 9 tables</p></details> |
+| **[Efficient Diffusion Models: A Survey](http://arxiv.org/abs/2502.06805v3)** | 2025-06-06 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR-2025)</p></details> |
+| **[Multidimensional Adaptive Coefficient for Inference Trajectory Optimization in Flow and Diffusion](http://arxiv.org/abs/2404.14161v3)** | 2025-06-06 | ICML 2025 Paper |
+| **[Feedback Guidance of Diffusion Models](http://arxiv.org/abs/2506.06085v1)** | 2025-06-06 | <details><summary>Prepr...</summary><p>Preprint. Article currently under review. Code is available at: https://github.com/FelixKoulischer/FBG_using_edm2</p></details> |
+| **[Efficient Fine-Grained Guidance for Diffusion Model Based Symbolic Music Generation](http://arxiv.org/abs/2410.08435v3)** | 2025-06-06 |  |
+| **[Diffusion-Based Hierarchical Graph Neural Networks for Simulating Nonlinear Solid Mechanics](http://arxiv.org/abs/2506.06045v1)** | 2025-06-06 |  |
+| **[HAVIR: HierArchical Vision to Image Reconstruction using CLIP-Guided Versatile Diffusion](http://arxiv.org/abs/2506.06035v1)** | 2025-06-06 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 3 tabs</p></details> |
+| **[Sample-Specific Noise Injection For Diffusion-Based Adversarial Purification](http://arxiv.org/abs/2506.06027v1)** | 2025-06-06 |  |
+| **[Restereo: Diffusion stereo video generation and restoration](http://arxiv.org/abs/2506.06023v1)** | 2025-06-06 | 12 pages, 5 figures |
+| **[Optimization-Free Universal Watermark Forgery with Regenerative Diffusion Models](http://arxiv.org/abs/2506.06018v1)** | 2025-06-06 |  |
+| **[Diffusion Policies for Out-of-Distribution Generalization in Offline Reinforcement Learning](http://arxiv.org/abs/2307.04726v4)** | 2025-06-06 | <details><summary>Publi...</summary><p>Published in IEEE RA-L with IROS presentation option (2024 IEEE/RSJ International Conference on Intelligent Robots and Systems), 8 pages, 7 figures</p></details> |
+| **[AQUATIC-Diff: Additive Quantization for Truly Tiny Compressed Diffusion Models](http://arxiv.org/abs/2506.05960v1)** | 2025-06-06 |  |
+| **[FADE: Frequency-Aware Diffusion Model Factorization for Video Editing](http://arxiv.org/abs/2506.05934v1)** | 2025-06-06 | <details><summary>Accep...</summary><p>Accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025</p></details> |
+| **[UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control](http://arxiv.org/abs/2502.05749v5)** | 2025-06-06 |  |
 
