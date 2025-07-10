@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 10, 2025
+title: Latest 15 Papers - July 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TIP-I2V: A Million-Scale Real Text and Image Prompt Dataset for Image-to-Video Generation](http://arxiv.org/abs/2411.04709v2)** | 2025-07-09 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
+| **[LongAnimation: Long Animation Generation with Dynamic Global-Local Memory](http://arxiv.org/abs/2507.01945v2)** | 2025-07-09 |  |
+| **[Physics-Grounded Motion Forecasting via Equation Discovery for Trajectory-Guided Image-to-Video Generation](http://arxiv.org/abs/2507.06830v1)** | 2025-07-09 |  |
+| **[Democratizing High-Fidelity Co-Speech Gesture Video Generation](http://arxiv.org/abs/2507.06812v1)** | 2025-07-09 | ICCV 2025 |
+| **[Omni-Video: Democratizing Unified Video Understanding and Generation](http://arxiv.org/abs/2507.06119v2)** | 2025-07-09 | <details><summary>Techn...</summary><p>Technical report, project page: https://howellyoung-s.github.io/OmniVideo_project/</p></details> |
+| **[PromptTea: Let Prompts Tell TeaCache the Optimal Threshold](http://arxiv.org/abs/2507.06739v1)** | 2025-07-09 |  |
+| **[ReCamMaster: Camera-Controlled Generative Rendering from A Single Video](http://arxiv.org/abs/2503.11647v2)** | 2025-07-09 | <details><summary>Proje...</summary><p>Project page: https://jianhongbai.github.io/ReCamMaster/</p></details> |
+| **[Tora2: Motion and Appearance Customized Diffusion Transformer for Multi-Entity Video Generation](http://arxiv.org/abs/2507.05963v2)** | 2025-07-09 | <details><summary>ACM M...</summary><p>ACM MM25 Conference Proceedings</p></details> |
+| **[FIFA: Unified Faithfulness Evaluation Framework for Text-to-Video and Video-to-Text Generation](http://arxiv.org/abs/2507.06523v1)** | 2025-07-09 |  |
 | **[Bridging Sequential Deep Operator Network and Video Diffusion: Residual Refinement of Spatio-Temporal PDE Solutions](http://arxiv.org/abs/2507.06133v1)** | 2025-07-08 |  |
-| **[Omni-Video: Democratizing Unified Video Understanding and Generation](http://arxiv.org/abs/2507.06119v1)** | 2025-07-08 | <details><summary>Techn...</summary><p>Technical report, project page: https://sais-fuxi.github.io/Omni-Video/</p></details> |
-| **[Tora2: Motion and Appearance Customized Diffusion Transformer for Multi-Entity Video Generation](http://arxiv.org/abs/2507.05963v1)** | 2025-07-08 | <details><summary>ACM M...</summary><p>ACM MM25 Conference Proceedings</p></details> |
 | **[Towards Stabilized and Efficient Diffusion Transformers through Long-Skip-Connections with Spectral Constraints](http://arxiv.org/abs/2411.17616v4)** | 2025-07-08 | 17 pages, 8 figures |
 | **[MedGen: Unlocking Medical Video Generation by Scaling Granularly-annotated Medical Videos](http://arxiv.org/abs/2507.05675v1)** | 2025-07-08 |  |
 | **[MALT Diffusion: Memory-Augmented Latent Transformers for Any-Length Video Generation](http://arxiv.org/abs/2502.12632v3)** | 2025-07-08 | <details><summary>CVPR ...</summary><p>CVPR 2025 Workshop on AI for Content Creation (Oral)</p></details> |
 | **[StreamDiT: Real-Time Streaming Text-to-Video Generation](http://arxiv.org/abs/2507.03745v2)** | 2025-07-08 |  |
 | **[HV-MMBench: Benchmarking MLLMs for Human-Centric Video Understanding](http://arxiv.org/abs/2507.04909v1)** | 2025-07-07 | Under review |
-| **[UniForm: A Unified Multi-Task Diffusion Transformer for Audio-Video Generation](http://arxiv.org/abs/2502.03897v5)** | 2025-07-07 | <details><summary>Our d...</summary><p>Our demos are available at https://uniform-t2av.github.io/</p></details> |
-| **[Music2Palette: Emotion-aligned Color Palette Generation via Cross-Modal Representation Learning](http://arxiv.org/abs/2507.04758v1)** | 2025-07-07 |  |
-| **[Identity-Preserving Text-to-Video Generation Guided by Simple yet Effective Spatial-Temporal Decoupled Representations](http://arxiv.org/abs/2507.04705v1)** | 2025-07-07 |  |
-| **[Enhancing Long Video Generation Consistency without Tuning](http://arxiv.org/abs/2412.17254v2)** | 2025-07-07 | <details><summary>ICML ...</summary><p>ICML 2025 Workshop on Building Physically Plausible World Models (Best Paper), 32 pages, 17 figures</p></details> |
-| **[MambaVideo for Discrete Video Tokenization with Channel-Split Quantization](http://arxiv.org/abs/2507.04559v1)** | 2025-07-06 | <details><summary>Proje...</summary><p>Project website: https://research.nvidia.com/labs/dir/mamba-tokenizer/</p></details> |
-| **[CLIP-RL: Surgical Scene Segmentation Using Contrastive Language-Vision Pretraining & Reinforcement Learning](http://arxiv.org/abs/2507.04317v1)** | 2025-07-06 |  |
-| **[PresentAgent: Multimodal Agent for Presentation Video Generation](http://arxiv.org/abs/2507.04036v1)** | 2025-07-05 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Normalizing Diffusion Kernels with Optimal Transport](http://arxiv.org/abs/2507.06161v1)** | 2025-07-08 | 33 pages, 25 figures |
-| **[Prompt-Free Conditional Diffusion for Multi-object Image Augmentation](http://arxiv.org/abs/2507.06146v1)** | 2025-07-08 | <details><summary>Accep...</summary><p>Accepted at IJCAI 2025</p></details> |
-| **[Bridging Sequential Deep Operator Network and Video Diffusion: Residual Refinement of Spatio-Temporal PDE Solutions](http://arxiv.org/abs/2507.06133v1)** | 2025-07-08 |  |
-| **[Unconditional Diffusion for Generative Sequential Recommendation](http://arxiv.org/abs/2507.06121v1)** | 2025-07-08 |  |
-| **[ScoreAdv: Score-based Targeted Generation of Natural Adversarial Examples via Diffusion Models](http://arxiv.org/abs/2507.06078v1)** | 2025-07-08 |  |
-| **[OMR-Diffusion:Optimizing Multi-Round Enhanced Training in Diffusion Models for Improved Intent Understanding](http://arxiv.org/abs/2503.17660v3)** | 2025-07-08 |  |
-| **[UniCombine: Unified Multi-Conditional Combination with Diffusion Transformer](http://arxiv.org/abs/2503.09277v2)** | 2025-07-08 |  |
-| **[TextPixs: Glyph-Conditioned Diffusion with Character-Aware Attention and OCR-Guided Supervision](http://arxiv.org/abs/2507.06033v1)** | 2025-07-08 | 30 pages |
-| **[Scalable Discrete Diffusion Samplers: Combinatorial Optimization and Statistical Physics](http://arxiv.org/abs/2502.08696v3)** | 2025-07-08 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025</p></details> |
-| **[Isoparametric finite element methods for mean curvature flow and surface diffusion](http://arxiv.org/abs/2503.10774v2)** | 2025-07-08 | 29 pages, 19 figures |
-| **[T-LoRA: Single Image Diffusion Model Customization Without Overfitting](http://arxiv.org/abs/2507.05964v1)** | 2025-07-08 |  |
-| **[Tora2: Motion and Appearance Customized Diffusion Transformer for Multi-Entity Video Generation](http://arxiv.org/abs/2507.05963v1)** | 2025-07-08 | <details><summary>ACM M...</summary><p>ACM MM25 Conference Proceedings</p></details> |
-| **[Nonisotropic Gaussian Diffusion for Realistic 3D Human Motion Prediction](http://arxiv.org/abs/2501.06035v3)** | 2025-07-08 | <details><summary>CVPR ...</summary><p>CVPR 2025. Code availabe at https://ceveloper.github.io/publications/skeletondiffusion</p></details> |
-| **[Diffusion Dataset Condensation: Training Your Diffusion Model Faster with Less Data](http://arxiv.org/abs/2507.05914v1)** | 2025-07-08 | <details><summary>Iintr...</summary><p>Iintroduces D2C: a novel framework for diffusion dataset condensation</p></details> |
-| **[Iterative Importance Fine-tuning of Diffusion Models](http://arxiv.org/abs/2502.04468v2)** | 2025-07-08 |  |
+| **[Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor](http://arxiv.org/abs/2507.07106v1)** | 2025-07-09 | <details><summary>Websi...</summary><p>Website: see https://vatsalag99.github.io/mustafar/</p></details> |
+| **[Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models](http://arxiv.org/abs/2507.07104v1)** | 2025-07-09 |  |
+| **[Exact Evaluation of the Accuracy of Diffusion Models for Inverse Problems with Gaussian Data Distributions](http://arxiv.org/abs/2507.07008v1)** | 2025-07-09 |  |
+| **[Multi-Modality Conditioned Variational U-Net for Field-of-View Extension in Brain Diffusion MRI](http://arxiv.org/abs/2409.13846v2)** | 2025-07-09 |  |
+| **[Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting](http://arxiv.org/abs/2507.06971v1)** | 2025-07-09 | <details><summary>The s...</summary><p>The source code will be publicly available at https://github.com/Bryant-Teng/Percep360</p></details> |
+| **[Some remarks on a mathematical model for water flow in porous media with competition between transport and diffusion](http://arxiv.org/abs/2405.10751v2)** | 2025-07-09 | 8 pages |
+| **[Nonparametric Bayesian Inference for Stochastic Reaction-Diffusion Equations](http://arxiv.org/abs/2507.06857v1)** | 2025-07-09 |  |
+| **[DiffSpectra: Molecular Structure Elucidation from Spectra using Diffusion Models](http://arxiv.org/abs/2507.06853v1)** | 2025-07-09 |  |
+| **[Sparse Autoencoder as a Zero-Shot Classifier for Concept Erasing in Text-to-Image Diffusion Models](http://arxiv.org/abs/2503.09446v3)** | 2025-07-09 | 25 pages |
+| **[Robust Deep Network Learning of Nonlinear Regression Tasks by Parametric Leaky Exponential Linear Units (LELUs) and a Diffusion Metric](http://arxiv.org/abs/2507.06765v1)** | 2025-07-09 |  |
+| **[DIFFUMA: High-Fidelity Spatio-Temporal Video Prediction via Dual-Path Mamba and Diffusion Enhancement](http://arxiv.org/abs/2507.06738v1)** | 2025-07-09 |  |
+| **[Spatial-Temporal Aware Visuomotor Diffusion Policy Learning](http://arxiv.org/abs/2507.06710v1)** | 2025-07-09 |  |
+| **[Latent Action Diffusion for Cross-Embodiment Manipulation](http://arxiv.org/abs/2506.14608v2)** | 2025-07-09 | 15 pages, 7 figures |
+| **[Enhancing Diffusion Model Stability for Image Restoration via Gradient Management](http://arxiv.org/abs/2507.06656v1)** | 2025-07-09 | <details><summary>Accep...</summary><p>Accepted to ACM Multimedia 2025. Preprint version</p></details> |
+| **[Diff$^2$I2P: Differentiable Image-to-Point Cloud Registration with Diffusion Prior](http://arxiv.org/abs/2507.06651v1)** | 2025-07-09 | ICCV 2025 |
 
