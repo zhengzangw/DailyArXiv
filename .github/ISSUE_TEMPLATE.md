@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 17, 2025
+title: Latest 15 Papers - July 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,19 +26,19 @@ labels: documentation
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air](http://arxiv.org/abs/2507.11515v1)** | 2025-07-15 | 11 pages, 8 figures |
-| **[QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning](http://arxiv.org/abs/2402.03666v6)** | 2025-07-15 | <details><summary>ICCV ...</summary><p>ICCV 2025. Code is available at https://github.com/hatchetProject/QuEST</p></details> |
-| **[RA-DP: Rapid Adaptive Diffusion Policy for Training-Free High-frequency Robotics Replanning](http://arxiv.org/abs/2503.04051v2)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025</p></details> |
-| **[Text Embedding Knows How to Quantize Text-Guided Diffusion Models](http://arxiv.org/abs/2507.10340v2)** | 2025-07-15 | ICCV 2025 |
-| **[Diffusion-Based Imaginative Coordination for Bimanual Manipulation](http://arxiv.org/abs/2507.11296v1)** | 2025-07-15 | <details><summary>15 pa...</summary><p>15 pages, including 10 figures and 16 tables. Accepted at ICCV 2025</p></details> |
-| **[Ocean Diviner: A Diffusion-Augmented Reinforcement Learning for AUV Robust Control in the Underwater Tasks](http://arxiv.org/abs/2507.11283v1)** | 2025-07-15 |  |
-| **[Convergence of a finite-volume scheme for aggregation-diffusion equations with saturation](http://arxiv.org/abs/2507.11132v1)** | 2025-07-15 |  |
-| **[The Devil behind the mask: An emergent safety vulnerability of Diffusion LLMs](http://arxiv.org/abs/2507.11097v1)** | 2025-07-15 | <details><summary>21 pa...</summary><p>21 pages, 9 figures, work in progress</p></details> |
-| **[FA-Seg: A Fast and Accurate Diffusion-Based Method for Open-Vocabulary Segmentation](http://arxiv.org/abs/2506.23323v3)** | 2025-07-15 |  |
-| **[Human-Guided Shade Artifact Suppression in CBCT-to-MDCT Translation via Schrödinger Bridge with Conditional Diffusion](http://arxiv.org/abs/2507.11025v1)** | 2025-07-15 |  |
-| **[Sim2Real Diffusion: Learning Cross-Domain Adaptive Representations for Transferable Autonomous Driving](http://arxiv.org/abs/2507.00236v2)** | 2025-07-15 |  |
-| **[Diffusion Decoding for Peptide De Novo Sequencing](http://arxiv.org/abs/2507.10955v1)** | 2025-07-15 |  |
-| **[Visually grounded emotion regulation via diffusion models and user-driven reappraisal](http://arxiv.org/abs/2507.10861v1)** | 2025-07-14 |  |
-| **[Nadaraya-Watson Type Estimator of the Transition Density Function for Diffusion Processes](http://arxiv.org/abs/2502.14498v2)** | 2025-07-14 | 21 pages, 4 figures |
-| **[Structure-Guided Diffusion Models for High-Fidelity Portrait Shadow Removal](http://arxiv.org/abs/2507.04692v2)** | 2025-07-14 | Accepted by ICCV2025 |
+| **[Diffused Responsibility: Analyzing the Energy Consumption of Generative Text-to-Audio Diffusion Models](http://arxiv.org/abs/2505.07615v2)** | 2025-07-16 | <details><summary>Accep...</summary><p>Accepted at WASPAA 2025</p></details> |
+| **[Unsupervised Monocular 3D Keypoint Discovery from Multi-View Diffusion Priors](http://arxiv.org/abs/2507.12336v1)** | 2025-07-16 |  |
+| **[Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models](http://arxiv.org/abs/2507.12318v1)** | 2025-07-16 | <details><summary>In su...</summary><p>In submission, 22 pages, 7 tables, 12 figures</p></details> |
+| **[LiDPM: Rethinking Point Diffusion for Lidar Scene Completion](http://arxiv.org/abs/2504.17791v2)** | 2025-07-16 | <details><summary>Accep...</summary><p>Accepted to IEEE IV 2025 (Oral); v2 - updated quantitative results based on the metrics (Voxel IoU) calculation code corrections</p></details> |
+| **[RODS: Robust Optimization Inspired Diffusion Sampling for Detecting and Reducing Hallucination in Generative Models](http://arxiv.org/abs/2507.12201v1)** | 2025-07-16 |  |
+| **[RadioDiff-3D: A 3D$\times$3D Radio Map Dataset and Generative Diffusion Based Benchmark for 6G Environment-Aware Communication](http://arxiv.org/abs/2507.12166v1)** | 2025-07-16 |  |
+| **[SmokeSVD: Smoke Reconstruction from A Single View via Progressive Novel View Synthesis and Refinement with Diffusion Models](http://arxiv.org/abs/2507.12156v1)** | 2025-07-16 |  |
+| **[Bridging the Skeleton-Text Modality Gap: Diffusion-Powered Modality Alignment for Zero-shot Skeleton-based Action Recognition](http://arxiv.org/abs/2411.10745v4)** | 2025-07-16 | <details><summary>ICCV ...</summary><p>ICCV 2025 (camera-ready version). Please visit our project page at https://kaist-viclab.github.io/TDSM_site/</p></details> |
+| **[Contrastive Cascade Graph Learning for Classifying Real and Synthetic Information Diffusion Patterns](http://arxiv.org/abs/2507.12063v1)** | 2025-07-16 |  |
+| **[Boost 3D Reconstruction using Diffusion-based Monocular Camera Calibration](http://arxiv.org/abs/2411.17240v2)** | 2025-07-16 |  |
+| **[DeltaDiff: Reality-Driven Diffusion with AnchorResiduals for Faithful SR](http://arxiv.org/abs/2502.12567v2)** | 2025-07-16 |  |
+| **[Robust Planning for Autonomous Vehicles with Diffusion-Based Failure Samplers](http://arxiv.org/abs/2507.11991v1)** | 2025-07-16 |  |
+| **[EC-Diff: Fast and High-Quality Edge-Cloud Collaborative Inference for Diffusion Models](http://arxiv.org/abs/2507.11980v1)** | 2025-07-16 | 21 pages, 8 figures |
+| **[TextDestroyer: A Training- and Annotation-Free Diffusion Method for Destroying Anomal Text from Images](http://arxiv.org/abs/2411.00355v3)** | 2025-07-16 |  |
+| **[Similarity-Guided Diffusion for Contrastive Sequential Recommendation](http://arxiv.org/abs/2507.11866v1)** | 2025-07-16 | 14 pages, 5 figures |
 
