@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 25, 2025
+title: Latest 15 Papers - July 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scaling RL to Long Videos](http://arxiv.org/abs/2507.07966v2)** | 2025-07-24 | <details><summary>Code ...</summary><p>Code at https://github.com/NVlabs/Long-RL and model at https://huggingface.co/Efficient-Large-Model/LongVILA-R1-7B</p></details> |
+| **[Iwin Transformer: Hierarchical Vision Transformer using Interleaved Windows](http://arxiv.org/abs/2507.18405v1)** | 2025-07-24 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence</p></details> |
+| **[ToonifyGB: StyleGAN-based Gaussian Blendshapes for 3D Stylized Head Avatars](http://arxiv.org/abs/2505.10072v2)** | 2025-07-24 |  |
+| **[T2VWorldBench: A Benchmark for Evaluating World Knowledge in Text-to-Video Generation](http://arxiv.org/abs/2507.18107v1)** | 2025-07-24 |  |
+| **[History-Guided Video Diffusion](http://arxiv.org/abs/2502.06764v2)** | 2025-07-24 | <details><summary>ICML ...</summary><p>ICML 2025. Project website: https://boyuan.space/history-guidance</p></details> |
+| **[Enhancing Scene Transition Awareness in Video Generation via Post-Training](http://arxiv.org/abs/2507.18046v1)** | 2025-07-24 |  |
+| **[Celeb-DF++: A Large-scale Challenging Video DeepFake Benchmark for Generalizable Forensics](http://arxiv.org/abs/2507.18015v1)** | 2025-07-24 | <details><summary>https...</summary><p>https://github.com/OUC-VAS/Celeb-DF-PP</p></details> |
+| **[Zero-Shot Dynamic Concept Personalization with Grid-Based LoRA](http://arxiv.org/abs/2507.17963v1)** | 2025-07-23 | <details><summary>Proje...</summary><p>Project Page and Video : https://snap-research.github.io/zero-shot-dynamic-concepts/</p></details> |
+| **[Bob's Confetti: Phonetic Memorization Attacks in Music and Video Generation](http://arxiv.org/abs/2507.17937v1)** | 2025-07-23 |  |
 | **[Yume: An Interactive World Generation Model](http://arxiv.org/abs/2507.17744v1)** | 2025-07-23 |  |
 | **[Towards Generalist Robot Learning from Internet Video: A Survey](http://arxiv.org/abs/2404.19664v5)** | 2025-07-23 |  |
 | **[EndoGen: Conditional Autoregressive Endoscopic Video Generation](http://arxiv.org/abs/2507.17388v1)** | 2025-07-23 | MICCAI 2025 |
 | **[Qffusion: Controllable Portrait Video Editing via Quadrant-Grid Attention Learning](http://arxiv.org/abs/2501.06438v2)** | 2025-07-23 | 19 pages |
 | **[Human-Activity AGV Quality Assessment: A Benchmark Dataset and an Objective Evaluation Metric](http://arxiv.org/abs/2411.16619v3)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted by ACMMM 2025</p></details> |
 | **[MotionShot: Adaptive Motion Transfer across Arbitrary Objects for Text-to-Video Generation](http://arxiv.org/abs/2507.16310v1)** | 2025-07-22 |  |
-| **[Controllable Video Generation: A Survey](http://arxiv.org/abs/2507.16869v1)** | 2025-07-22 | <details><summary>proje...</summary><p>project page: https://github.com/mayuelala/Awesome-Controllable-Video-Generation</p></details> |
-| **[PUSA V1.0: Surpassing Wan-I2V with $500 Training Cost by Vectorized Timestep Adaptation](http://arxiv.org/abs/2507.16116v1)** | 2025-07-22 | <details><summary>Code ...</summary><p>Code is open-sourced at https://github.com/Yaofang-Liu/Pusa-VidGen</p></details> |
-| **[Can Your Model Separate Yolks with a Water Bottle? Benchmarking Physical Commonsense Understanding in Video Generation Models](http://arxiv.org/abs/2507.15824v1)** | 2025-07-21 |  |
-| **[TokensGen: Harnessing Condensed Tokens for Long Video Generation](http://arxiv.org/abs/2507.15728v1)** | 2025-07-21 | <details><summary>Proje...</summary><p>Project page: https://vicky0522.github.io/tokensgen-webpage/</p></details> |
-| **[Conditional Video Generation for High-Efficiency Video Compression](http://arxiv.org/abs/2507.15269v1)** | 2025-07-21 |  |
-| **[Free-Form Motion Control: Controlling the 6D Poses of Camera and Objects in Video Generation](http://arxiv.org/abs/2501.01425v3)** | 2025-07-20 | <details><summary>ICCV ...</summary><p>ICCV 2025, Project Page: https://henghuiding.github.io/SynFMC/</p></details> |
-| **[DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization](http://arxiv.org/abs/2505.02192v2)** | 2025-07-20 | Accepted by ICCV2025 |
-| **[EEGVid: Dynamic Vision from EEG Brain Recordings, How much does EEG know?](http://arxiv.org/abs/2505.21385v2)** | 2025-07-19 |  |
-| **[BusterX++: Towards Unified Cross-Modal AI-Generated Content Detection and Explanation with MLLM](http://arxiv.org/abs/2507.14632v1)** | 2025-07-19 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Diffusion Factor Models: Generating High-Dimensional Returns with Factor Structure](http://arxiv.org/abs/2504.06566v4)** | 2025-07-23 |  |
-| **[Att-Adapter: A Robust and Precise Domain-Specific Multi-Attributes T2I Diffusion Adapter via Conditional Variational Autoencoder](http://arxiv.org/abs/2503.11937v3)** | 2025-07-23 | <details><summary>ICCV'...</summary><p>ICCV'25, The project page is available at https://tri-mac.github.io/att-adapter/</p></details> |
-| **[ORL-LDM: Offline Reinforcement Learning Guided Latent Diffusion Model Super-Resolution Reconstruction](http://arxiv.org/abs/2505.10027v2)** | 2025-07-23 | <details><summary>This ...</summary><p>This submission included authors who did not consent to the submission. The paper is being withdrawn until authorship issues are resolved</p></details> |
-| **[Context Diffusion: In-Context Aware Image Generation](http://arxiv.org/abs/2312.03584v2)** | 2025-07-23 |  |
-| **[Text2Stereo: Repurposing Stable Diffusion for Stereo Generation with Consistency Rewards](http://arxiv.org/abs/2506.05367v2)** | 2025-07-23 |  |
-| **[Channel Estimation for RIS-Assisted mmWave Systems via Diffusion Models](http://arxiv.org/abs/2506.07770v2)** | 2025-07-23 | 5 pages |
-| **[Accelerating Parallel Diffusion Model Serving with Residual Compression](http://arxiv.org/abs/2507.17511v1)** | 2025-07-23 |  |
-| **[Leveraging Diffusion Models for Parameterized Quantum Circuit Generation](http://arxiv.org/abs/2505.20863v3)** | 2025-07-23 | <details><summary>This ...</summary><p>This work has been accepted for presentation at IEEE Quantum Week 2025: IEEE International Conference on Quantum Computing and Engineering (QCE)</p></details> |
-| **[PoemTale Diffusion: Minimising Information Loss in Poem to Image Generation with Multi-Stage Prompt Refinement](http://arxiv.org/abs/2507.13708v2)** | 2025-07-23 | ECAI 2025 |
-| **[JEDI: The Force of Jensen-Shannon Divergence in Disentangling Diffusion Models](http://arxiv.org/abs/2505.19166v2)** | 2025-07-23 |  |
-| **[Diffusion-Guided Knowledge Distillation for Weakly-Supervised Low-Light Semantic Segmentation](http://arxiv.org/abs/2507.07578v2)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted by ACM Multimedia</p></details> |
-| **[SegQuant: A Semantics-Aware and Generalizable Quantization Framework for Diffusion Models](http://arxiv.org/abs/2507.14811v2)** | 2025-07-23 |  |
-| **[PolarAnything: Diffusion-based Polarimetric Image Synthesis](http://arxiv.org/abs/2507.17268v1)** | 2025-07-23 | 11 pages |
-| **[MoDA: Multi-modal Diffusion Architecture for Talking Head Generation](http://arxiv.org/abs/2507.03256v2)** | 2025-07-23 | 12 pages, 7 figures |
-| **[Latent Diffusion Models with Masked AutoEncoders](http://arxiv.org/abs/2507.09984v2)** | 2025-07-23 |  |
+| **[Diffusion Beats Autoregressive in Data-Constrained Settings](http://arxiv.org/abs/2507.15857v2)** | 2025-07-24 | <details><summary>Proje...</summary><p>Project Webpage: https://diffusion-scaling.github.io</p></details> |
+| **[Demystify Protein Generation with Hierarchical Conditional Diffusion Models](http://arxiv.org/abs/2507.18603v1)** | 2025-07-24 |  |
+| **[Adversarial Distribution Matching for Diffusion Distillation Towards Efficient Image and Video Synthesis](http://arxiv.org/abs/2507.18569v1)** | 2025-07-24 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025 (Highlight)</p></details> |
+| **[Elucidating the Design Space of Arbitrary-Noise-Based Diffusion Models](http://arxiv.org/abs/2507.18534v1)** | 2025-07-24 | 21 pages, 4 figures |
+| **[Diffuse and Disperse: Image Generation with Representation Regularization](http://arxiv.org/abs/2506.09027v2)** | 2025-07-24 |  |
+| **[DIFFA: Large Language Diffusion Models Can Listen and Understand](http://arxiv.org/abs/2507.18452v1)** | 2025-07-24 |  |
+| **[Att-Adapter: A Robust and Precise Domain-Specific Multi-Attributes T2I Diffusion Adapter via Conditional Variational Autoencoder](http://arxiv.org/abs/2503.11937v4)** | 2025-07-24 | <details><summary>ICCV'...</summary><p>ICCV'25 (Highlight), The project page is available at https://tri-mac.github.io/att-adapter/</p></details> |
+| **[A Comprehensive Review of Diffusion Models in Smart Agriculture: Progress, Applications, and Challenges](http://arxiv.org/abs/2507.18376v1)** | 2025-07-24 |  |
+| **[UniSegDiff: Boosting Unified Lesion Segmentation via a Staged Diffusion Model](http://arxiv.org/abs/2507.18362v1)** | 2025-07-24 | MICCAI2025 |
+| **[Variational inference for pile-up removal at hadron colliders with diffusion models](http://arxiv.org/abs/2410.22074v2)** | 2025-07-24 | 19 pages, 13 figures |
+| **[Inversion-DPO: Precise and Efficient Post-Training for Diffusion Models](http://arxiv.org/abs/2507.11554v3)** | 2025-07-24 | Accepted by ACM MM25 |
+| **[Exploiting Gaussian Agnostic Representation Learning with Diffusion Priors for Enhanced Infrared Small Target Detection](http://arxiv.org/abs/2507.18260v1)** | 2025-07-24 | <details><summary>Submi...</summary><p>Submitted to Neural Networks. We propose the Gaussian Group Squeezer, leveraging Gaussian sampling and compression with diffusion models for channel-based data augmentation</p></details> |
+| **[Distilling Diffusion Models to Efficient 3D LiDAR Scene Completion](http://arxiv.org/abs/2412.03515v2)** | 2025-07-24 | <details><summary>This ...</summary><p>This paper is accept by ICCV'25(Oral), the model and code are publicly available on https: //github.com/happyw1nd/ScoreLiDAR</p></details> |
+| **[LEAF: Latent Diffusion with Efficient Encoder Distillation for Aligned Features in Medical Image Segmentation](http://arxiv.org/abs/2507.18214v1)** | 2025-07-24 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2025</p></details> |
+| **[Degradation-Consistent Learning via Bidirectional Diffusion for Low-Light Image Enhancement](http://arxiv.org/abs/2507.18144v1)** | 2025-07-24 | 10page |
 
