@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 28, 2025
+title: Latest 15 Papers - July 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes](http://arxiv.org/abs/2405.14475v4)** | 2025-07-25 | <details><summary>Proje...</summary><p>Project Page: https://flymin.github.io/magicdrive3d</p></details> |
+| **[MagicDrive-V2: High-Resolution Long Video Generation for Autonomous Driving with Adaptive Control](http://arxiv.org/abs/2411.13807v4)** | 2025-07-25 | <details><summary>ICCV ...</summary><p>ICCV 2025 camera-ready version, Project Website: https://flymin.github.io/magicdrive-v2/</p></details> |
+| **[Bridging Sequential Deep Operator Network and Video Diffusion: Residual Refinement of Spatio-Temporal PDE Solutions](http://arxiv.org/abs/2507.06133v2)** | 2025-07-24 |  |
 | **[Scaling RL to Long Videos](http://arxiv.org/abs/2507.07966v2)** | 2025-07-24 | <details><summary>Code ...</summary><p>Code at https://github.com/NVlabs/Long-RL and model at https://huggingface.co/Efficient-Large-Model/LongVILA-R1-7B</p></details> |
 | **[Iwin Transformer: Hierarchical Vision Transformer using Interleaved Windows](http://arxiv.org/abs/2507.18405v1)** | 2025-07-24 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence</p></details> |
 | **[ToonifyGB: StyleGAN-based Gaussian Blendshapes for 3D Stylized Head Avatars](http://arxiv.org/abs/2505.10072v2)** | 2025-07-24 |  |
@@ -19,26 +22,23 @@ labels: documentation
 | **[Yume: An Interactive World Generation Model](http://arxiv.org/abs/2507.17744v1)** | 2025-07-23 |  |
 | **[Towards Generalist Robot Learning from Internet Video: A Survey](http://arxiv.org/abs/2404.19664v5)** | 2025-07-23 |  |
 | **[EndoGen: Conditional Autoregressive Endoscopic Video Generation](http://arxiv.org/abs/2507.17388v1)** | 2025-07-23 | MICCAI 2025 |
-| **[Qffusion: Controllable Portrait Video Editing via Quadrant-Grid Attention Learning](http://arxiv.org/abs/2501.06438v2)** | 2025-07-23 | 19 pages |
-| **[Human-Activity AGV Quality Assessment: A Benchmark Dataset and an Objective Evaluation Metric](http://arxiv.org/abs/2411.16619v3)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted by ACMMM 2025</p></details> |
-| **[MotionShot: Adaptive Motion Transfer across Arbitrary Objects for Text-to-Video Generation](http://arxiv.org/abs/2507.16310v1)** | 2025-07-22 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Diffusion Beats Autoregressive in Data-Constrained Settings](http://arxiv.org/abs/2507.15857v2)** | 2025-07-24 | <details><summary>Proje...</summary><p>Project Webpage: https://diffusion-scaling.github.io</p></details> |
-| **[Demystify Protein Generation with Hierarchical Conditional Diffusion Models](http://arxiv.org/abs/2507.18603v1)** | 2025-07-24 |  |
-| **[Adversarial Distribution Matching for Diffusion Distillation Towards Efficient Image and Video Synthesis](http://arxiv.org/abs/2507.18569v1)** | 2025-07-24 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025 (Highlight)</p></details> |
-| **[Elucidating the Design Space of Arbitrary-Noise-Based Diffusion Models](http://arxiv.org/abs/2507.18534v1)** | 2025-07-24 | 21 pages, 4 figures |
-| **[Diffuse and Disperse: Image Generation with Representation Regularization](http://arxiv.org/abs/2506.09027v2)** | 2025-07-24 |  |
-| **[DIFFA: Large Language Diffusion Models Can Listen and Understand](http://arxiv.org/abs/2507.18452v1)** | 2025-07-24 |  |
-| **[Att-Adapter: A Robust and Precise Domain-Specific Multi-Attributes T2I Diffusion Adapter via Conditional Variational Autoencoder](http://arxiv.org/abs/2503.11937v4)** | 2025-07-24 | <details><summary>ICCV'...</summary><p>ICCV'25 (Highlight), The project page is available at https://tri-mac.github.io/att-adapter/</p></details> |
-| **[A Comprehensive Review of Diffusion Models in Smart Agriculture: Progress, Applications, and Challenges](http://arxiv.org/abs/2507.18376v1)** | 2025-07-24 |  |
-| **[UniSegDiff: Boosting Unified Lesion Segmentation via a Staged Diffusion Model](http://arxiv.org/abs/2507.18362v1)** | 2025-07-24 | MICCAI2025 |
-| **[Variational inference for pile-up removal at hadron colliders with diffusion models](http://arxiv.org/abs/2410.22074v2)** | 2025-07-24 | 19 pages, 13 figures |
-| **[Inversion-DPO: Precise and Efficient Post-Training for Diffusion Models](http://arxiv.org/abs/2507.11554v3)** | 2025-07-24 | Accepted by ACM MM25 |
-| **[Exploiting Gaussian Agnostic Representation Learning with Diffusion Priors for Enhanced Infrared Small Target Detection](http://arxiv.org/abs/2507.18260v1)** | 2025-07-24 | <details><summary>Submi...</summary><p>Submitted to Neural Networks. We propose the Gaussian Group Squeezer, leveraging Gaussian sampling and compression with diffusion models for channel-based data augmentation</p></details> |
-| **[Distilling Diffusion Models to Efficient 3D LiDAR Scene Completion](http://arxiv.org/abs/2412.03515v2)** | 2025-07-24 | <details><summary>This ...</summary><p>This paper is accept by ICCV'25(Oral), the model and code are publicly available on https: //github.com/happyw1nd/ScoreLiDAR</p></details> |
-| **[LEAF: Latent Diffusion with Efficient Encoder Distillation for Aligned Features in Medical Image Segmentation](http://arxiv.org/abs/2507.18214v1)** | 2025-07-24 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2025</p></details> |
-| **[Degradation-Consistent Learning via Bidirectional Diffusion for Low-Light Image Enhancement](http://arxiv.org/abs/2507.18144v1)** | 2025-07-24 | 10page |
+| **[Jailbreaking Large Language Diffusion Models: Revealing Hidden Safety Flaws in Diffusion-Based Text Generation](http://arxiv.org/abs/2507.19227v1)** | 2025-07-25 |  |
+| **[Joint Holistic and Lesion Controllable Mammogram Synthesis via Gated Conditional Diffusion Model](http://arxiv.org/abs/2507.19201v1)** | 2025-07-25 | <details><summary>Accep...</summary><p>Accepted, ACM Multimedia 2025, 10 pages, 5 figures</p></details> |
+| **[FBSDiff: Plug-and-Play Frequency Band Substitution of Diffusion Features for Highly Controllable Text-Driven Image Translation](http://arxiv.org/abs/2408.00998v5)** | 2025-07-25 | <details><summary>Accep...</summary><p>Accepted conference paper of ACM MM 2024</p></details> |
+| **[RealisVSR: Detail-enhanced Diffusion for Real-World 4K Video Super-Resolution](http://arxiv.org/abs/2507.19138v1)** | 2025-07-25 |  |
+| **[Arg-LLaDA: Argument Summarization via Large Language Diffusion Models and Sufficiency-Aware Refinement](http://arxiv.org/abs/2507.19081v1)** | 2025-07-25 | Preprint |
+| **[A posteriori error control for a finite volume scheme for a cross-diffusion model of ion transport](http://arxiv.org/abs/2502.08306v2)** | 2025-07-25 | 27 pages, 2 tables |
+| **[A diffusion-based generative model for financial time series via geometric Brownian motion](http://arxiv.org/abs/2507.19003v1)** | 2025-07-25 |  |
+| **[Concept-TRAK: Understanding how diffusion models learn concepts through concept-level attribution](http://arxiv.org/abs/2507.06547v2)** | 2025-07-25 | Preprint |
+| **[PDT: Point Distribution Transformation with Diffusion Models](http://arxiv.org/abs/2507.18939v1)** | 2025-07-25 | <details><summary>Proje...</summary><p>Project page: https://shanemankiw.github.io/PDT/</p></details> |
+| **[Towards Robust and Controllable Text-to-Motion via Masked Autoregressive Diffusion](http://arxiv.org/abs/2505.11013v2)** | 2025-07-25 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025</p></details> |
+| **[RGE-GS: Reward-Guided Expansive Driving Scene Reconstruction via Diffusion Priors](http://arxiv.org/abs/2506.22800v3)** | 2025-07-25 |  |
+| **[RealDeal: Enhancing Realism and Details in Brain Image Generation via Image-to-Image Diffusion Models](http://arxiv.org/abs/2507.18830v1)** | 2025-07-24 | 19 pages, 10 figures |
+| **[Plan for Speed: Dilated Scheduling for Masked Diffusion Language Models](http://arxiv.org/abs/2506.19037v3)** | 2025-07-24 |  |
+| **[Fourth-Order Compact FDMs for Steady and Time-Dependent Nonlinear Convection-Diffusion Equations](http://arxiv.org/abs/2507.18799v1)** | 2025-07-24 | <details><summary>22 pa...</summary><p>22 pages and 6 figures</p></details> |
+| **[Bridging Sequential Deep Operator Network and Video Diffusion: Residual Refinement of Spatio-Temporal PDE Solutions](http://arxiv.org/abs/2507.06133v2)** | 2025-07-24 |  |
 
