@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 31, 2025
+title: Latest 15 Papers - August 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scaling RL to Long Videos](http://arxiv.org/abs/2507.07966v3)** | 2025-07-30 | <details><summary>Code ...</summary><p>Code at https://github.com/NVlabs/Long-RL and model at https://huggingface.co/Efficient-Large-Model/LongVILA-R1-7B</p></details> |
+| **[GVD: Guiding Video Diffusion Model for Scalable Video Distillation](http://arxiv.org/abs/2507.22360v1)** | 2025-07-30 |  |
+| **[SteerX: Creating Any Camera-Free 3D and 4D Scenes with Geometric Steering](http://arxiv.org/abs/2503.12024v2)** | 2025-07-30 | <details><summary>Proje...</summary><p>Project page: https://byeongjun-park.github.io/SteerX/</p></details> |
 | **[NarrLV: Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation Models](http://arxiv.org/abs/2507.11245v2)** | 2025-07-29 | <details><summary>Proje...</summary><p>Project Page: https://amap-ml.github.io/NarrLV-Website/</p></details> |
 | **[IRASim: A Fine-Grained World Model for Robot Manipulation](http://arxiv.org/abs/2406.14540v2)** | 2025-07-29 | <details><summary>Opens...</summary><p>Opensource, project website: https://gen-irasim.github.io</p></details> |
 | **[V2M4: 4D Mesh Animation Reconstruction from a Single Monocular Video](http://arxiv.org/abs/2503.09631v2)** | 2025-07-29 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025. Project page: https://windvchen.github.io/V2M4/</p></details> |
@@ -19,26 +22,23 @@ labels: documentation
 | **[MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance](http://arxiv.org/abs/2503.16421v2)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
 | **[MagicAnime: A Hierarchically Annotated, Multimodal and Multitasking Dataset with Benchmarks for Cartoon Animation Generation](http://arxiv.org/abs/2507.20368v1)** | 2025-07-27 | 8 pages,6 figures |
 | **[Model Reveals What to Cache: Profiling-Based Feature Reuse for Video Diffusion Models](http://arxiv.org/abs/2504.03140v2)** | 2025-07-26 |  |
-| **[HumanSAM: Classifying Human-centric Forgery Videos in Human Spatial, Appearance, and Motion Anomaly](http://arxiv.org/abs/2507.19924v1)** | 2025-07-26 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://dejian-lc.github.io/humansam/</p></details> |
-| **[ChoreoMuse: Robust Music-to-Dance Video Generation with Style Transfer and Beat-Adherent Motion](http://arxiv.org/abs/2507.19836v1)** | 2025-07-26 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, accepted by the 33rd ACM International Conference on Multimedia (ACM MM 2025), demo page: https://choreomuse.github.io</p></details> |
-| **[Qffusion: Controllable Portrait Video Editing via Quadrant-Grid Attention Learning](http://arxiv.org/abs/2501.06438v3)** | 2025-07-26 | 19 pages |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Diffusion Beats Autoregressive in Data-Constrained Settings](http://arxiv.org/abs/2507.15857v3)** | 2025-07-29 | <details><summary>Proje...</summary><p>Project Webpage: https://diffusion-scaling.github.io</p></details> |
-| **[An exponential integrator multicontinuum homogenization method for fractional diffusion problem with multiscale coefficients](http://arxiv.org/abs/2503.05104v2)** | 2025-07-29 |  |
-| **[Motion Diffusion Autoencoders: Enabling Attribute Manipulation in Human Motion Demonstrated on Karate Techniques](http://arxiv.org/abs/2501.18729v2)** | 2025-07-29 | 9 pages, 7 figures |
-| **[APT: Improving Diffusion Models for High Resolution Image Generation with Adaptive Path Tracing](http://arxiv.org/abs/2507.21690v1)** | 2025-07-29 |  |
-| **[GuidPaint: Class-Guided Image Inpainting with Diffusion Models](http://arxiv.org/abs/2507.21627v1)** | 2025-07-29 |  |
-| **[Locally Controlled Face Aging with Latent Diffusion Models](http://arxiv.org/abs/2507.21600v1)** | 2025-07-29 |  |
-| **[Latent Swap Joint Diffusion for 2D Long-Form Latent Generation](http://arxiv.org/abs/2502.05130v3)** | 2025-07-29 |  |
-| **[Enhancing Glass Defect Detection with Diffusion Models: Addressing Imbalanced Datasets in Manufacturing Quality Control](http://arxiv.org/abs/2505.03134v3)** | 2025-07-29 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, published in Computer and Decision Making - An International Journal (COMDEM)</p></details> |
-| **[Retrieve-Augmented Generation for Speeding up Diffusion Policy without Additional Training](http://arxiv.org/abs/2507.21452v1)** | 2025-07-29 |  |
-| **[SegQuant: A Semantics-Aware and Generalizable Quantization Framework for Diffusion Models](http://arxiv.org/abs/2507.14811v3)** | 2025-07-29 |  |
-| **[MapDiffusion: Generative Diffusion for Vectorized Online HD Map Construction and Uncertainty Estimation in Autonomous Driving](http://arxiv.org/abs/2507.21423v1)** | 2025-07-29 | <details><summary>Accep...</summary><p>Accepted for 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)</p></details> |
-| **[1/2 order convergence rate of Euler-type methods for time-changed stochastic differential equations with super-linearly growing drift and diffusion coefficients](http://arxiv.org/abs/2507.14562v3)** | 2025-07-29 |  |
-| **[A Contrastive Diffusion-based Network (CDNet) for Time Series Classification](http://arxiv.org/abs/2507.21357v1)** | 2025-07-28 | 19 pages, conference |
-| **[HDR Environment Map Estimation with Latent Diffusion Models](http://arxiv.org/abs/2507.21261v1)** | 2025-07-28 |  |
-| **[Adaptive Multimodal Protein Plug-and-Play with Diffusion-Based Priors](http://arxiv.org/abs/2507.21260v1)** | 2025-07-28 | <details><summary>Code:...</summary><p>Code: https://github.com/amartya21/Adam-PnP</p></details> |
+| **[DepR: Depth Guided Single-view Scene Reconstruction with Instance-level Diffusion](http://arxiv.org/abs/2507.22825v1)** | 2025-07-30 | ICCV 2025 |
+| **[DISTIL: Data-Free Inversion of Suspicious Trojan Inputs via Latent Diffusion](http://arxiv.org/abs/2507.22813v1)** | 2025-07-30 | ICCV 2025 |
+| **[The Effect of Stochasticity in Score-Based Diffusion Sampling: a KL Divergence Analysis](http://arxiv.org/abs/2506.11378v2)** | 2025-07-30 | 27 pages, 16 figures |
+| **[GestureHYDRA: Semantic Co-speech Gesture Synthesis via Hybrid Modality Diffusion Transformer and Cascaded-Synchronized Retrieval-Augmented Generation](http://arxiv.org/abs/2507.22731v1)** | 2025-07-30 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, Accepted by ICCV 2025</p></details> |
+| **[Generative Active Learning for Long-tail Trajectory Prediction via Controllable Diffusion Model](http://arxiv.org/abs/2507.22615v1)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
+| **[ShortFT: Diffusion Model Alignment via Shortcut-based Fine-Tuning](http://arxiv.org/abs/2507.22604v1)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
+| **[Diffusion Models for Influence Maximization on Temporal Networks: A Guide to Make the Best Choice](http://arxiv.org/abs/2507.22589v1)** | 2025-07-30 |  |
+| **[Diffusion-based Adversarial Identity Manipulation for Facial Privacy Protection](http://arxiv.org/abs/2504.21646v3)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025</p></details> |
+| **[DACA-Net: A Degradation-Aware Conditional Diffusion Network for Underwater Image Enhancement](http://arxiv.org/abs/2507.22501v1)** | 2025-07-30 | <details><summary>accep...</summary><p>accepted by ACM MM 2025</p></details> |
+| **[Exploiting Diffusion Prior for Task-driven Image Restoration](http://arxiv.org/abs/2507.22459v1)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
+| **[TopoLiDM: Topology-Aware LiDAR Diffusion Models for Interpretable and Realistic LiDAR Point Cloud Generation](http://arxiv.org/abs/2507.22454v1)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted by IROS 2025. Code:https://github.com/IRMVLab/TopoLiDM</p></details> |
+| **[Anti-Inpainting: A Proactive Defense Approach against Malicious Diffusion-based Inpainters under Unknown Conditions](http://arxiv.org/abs/2505.13023v2)** | 2025-07-30 |  |
+| **[Seed Selection for Human-Oriented Image Reconstruction via Guided Diffusion](http://arxiv.org/abs/2506.05363v3)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted by 2025 IEEE 14th Global Conference on Consumer Electronics (GCCE 2025)</p></details> |
+| **[Set Invariance with Probability One for Controlled Diffusion: Score-based Approach](http://arxiv.org/abs/2507.22385v1)** | 2025-07-30 |  |
+| **[GVD: Guiding Video Diffusion Model for Scalable Video Distillation](http://arxiv.org/abs/2507.22360v1)** | 2025-07-30 |  |
 
