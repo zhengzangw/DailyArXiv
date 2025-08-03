@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 01, 2025
+title: Latest 15 Papers - August 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BusterX++: Towards Unified Cross-Modal AI-Generated Content Detection and Explanation with MLLM](http://arxiv.org/abs/2507.14632v2)** | 2025-07-31 |  |
+| **[BusterX: MLLM-Powered AI-Generated Video Forgery Detection and Explanation](http://arxiv.org/abs/2505.12620v4)** | 2025-07-31 |  |
+| **[Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latent Space](http://arxiv.org/abs/2503.09215v3)** | 2025-07-31 | 8 pages, 7 figures |
 | **[Scaling RL to Long Videos](http://arxiv.org/abs/2507.07966v3)** | 2025-07-30 | <details><summary>Code ...</summary><p>Code at https://github.com/NVlabs/Long-RL and model at https://huggingface.co/Efficient-Large-Model/LongVILA-R1-7B</p></details> |
 | **[GVD: Guiding Video Diffusion Model for Scalable Video Distillation](http://arxiv.org/abs/2507.22360v1)** | 2025-07-30 |  |
 | **[SteerX: Creating Any Camera-Free 3D and 4D Scenes with Geometric Steering](http://arxiv.org/abs/2503.12024v2)** | 2025-07-30 | <details><summary>Proje...</summary><p>Project page: https://byeongjun-park.github.io/SteerX/</p></details> |
@@ -19,26 +22,23 @@ labels: documentation
 | **[FlagEvalMM: A Flexible Framework for Comprehensive Multimodal Model Evaluation](http://arxiv.org/abs/2506.09081v3)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted by ACL 2025 Demo</p></details> |
 | **[Aether: Geometric-Aware Unified World Modeling](http://arxiv.org/abs/2503.18945v3)** | 2025-07-28 | <details><summary>Proje...</summary><p>Project Page: https://aether-world.github.io/</p></details> |
 | **[Compositional Video Synthesis by Temporal Object-Centric Learning](http://arxiv.org/abs/2507.20855v1)** | 2025-07-28 | <details><summary>12+21...</summary><p>12+21 pages, submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), currently under review</p></details> |
-| **[MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance](http://arxiv.org/abs/2503.16421v2)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
-| **[MagicAnime: A Hierarchically Annotated, Multimodal and Multitasking Dataset with Benchmarks for Cartoon Animation Generation](http://arxiv.org/abs/2507.20368v1)** | 2025-07-27 | 8 pages,6 figures |
-| **[Model Reveals What to Cache: Profiling-Based Feature Reuse for Video Diffusion Models](http://arxiv.org/abs/2504.03140v2)** | 2025-07-26 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DepR: Depth Guided Single-view Scene Reconstruction with Instance-level Diffusion](http://arxiv.org/abs/2507.22825v1)** | 2025-07-30 | ICCV 2025 |
-| **[DISTIL: Data-Free Inversion of Suspicious Trojan Inputs via Latent Diffusion](http://arxiv.org/abs/2507.22813v1)** | 2025-07-30 | ICCV 2025 |
-| **[The Effect of Stochasticity in Score-Based Diffusion Sampling: a KL Divergence Analysis](http://arxiv.org/abs/2506.11378v2)** | 2025-07-30 | 27 pages, 16 figures |
-| **[GestureHYDRA: Semantic Co-speech Gesture Synthesis via Hybrid Modality Diffusion Transformer and Cascaded-Synchronized Retrieval-Augmented Generation](http://arxiv.org/abs/2507.22731v1)** | 2025-07-30 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, Accepted by ICCV 2025</p></details> |
-| **[Generative Active Learning for Long-tail Trajectory Prediction via Controllable Diffusion Model](http://arxiv.org/abs/2507.22615v1)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
-| **[ShortFT: Diffusion Model Alignment via Shortcut-based Fine-Tuning](http://arxiv.org/abs/2507.22604v1)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
-| **[Diffusion Models for Influence Maximization on Temporal Networks: A Guide to Make the Best Choice](http://arxiv.org/abs/2507.22589v1)** | 2025-07-30 |  |
-| **[Diffusion-based Adversarial Identity Manipulation for Facial Privacy Protection](http://arxiv.org/abs/2504.21646v3)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025</p></details> |
-| **[DACA-Net: A Degradation-Aware Conditional Diffusion Network for Underwater Image Enhancement](http://arxiv.org/abs/2507.22501v1)** | 2025-07-30 | <details><summary>accep...</summary><p>accepted by ACM MM 2025</p></details> |
-| **[Exploiting Diffusion Prior for Task-driven Image Restoration](http://arxiv.org/abs/2507.22459v1)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
-| **[TopoLiDM: Topology-Aware LiDAR Diffusion Models for Interpretable and Realistic LiDAR Point Cloud Generation](http://arxiv.org/abs/2507.22454v1)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted by IROS 2025. Code:https://github.com/IRMVLab/TopoLiDM</p></details> |
-| **[Anti-Inpainting: A Proactive Defense Approach against Malicious Diffusion-based Inpainters under Unknown Conditions](http://arxiv.org/abs/2505.13023v2)** | 2025-07-30 |  |
-| **[Seed Selection for Human-Oriented Image Reconstruction via Guided Diffusion](http://arxiv.org/abs/2506.05363v3)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted by 2025 IEEE 14th Global Conference on Consumer Electronics (GCCE 2025)</p></details> |
-| **[Set Invariance with Probability One for Controlled Diffusion: Score-based Approach](http://arxiv.org/abs/2507.22385v1)** | 2025-07-30 |  |
-| **[GVD: Guiding Video Diffusion Model for Scalable Video Distillation](http://arxiv.org/abs/2507.22360v1)** | 2025-07-30 |  |
+| **[Gaussian Variation Field Diffusion for High-fidelity Video-to-4D Synthesis](http://arxiv.org/abs/2507.23785v1)** | 2025-07-31 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://gvfdiffusion.github.io/</p></details> |
+| **[Learning to Align and Refine: A Foundation-to-Diffusion Framework for Occlusion-Robust Two-Hand Reconstruction](http://arxiv.org/abs/2503.17788v2)** | 2025-07-31 |  |
+| **[DiffuMatch: Category-Agnostic Spectral Diffusion Priors for Robust Non-rigid Shape Matching](http://arxiv.org/abs/2507.23715v1)** | 2025-07-31 | <details><summary>Prese...</summary><p>Presented at ICCV 2025</p></details> |
+| **[UniLDiff: Unlocking the Power of Diffusion Priors for All-in-One Image Restoration](http://arxiv.org/abs/2507.23685v1)** | 2025-07-31 |  |
+| **[DepMicroDiff: Diffusion-Based Dependency-Aware Multimodal Imputation for Microbiome Data](http://arxiv.org/abs/2507.23676v1)** | 2025-07-31 |  |
+| **[An Inversion-based Measure of Memorization for Diffusion Models](http://arxiv.org/abs/2405.05846v3)** | 2025-07-31 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
+| **[Diffusion Beats Autoregressive in Data-Constrained Settings](http://arxiv.org/abs/2507.15857v4)** | 2025-07-31 | <details><summary>Proje...</summary><p>Project Webpage: https://diffusion-scaling.github.io</p></details> |
+| **[Stable-Sim2Real: Exploring Simulation of Real-Captured 3D Data with Two-Stage Depth Diffusion](http://arxiv.org/abs/2507.23483v1)** | 2025-07-31 | <details><summary>ICCV ...</summary><p>ICCV 2025 (Highlight). Project page: https://mutianxu.github.io/stable-sim2real/</p></details> |
+| **[Adjoint-Based Aerodynamic Shape Optimization with a Manifold Constraint Learned by Diffusion Models](http://arxiv.org/abs/2507.23443v1)** | 2025-07-31 |  |
+| **[Out-of-Distribution Detection in Medical Imaging via Diffusion Trajectories](http://arxiv.org/abs/2507.23411v1)** | 2025-07-31 | <details><summary>Accep...</summary><p>Accepted at Uncertainty for Safe Utilization of Machine Learning in Medical Imaging, MICCAI 2025</p></details> |
+| **[An optimal preconditioner for high-order scheme arising from multi-dimensional Riesz space fractional diffusion equations with variable coefficients](http://arxiv.org/abs/2507.23408v1)** | 2025-07-31 |  |
+| **[EP-Diffuser: An Efficient Diffusion Model for Traffic Scene Generation and Prediction via Polynomial Representations](http://arxiv.org/abs/2504.05422v3)** | 2025-07-31 |  |
+| **[Training-free Geometric Image Editing on Diffusion Models](http://arxiv.org/abs/2507.23300v1)** | 2025-07-31 | <details><summary>24 pa...</summary><p>24 pages, 22 figures, ICCV</p></details> |
+| **[Insights into Closed-form IPM-GAN Discriminator Guidance for Diffusion Modeling](http://arxiv.org/abs/2306.01654v2)** | 2025-07-31 |  |
+| **[PixNerd: Pixel Neural Field Diffusion](http://arxiv.org/abs/2507.23268v1)** | 2025-07-31 | <details><summary>a sin...</summary><p>a single-scale, single-stage, efficient, end-to-end pixel space diffusion model</p></details> |
 
