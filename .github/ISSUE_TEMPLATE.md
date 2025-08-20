@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 20, 2025
+title: Latest 15 Papers - August 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[InfiniteTalk: Audio-driven Video Generation for Sparse-Frame Video Dubbing](http://arxiv.org/abs/2508.14033v1)** | 2025-08-19 | 11 pages, 7 figures |
+| **[Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction](http://arxiv.org/abs/2504.07961v2)** | 2025-08-19 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, ICCV 2025 Highlight, Project page: https://geo4d.github.io/</p></details> |
+| **[Physics-Based 3D Simulation for Synthetic Data Generation and Failure Analysis in Packaging Stability Assessment](http://arxiv.org/abs/2508.13989v1)** | 2025-08-19 |  |
+| **[Upsample What Matters: Region-Adaptive Latent Sampling for Accelerated Diffusion Transformers](http://arxiv.org/abs/2507.08422v2)** | 2025-08-19 |  |
+| **[MAViS: A Multi-Agent Framework for Long-Sequence Video Storytelling](http://arxiv.org/abs/2508.08487v2)** | 2025-08-18 | <details><summary>Video...</summary><p>Video Generation Agent</p></details> |
 | **[Precise Action-to-Video Generation Through Visual Action Prompts](http://arxiv.org/abs/2508.13104v1)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. Project page: https://zju3dv.github.io/VAP/</p></details> |
 | **[EgoTwin: Dreaming Body and View in First Person](http://arxiv.org/abs/2508.13013v1)** | 2025-08-18 |  |
 | **[Matrix-Game 2.0: An Open-Source, Real-Time, and Streaming Interactive World Model](http://arxiv.org/abs/2508.13009v1)** | 2025-08-18 | <details><summary>Proje...</summary><p>Project Page: https://matrix-game-v2.github.io</p></details> |
@@ -21,19 +26,19 @@ labels: documentation
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MDPO: Overcoming the Training-Inference Divide of Masked Diffusion Language Models](http://arxiv.org/abs/2508.13148v1)** | 2025-08-18 |  |
-| **[Denoising diffusion models for inverse design of inflatable structures with programmable deformations](http://arxiv.org/abs/2508.13097v1)** | 2025-08-18 | 21 pages, 12 figures |
-| **[DMS:Diffusion-Based Multi-Baseline Stereo Generation for Improving Self-Supervised Depth Estimation](http://arxiv.org/abs/2508.13091v1)** | 2025-08-18 |  |
-| **[From Transthoracic to Transesophageal: Cross-Modality Generation using LoRA Diffusion](http://arxiv.org/abs/2508.13077v1)** | 2025-08-18 | MICCAI 2025; ASMUS |
-| **[Odo: Depth-Guided Diffusion for Identity-Preserving Body Reshaping](http://arxiv.org/abs/2508.13065v1)** | 2025-08-18 |  |
-| **[Improving Text Style Transfer using Masked Diffusion Language Models with Inference-time Scaling](http://arxiv.org/abs/2508.10995v2)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted as a main conference submission in the European Conference on Artificial Intelligence (ECAI 2025)</p></details> |
-| **[PC-Sampler: Position-Aware Calibration of Decoding Bias in Masked Diffusion Models](http://arxiv.org/abs/2508.13021v1)** | 2025-08-18 | 17 pages,13 figures |
-| **[CCDM: Continuous Conditional Diffusion Models for Image Generation](http://arxiv.org/abs/2405.03546v4)** | 2025-08-18 |  |
-| **[Hyperspectral Image Generation with Unmixing Guided Diffusion Model](http://arxiv.org/abs/2506.02601v2)** | 2025-08-18 |  |
-| **[LaDi-WM: A Latent Diffusion-based World Model for Predictive Manipulation](http://arxiv.org/abs/2505.11528v4)** | 2025-08-18 | CoRL 2025 |
-| **[S^2-Guidance: Stochastic Self Guidance for Training-Free Enhancement of Diffusion Models](http://arxiv.org/abs/2508.12880v1)** | 2025-08-18 |  |
-| **[Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings](http://arxiv.org/abs/2506.17064v4)** | 2025-08-18 | <details><summary>10 pa...</summary><p>10 pages (main text), 4 figures, 2 tables. Submitted to NeurIPS 2025. Code and data are publicly available</p></details> |
-| **[Prompt-to-Slate: Diffusion Models for Prompt-Conditioned Slate Generation](http://arxiv.org/abs/2408.06883v3)** | 2025-08-18 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 3 tables. Accepted at RecSys '25</p></details> |
-| **[Leveraging Diffusion Models for Stylization using Multiple Style Images](http://arxiv.org/abs/2508.12784v1)** | 2025-08-18 |  |
-| **[Beyond Fixed: Training-Free Variable-Length Denoising for Diffusion Large Language Models](http://arxiv.org/abs/2508.00819v2)** | 2025-08-18 | <details><summary>Code ...</summary><p>Code is available at https://github.com/Li-Jinsong/DAEDAL</p></details> |
+| **[HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Model](http://arxiv.org/abs/2406.20077v2)** | 2025-08-19 |  |
+| **[Towards a general diffusion-based information quality assessment model](http://arxiv.org/abs/2508.13927v1)** | 2025-08-19 | 24 pages, 3 figures |
+| **[Revisiting Diffusion Q-Learning: From Iterative Denoising to One-Step Action Generation](http://arxiv.org/abs/2508.13904v1)** | 2025-08-19 |  |
+| **[Diffusion-Driven High-Dimensional Variable Selection](http://arxiv.org/abs/2508.13890v1)** | 2025-08-19 |  |
+| **[SSD-TS: Exploring the Potential of Linear State Space Models for Diffusion Models in Time Series Imputation](http://arxiv.org/abs/2410.13338v2)** | 2025-08-19 | KDD' 25 |
+| **[Latent Interpolation Learning Using Diffusion Models for Cardiac Volume Reconstruction](http://arxiv.org/abs/2508.13826v1)** | 2025-08-19 |  |
+| **[DegDiT: Controllable Audio Generation with Dynamic Event Graph Guided Diffusion Transformer](http://arxiv.org/abs/2508.13786v1)** | 2025-08-19 |  |
+| **[Comparing Conditional Diffusion Models for Synthesizing Contrast-Enhanced Breast MRI from Pre-Contrast Images](http://arxiv.org/abs/2508.13776v1)** | 2025-08-19 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, submitted and accepted to MICCAI Deepbreath workshop 2025</p></details> |
+| **[DiffIER: Optimizing Diffusion Models with Iterative Error Reduction](http://arxiv.org/abs/2508.13628v1)** | 2025-08-19 |  |
+| **[LaDi-WM: A Latent Diffusion-based World Model for Predictive Manipulation](http://arxiv.org/abs/2505.11528v5)** | 2025-08-19 | CoRL 2025 |
+| **[Temporal-Conditional Referring Video Object Segmentation with Noise-Free Text-to-Video Diffusion Model](http://arxiv.org/abs/2508.13584v1)** | 2025-08-19 | 11 pages, 7 figures |
+| **[Sample Complexity of Diffusion Model Training Without Empirical Risk Minimizer Access](http://arxiv.org/abs/2505.18344v3)** | 2025-08-19 |  |
+| **[VoiceCloak: A Multi-Dimensional Defense Framework against Unauthorized Diffusion-based Voice Cloning](http://arxiv.org/abs/2505.12332v4)** | 2025-08-19 |  |
+| **[DISCO: Language-Guided Manipulation with Diffusion Policies and Constrained Inpainting](http://arxiv.org/abs/2406.09767v3)** | 2025-08-19 |  |
+| **[Upsample What Matters: Region-Adaptive Latent Sampling for Accelerated Diffusion Transformers](http://arxiv.org/abs/2507.08422v2)** | 2025-08-19 |  |
 
