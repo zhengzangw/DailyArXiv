@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 28, 2025
+title: Latest 15 Papers - August 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FaceEditTalker: Controllable Talking Head Generation with Facial Attribute Editing](http://arxiv.org/abs/2505.22141v2)** | 2025-08-27 |  |
+| **[Ego-centric Predictive Model Conditioned on Hand Trajectories](http://arxiv.org/abs/2508.19852v1)** | 2025-08-27 | <details><summary>Code:...</summary><p>Code: github.com/binjiezhang/Ego-PM (branch: main)</p></details> |
+| **[DreamActor-H1: High-Fidelity Human-Product Demonstration Video Generation via Motion-designed Diffusion Transformers](http://arxiv.org/abs/2506.10568v2)** | 2025-08-27 |  |
+| **[MIDAS: Multimodal Interactive Digital-human Synthesis via Real-time Autoregressive Video Generation](http://arxiv.org/abs/2508.19320v1)** | 2025-08-26 | <details><summary>Techn...</summary><p>Technical Report. Project Page: https://chenmingthu.github.io/milm/</p></details> |
 | **[Waver: Wave Your Way to Lifelike Video Generation](http://arxiv.org/abs/2508.15761v2)** | 2025-08-26 |  |
 | **[Physical Autoregressive Model for Robotic Manipulation without Action Pretraining](http://arxiv.org/abs/2508.09822v3)** | 2025-08-26 | 16 pages, 6 figures |
 | **[ROSE: Remove Objects with Side Effects in Videos](http://arxiv.org/abs/2508.18633v1)** | 2025-08-26 |  |
@@ -18,27 +22,23 @@ labels: documentation
 | **[MoCo: Motion-Consistent Human Video Generation via Structure-Appearance Decoupling](http://arxiv.org/abs/2508.17404v1)** | 2025-08-24 | <details><summary>Proje...</summary><p>Project: https://hywang2002.github.io/MoCo</p></details> |
 | **[DiCache: Let Diffusion Model Determine Its Own Cache](http://arxiv.org/abs/2508.17356v1)** | 2025-08-24 |  |
 | **[SSG-Dit: A Spatial Signal Guided Framework for Controllable Video Generation](http://arxiv.org/abs/2508.17062v1)** | 2025-08-23 |  |
-| **[HiCache: Training-free Acceleration of Diffusion Models via Hermite Polynomial-based Feature Caching](http://arxiv.org/abs/2508.16984v1)** | 2025-08-23 |  |
-| **[HunyuanVideo-Foley: Multimodal Diffusion with Representation Alignment for High-Fidelity Foley Audio Generation](http://arxiv.org/abs/2508.16930v1)** | 2025-08-23 |  |
-| **[Seeing Clearly, Forgetting Deeply: Revisiting Fine-Tuned Video Generators for Driving Simulation](http://arxiv.org/abs/2508.16512v1)** | 2025-08-22 |  |
-| **[Forecast then Calibrate: Feature Caching as ODE for Efficient Diffusion Transformers](http://arxiv.org/abs/2508.16211v1)** | 2025-08-22 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[All-in-One Slider for Attribute Manipulation in Diffusion Models](http://arxiv.org/abs/2508.19195v1)** | 2025-08-26 |  |
-| **[MDD: a Mask Diffusion Detector to Protect Speaker Verification Systems from Adversarial Perturbations](http://arxiv.org/abs/2508.19180v1)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted by APSIPA ASC 2025</p></details> |
-| **[RDDM: Practicing RAW Domain Diffusion Model for Real-world Image Restoration](http://arxiv.org/abs/2508.19154v1)** | 2025-08-26 |  |
-| **[Composition and Alignment of Diffusion Models using Constrained Learning](http://arxiv.org/abs/2508.19104v1)** | 2025-08-26 |  |
-| **[STDiff: A State Transition Diffusion Framework for Time Series Imputation in Industrial Systems](http://arxiv.org/abs/2508.19011v1)** | 2025-08-26 |  |
-| **[Prototype-Guided Diffusion: Visual Conditioning without External Memory](http://arxiv.org/abs/2508.09922v4)** | 2025-08-26 |  |
-| **[Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model](http://arxiv.org/abs/2408.09896v2)** | 2025-08-26 | ECAI 2025 |
-| **[Joint Time-Position Statistics and Fisher Information in Drift-Diffusion Molecular Channels](http://arxiv.org/abs/2508.18680v1)** | 2025-08-26 | 4 pages, 2 figures |
-| **[DiffBlender: Composable and Versatile Multimodal Text-to-Image Diffusion Models](http://arxiv.org/abs/2305.15194v3)** | 2025-08-26 | <details><summary>Exper...</summary><p>Expert Systems with Applications 2025</p></details> |
-| **[StreetCrafter: Street View Synthesis with Controllable Video Diffusion Models](http://arxiv.org/abs/2412.13188v3)** | 2025-08-26 | <details><summary>Proje...</summary><p>Project page: https://zju3dv.github.io/street_crafter</p></details> |
-| **[DLLMQuant: Quantizing Diffusion-based Large Language Models](http://arxiv.org/abs/2508.14090v2)** | 2025-08-26 | 12 pages, 6 figures |
-| **[SemLayoutDiff: Semantic Layout Generation with Diffusion Model for Indoor Scene Synthesis](http://arxiv.org/abs/2508.18597v1)** | 2025-08-26 | <details><summary>Proje...</summary><p>Project page: https://3dlg-hcvc.github.io/SemLayoutDiff/</p></details> |
-| **[CoMPaSS: Enhancing Spatial Understanding in Text-to-Image Diffusion Models](http://arxiv.org/abs/2412.13195v2)** | 2025-08-25 | <details><summary>21 pa...</summary><p>21 pages, 12 figures. Accepted to ICCV 2025</p></details> |
-| **[SafeBimanual: Diffusion-based Trajectory Optimization for Safe Bimanual Manipulation](http://arxiv.org/abs/2508.18268v1)** | 2025-08-25 | <details><summary>Proje...</summary><p>Project website is at: https://denghaoyuan123.github.io/SafeBimanip/</p></details> |
-| **[Incorporating Pre-trained Diffusion Models in Solving the Schrödinger Bridge Problem](http://arxiv.org/abs/2508.18095v1)** | 2025-08-25 |  |
+| **[Discrete-Guided Diffusion for Scalable and Safe Multi-Robot Motion Planning](http://arxiv.org/abs/2508.20095v1)** | 2025-08-27 |  |
+| **[Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies](http://arxiv.org/abs/2508.20072v1)** | 2025-08-27 | 15 pages |
+| **[Time-Aware One Step Diffusion Network for Real-World Image Super-Resolution](http://arxiv.org/abs/2508.16557v2)** | 2025-08-27 |  |
+| **[GS: Generative Segmentation via Label Diffusion](http://arxiv.org/abs/2508.20020v1)** | 2025-08-27 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 5 tables</p></details> |
+| **[Diffusion Language Models Know the Answer Before Decoding](http://arxiv.org/abs/2508.19982v1)** | 2025-08-27 |  |
+| **[Solving Inverse Problems using Diffusion with Iterative Colored Renoising](http://arxiv.org/abs/2501.17468v4)** | 2025-08-27 |  |
+| **[EEGDM: EEG Representation Learning via Generative Diffusion Model](http://arxiv.org/abs/2508.14086v2)** | 2025-08-27 | <details><summary>EEGDM...</summary><p>EEGDM Preprint 10 Pages</p></details> |
+| **[Belief-Conditioned One-Step Diffusion: Real-Time Trajectory Planning with Just-Enough Sensing](http://arxiv.org/abs/2508.12166v2)** | 2025-08-27 | <details><summary>Accep...</summary><p>Accepted to CoRL 2025 (Conference on Robot Learning)</p></details> |
+| **[The Information Dynamics of Generative Diffusion](http://arxiv.org/abs/2508.19897v1)** | 2025-08-27 |  |
+| **[Robust Single-Stage Fully Sparse 3D Object Detection via Detachable Latent Diffusion](http://arxiv.org/abs/2508.03252v2)** | 2025-08-27 |  |
+| **[Towards Diagnostic Quality Flat-Panel Detector CT Imaging Using Diffusion Models](http://arxiv.org/abs/2508.16252v2)** | 2025-08-27 |  |
+| **[StableIntrinsic: Detail-preserving One-step Diffusion Model for Multi-view Material Estimation](http://arxiv.org/abs/2508.19789v1)** | 2025-08-27 |  |
+| **[Personalized MR-Informed Diffusion Models for 3D PET Image Reconstruction](http://arxiv.org/abs/2506.03804v2)** | 2025-08-27 | 12 pages, 11 figures |
+| **[Fast 3D Diffusion for Scalable Granular Media Synthesis](http://arxiv.org/abs/2508.19752v1)** | 2025-08-27 |  |
+| **[VideoEraser: Concept Erasure in Text-to-Video Diffusion Models](http://arxiv.org/abs/2508.15314v2)** | 2025-08-27 | <details><summary>To ap...</summary><p>To appear in the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)</p></details> |
 
