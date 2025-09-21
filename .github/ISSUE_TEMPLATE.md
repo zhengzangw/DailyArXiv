@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 19, 2025
+title: Latest 15 Papers - September 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,9 +7,13 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation](http://arxiv.org/abs/2509.15212v1)** | 2025-09-18 | <details><summary>GitHu...</summary><p>GitHub Project: https://github.com/alibaba-damo-academy/RynnVLA-001</p></details> |
+| **[The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives](http://arxiv.org/abs/2409.11261v5)** | 2025-09-18 |  |
+| **[DACoN: DINO for Anime Paint Bucket Colorization with Any Number of Reference Images](http://arxiv.org/abs/2509.14685v1)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
+| **[BWCache: Accelerating Video Diffusion Transformers through Block-Wise Caching](http://arxiv.org/abs/2509.13789v2)** | 2025-09-18 |  |
+| **[AToken: A Unified Tokenizer for Vision](http://arxiv.org/abs/2509.14476v1)** | 2025-09-17 | 30 pages, 14 figures |
 | **[Identity-Preserving Text-to-Video Generation Guided by Simple yet Effective Spatial-Temporal Decoupled Representations](http://arxiv.org/abs/2507.04705v2)** | 2025-09-17 |  |
 | **[PhysicalAgent: Towards General Cognitive Robotics with Foundation World Models](http://arxiv.org/abs/2509.13903v1)** | 2025-09-17 | <details><summary>submi...</summary><p>submitted to IEEE conference</p></details> |
-| **[BWCache: Accelerating Video Diffusion Transformers through Block-Wise Caching](http://arxiv.org/abs/2509.13789v1)** | 2025-09-17 |  |
 | **[Music2Palette: Emotion-aligned Color Palette Generation via Cross-Modal Representation Learning](http://arxiv.org/abs/2507.04758v2)** | 2025-09-17 |  |
 | **[TeraSim-World: Worldwide Safety-Critical Data Synthesis for End-to-End Autonomous Driving](http://arxiv.org/abs/2509.13164v2)** | 2025-09-17 | 8 pages, 6 figures |
 | **[Kling-Avatar: Grounding Multimodal Instructions for Cascaded Long-Duration Avatar Animation Synthesis](http://arxiv.org/abs/2509.09595v2)** | 2025-09-17 | <details><summary>Techn...</summary><p>Technical Report. Project Page: https://klingavatar.github.io/</p></details> |
@@ -18,27 +22,23 @@ labels: documentation
 | **[T2V-Turbo-v2: Enhancing Video Generation Model Post-Training through Data, Reward, and Conditional Guidance Design](http://arxiv.org/abs/2410.05677v3)** | 2025-09-16 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025. Project Page: https://t2v-turbo-v2.github.io/</p></details> |
 | **[\textsc{Gen2Real}: Towards Demo-Free Dexterous Manipulation by Harnessing Generated Video](http://arxiv.org/abs/2509.14178v1)** | 2025-09-16 |  |
 | **[Think Before You Diffuse: LLMs-Guided Physics-Aware Video Generation](http://arxiv.org/abs/2505.21653v2)** | 2025-09-15 | 19 pages, 8 figures |
-| **[OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling](http://arxiv.org/abs/2509.12201v1)** | 2025-09-15 | <details><summary>https...</summary><p>https://yangzhou24.github.io/OmniWorld/</p></details> |
-| **[Video Signature: In-generation Watermarking for Latent Video Diffusion Models](http://arxiv.org/abs/2506.00652v3)** | 2025-09-15 |  |
-| **[AvatarSync: Rethinking Talking-Head Animation through Autoregressive Perspective](http://arxiv.org/abs/2509.12052v1)** | 2025-09-15 |  |
-| **[MVQA-68K: A Multi-dimensional and Causally-annotated Dataset with Quality Interpretability for Video Assessment](http://arxiv.org/abs/2509.11589v1)** | 2025-09-15 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Defending Diffusion Models Against Membership Inference Attacks via Higher-Order Langevin Dynamics](http://arxiv.org/abs/2509.14225v1)** | 2025-09-17 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 1 table</p></details> |
-| **[Quantum Reinforcement Learning-Guided Diffusion Model for Image Synthesis via Hybrid Quantum-Classical Generative Model Architectures](http://arxiv.org/abs/2509.14163v1)** | 2025-09-17 |  |
-| **[MIMIC-D: Multi-modal Imitation for MultI-agent Coordination with Decentralized Diffusion Policies](http://arxiv.org/abs/2509.14159v1)** | 2025-09-17 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 5 tables</p></details> |
-| **[DRDT3: Diffusion-Refined Decision Test-Time Training Model](http://arxiv.org/abs/2501.06718v2)** | 2025-09-17 |  |
-| **[Synthesis and Perceptual Scaling of High Resolution Naturalistic Images Using Stable Diffusion](http://arxiv.org/abs/2410.13034v2)** | 2025-09-17 | <details><summary>80 pa...</summary><p>80 pages, 26 Figures, 6 tables</p></details> |
-| **[FlightDiffusion: Revolutionising Autonomous Drone Training with Diffusion Models Generating FPV Video](http://arxiv.org/abs/2509.14082v1)** | 2025-09-17 | <details><summary>Submi...</summary><p>Submitted to conference</p></details> |
-| **[Global Search for Optimal Low Thrust Spacecraft Trajectories using Diffusion Models and the Indirect Method](http://arxiv.org/abs/2501.07005v2)** | 2025-09-17 |  |
-| **[Noise-Level Diffusion Guidance: Well Begun is Half Done](http://arxiv.org/abs/2509.13936v1)** | 2025-09-17 |  |
-| **[Evolution Meets Diffusion: Efficient Neural Architecture Generation](http://arxiv.org/abs/2504.17827v4)** | 2025-09-17 |  |
-| **[Towards Robust Defense against Customization via Protective Perturbation Resistant to Diffusion-based Purification](http://arxiv.org/abs/2509.13922v1)** | 2025-09-17 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
-| **[Masked Diffusion Models as Energy Minimization](http://arxiv.org/abs/2509.13866v1)** | 2025-09-17 |  |
-| **[SpecDiff: Accelerating Diffusion Model Inference with Self-Speculation](http://arxiv.org/abs/2509.13848v1)** | 2025-09-17 |  |
-| **[BWCache: Accelerating Video Diffusion Transformers through Block-Wise Caching](http://arxiv.org/abs/2509.13789v1)** | 2025-09-17 |  |
-| **[DiffHash: Text-Guided Targeted Attack via Diffusion Models against Deep Hashing Image Retrieval](http://arxiv.org/abs/2509.12824v2)** | 2025-09-17 |  |
-| **[Generative Image Coding with Diffusion Prior](http://arxiv.org/abs/2509.13768v1)** | 2025-09-17 |  |
+| **[Diffusion-Based Action Recognition Generalizes to Untrained Domains](http://arxiv.org/abs/2509.08908v2)** | 2025-09-18 |  |
+| **[Lightweight and Accurate Multi-View Stereo with Confidence-Aware Diffusion Model](http://arxiv.org/abs/2509.15220v1)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted to IEEE T-PAMI 2025. Code: https://github.com/cvg/diffmvs</p></details> |
+| **[Fast and Fluent Diffusion Language Models via Convolutional Decoding and Rejective Fine-tuning](http://arxiv.org/abs/2509.15188v1)** | 2025-09-18 | <details><summary>NeurI...</summary><p>NeurIPS 2025 spotlight</p></details> |
+| **[Conditional Prior-based Non-stationary Channel Estimation Using Accelerated Diffusion Models](http://arxiv.org/abs/2509.15182v1)** | 2025-09-18 | ICASSP 2026 |
+| **[DiffCut: Catalyzing Zero-Shot Semantic Segmentation with Diffusion Features and Recursive Normalized Cut](http://arxiv.org/abs/2406.02842v3)** | 2025-09-18 | <details><summary>NeurI...</summary><p>NeurIPS 2024. Project page at https://diffcut-segmentation.github.io. Code at https://github.com/PaulCouairon/DiffCut</p></details> |
+| **[AnoF-Diff: One-Step Diffusion-Based Anomaly Detection for Forceful Tool Use](http://arxiv.org/abs/2509.15153v1)** | 2025-09-18 |  |
+| **[WorldForge: Unlocking Emergent 3D/4D Generation in Video Diffusion Model via Training-Free Guidance](http://arxiv.org/abs/2509.15130v1)** | 2025-09-18 | <details><summary>Proje...</summary><p>Project Webpage: https://worldforge-agi.github.io/</p></details> |
+| **[End4: End-to-end Denoising Diffusion for Diffusion-Based Inpainting Detection](http://arxiv.org/abs/2509.13214v2)** | 2025-09-18 |  |
+| **[OmniSync: Towards Universal Lip Synchronization via Diffusion Transformers](http://arxiv.org/abs/2505.21448v2)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted as NeurIPS 2025 spotlight</p></details> |
+| **[M4Diffuser: Multi-View Diffusion Policy with Manipulability-Aware Control for Robust Mobile Manipulation](http://arxiv.org/abs/2509.14980v1)** | 2025-09-18 | <details><summary>Proje...</summary><p>Project page: https://sites.google.com/view/m4diffuser, 10 pages, 9 figures</p></details> |
+| **[A Novel Task-Driven Diffusion-Based Policy with Affordance Learning for Generalizable Manipulation of Articulated Objects](http://arxiv.org/abs/2509.14939v1)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted by IEEE/ASME Transactions on Mechatronics</p></details> |
+| **[Parameter Estimation for Weakly Interacting Hypoelliptic Diffusions](http://arxiv.org/abs/2508.04287v2)** | 2025-09-18 |  |
+| **[Mitigating data replication in text-to-audio generative diffusion models through anti-memorization guidance](http://arxiv.org/abs/2509.14934v1)** | 2025-09-18 |  |
+| **[Boost 3D Reconstruction using Diffusion-based Monocular Camera Calibration](http://arxiv.org/abs/2411.17240v3)** | 2025-09-18 |  |
+| **[Style Transfer with Diffusion Models for Synthetic-to-Real Domain Adaptation](http://arxiv.org/abs/2505.16360v2)** | 2025-09-18 | <details><summary>Publi...</summary><p>Published in Computer Vision and Image Understanding, September 2025 (CVIU 2025)</p></details> |
 
