@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 23, 2025
+title: Latest 15 Papers - September 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FLOAT: Generative Motion Latent Flow Matching for Audio-driven Talking Portrait](http://arxiv.org/abs/2412.01064v5)** | 2025-09-19 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://deepbrainai-research.github.io/float/</p></details> |
-| **[AToken: A Unified Tokenizer for Vision](http://arxiv.org/abs/2509.14476v2)** | 2025-09-19 | 30 pages, 14 figures |
-| **[Lynx: Towards High-Fidelity Personalized Video Generation](http://arxiv.org/abs/2509.15496v1)** | 2025-09-19 | <details><summary>Lynx ...</summary><p>Lynx Technical Report</p></details> |
-| **[OpenViGA: Video Generation for Automotive Driving Scenes by Streamlining and Fine-Tuning Open Source Models with Public Data](http://arxiv.org/abs/2509.15479v1)** | 2025-09-18 |  |
-| **[RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation](http://arxiv.org/abs/2509.15212v1)** | 2025-09-18 | <details><summary>GitHu...</summary><p>GitHub Project: https://github.com/alibaba-damo-academy/RynnVLA-001</p></details> |
-| **[The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives](http://arxiv.org/abs/2409.11261v5)** | 2025-09-18 |  |
-| **[DACoN: DINO for Anime Paint Bucket Colorization with Any Number of Reference Images](http://arxiv.org/abs/2509.14685v1)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
-| **[BWCache: Accelerating Video Diffusion Transformers through Block-Wise Caching](http://arxiv.org/abs/2509.13789v2)** | 2025-09-18 |  |
-| **[Identity-Preserving Text-to-Video Generation Guided by Simple yet Effective Spatial-Temporal Decoupled Representations](http://arxiv.org/abs/2507.04705v2)** | 2025-09-17 |  |
-| **[PhysicalAgent: Towards General Cognitive Robotics with Foundation World Models](http://arxiv.org/abs/2509.13903v1)** | 2025-09-17 | <details><summary>submi...</summary><p>submitted to IEEE conference</p></details> |
-| **[Music2Palette: Emotion-aligned Color Palette Generation via Cross-Modal Representation Learning](http://arxiv.org/abs/2507.04758v2)** | 2025-09-17 |  |
-| **[TeraSim-World: Worldwide Safety-Critical Data Synthesis for End-to-End Autonomous Driving](http://arxiv.org/abs/2509.13164v2)** | 2025-09-17 | 8 pages, 6 figures |
-| **[Kling-Avatar: Grounding Multimodal Instructions for Cascaded Long-Duration Avatar Animation Synthesis](http://arxiv.org/abs/2509.09595v2)** | 2025-09-17 | <details><summary>Techn...</summary><p>Technical Report. Project Page: https://klingavatar.github.io/</p></details> |
-| **[SwiftVideo: A Unified Framework for Few-Step Video Generation through Trajectory-Distribution Alignment](http://arxiv.org/abs/2508.06082v2)** | 2025-09-16 |  |
-| **[BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models](http://arxiv.org/abs/2509.06040v4)** | 2025-09-16 | 12 pages, 6 figures |
+| **[Generating 360° Video is What You Need For a 3D Scene](http://arxiv.org/abs/2504.02045v2)** | 2025-09-22 |  |
+| **[VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video Diffusion Models](http://arxiv.org/abs/2509.17985v1)** | 2025-09-22 | <details><summary>Proje...</summary><p>Project page: https://kimgeonung.github.io/VideoFrom3D/</p></details> |
+| **[Dynamic Vision from EEG Brain Recordings, How much does EEG know?](http://arxiv.org/abs/2505.21385v3)** | 2025-09-22 |  |
+| **[Contextual Gesture: Co-Speech Gesture Video Generation through Context-aware Gesture Representation](http://arxiv.org/abs/2502.07239v3)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2025. Project Page: https://andypinxinliu.github.io/Contextual-Gesture/</p></details> |
+| **[I2VWM: Robust Watermarking for Image to Video Generation](http://arxiv.org/abs/2509.17773v1)** | 2025-09-22 | 10 pages |
+| **[LRQ-DiT: Log-Rotation Post-Training Quantization of Diffusion Transformers for Image and Video Generation](http://arxiv.org/abs/2508.03485v2)** | 2025-09-22 |  |
+| **[Photography Perspective Composition: Towards Aesthetic Perspective Recommendation](http://arxiv.org/abs/2505.20655v2)** | 2025-09-22 |  |
+| **[Safe-Sora: Safe Text-to-Video Generation via Graphical Watermarking](http://arxiv.org/abs/2505.12667v2)** | 2025-09-22 | <details><summary>Safa-...</summary><p>Safa-Sora is accepted by NeurIPS 2025</p></details> |
+| **[Show-o2: Improved Native Unified Multimodal Models](http://arxiv.org/abs/2506.15564v3)** | 2025-09-22 | <details><summary>NeurI...</summary><p>NeurIPS 2025. (v3: update to include video understanding, OneIG, and more ablation study results)</p></details> |
+| **[Echo-Path: Pathology-Conditioned Echo Video Generation](http://arxiv.org/abs/2509.17190v1)** | 2025-09-21 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, MICCAI-AMAI2025 Workshop</p></details> |
+| **[VidCLearn: A Continual Learning Approach for Text-to-Video Generation](http://arxiv.org/abs/2509.16956v1)** | 2025-09-21 |  |
+| **[$\mathtt{M^3VIR}$: A Large-Scale Multi-Modality Multi-View Synthesized Benchmark Dataset for Image Restoration and Content Creation](http://arxiv.org/abs/2509.16873v1)** | 2025-09-21 |  |
+| **[Survey of Video Diffusion Models: Foundations, Implementations, and Applications](http://arxiv.org/abs/2504.16081v2)** | 2025-09-20 | Accepted by TMLR |
+| **[QVGen: Pushing the Limit of Quantized Video Generative Models](http://arxiv.org/abs/2505.11497v3)** | 2025-09-20 | <details><summary>Our c...</summary><p>Our code will be released upon acceptance</p></details> |
+| **[Uni3C: Unifying Precisely 3D-Enhanced Camera and Human Motion Controls for Video Generation](http://arxiv.org/abs/2504.14899v2)** | 2025-09-20 | <details><summary>Proje...</summary><p>Project page: https://github.com/ewrfcas/Uni3C. Accepted by Siggraph Asian 2025</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FlightDiffusion: Revolutionising Autonomous Drone Training with Diffusion Models Generating FPV Video](http://arxiv.org/abs/2509.14082v2)** | 2025-09-19 | <details><summary>Submi...</summary><p>Submitted to conference</p></details> |
-| **[Space Group Equivariant Crystal Diffusion](http://arxiv.org/abs/2505.10994v2)** | 2025-09-19 |  |
-| **[Dynamic Classifier-Free Diffusion Guidance via Online Feedback](http://arxiv.org/abs/2509.16131v1)** | 2025-09-19 |  |
-| **[DiffusionNFT: Online Diffusion Reinforcement with Forward Process](http://arxiv.org/abs/2509.16117v1)** | 2025-09-19 |  |
-| **[PRISM: Probabilistic and Robust Inverse Solver with Measurement-Conditioned Diffusion Prior for Blind Inverse Problems](http://arxiv.org/abs/2509.16106v1)** | 2025-09-19 |  |
-| **[Blind-Spot Guided Diffusion for Self-supervised Real-World Denoising](http://arxiv.org/abs/2509.16091v1)** | 2025-09-19 |  |
-| **[SLaM-DiMM: Shared Latent Modeling for Diffusion Based Missing Modality Synthesis in MRI](http://arxiv.org/abs/2509.16019v1)** | 2025-09-19 |  |
-| **[Generating Moving 3D Soundscapes with Latent Diffusion Models](http://arxiv.org/abs/2507.07318v2)** | 2025-09-19 |  |
-| **[DiTSE: High-Fidelity Generative Speech Enhancement via Latent Diffusion Transformers](http://arxiv.org/abs/2504.09381v2)** | 2025-09-19 | <details><summary>Manus...</summary><p>Manuscript under review</p></details> |
-| **[Diffusion-Based Depth Inpainting for Transparent and Reflective Objects](http://arxiv.org/abs/2410.08567v3)** | 2025-09-19 |  |
-| **[SAGE: Semantic-Aware Shared Sampling for Efficient Diffusion](http://arxiv.org/abs/2509.15865v1)** | 2025-09-19 | 5 pages, 4 figures |
-| **[HistDiST: Histopathological Diffusion-based Stain Transfer](http://arxiv.org/abs/2505.06793v2)** | 2025-09-19 | <details><summary>Accep...</summary><p>Accepted to DAGM GCPR 2025</p></details> |
-| **[Polynomial approximation from diffused data: unisolvence and stability](http://arxiv.org/abs/2509.15813v1)** | 2025-09-19 |  |
-| **[Monte Carlo Tree Diffusion with Multiple Experts for Protein Design](http://arxiv.org/abs/2509.15796v1)** | 2025-09-19 |  |
-| **[Modeling Long-term User Behaviors with Diffusion-driven Multi-interest Network for CTR Prediction](http://arxiv.org/abs/2508.15311v2)** | 2025-09-19 |  |
+| **[Seg4Diff: Unveiling Open-Vocabulary Segmentation in Text-to-Image Diffusion Transformers](http://arxiv.org/abs/2509.18096v1)** | 2025-09-22 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Project page: https://cvlab-kaist.github.io/Seg4Diff/</p></details> |
+| **[Spiffy: Multiplying Diffusion LLM Acceleration via Lossless Speculative Decoding](http://arxiv.org/abs/2509.18085v1)** | 2025-09-22 |  |
+| **[RadarSFD: Single-Frame Diffusion with Pretrained Priors for Radar Point Clouds](http://arxiv.org/abs/2509.18068v1)** | 2025-09-22 |  |
+| **[StableGuard: Towards Unified Copyright Protection and Tamper Localization in Latent Diffusion Models](http://arxiv.org/abs/2509.17993v1)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video Diffusion Models](http://arxiv.org/abs/2509.17985v1)** | 2025-09-22 | <details><summary>Proje...</summary><p>Project page: https://kimgeonung.github.io/VideoFrom3D/</p></details> |
+| **[ComposableNav: Instruction-Following Navigation in Dynamic Environments via Composable Diffusion](http://arxiv.org/abs/2509.17941v1)** | 2025-09-22 | <details><summary>Confe...</summary><p>Conference on Robot Learning (CoRL) 2025 Project site: https://amrl.cs.utexas.edu/ComposableNav/</p></details> |
+| **[Equality Constrained Diffusion for Direct Trajectory Optimization](http://arxiv.org/abs/2410.01939v2)** | 2025-09-22 | <details><summary>ACC 2...</summary><p>ACC 2025, fixed typo in equations (11)-(12)</p></details> |
+| **[SocialTraj: Two-Stage Socially-Aware Trajectory Prediction for Autonomous Driving via Conditional Diffusion Model](http://arxiv.org/abs/2509.17850v1)** | 2025-09-22 |  |
+| **[Semantic and Visual Crop-Guided Diffusion Models for Heterogeneous Tissue Synthesis in Histopathology](http://arxiv.org/abs/2509.17847v1)** | 2025-09-22 | NeurIPS 2025 |
+| **[Solving time-fractional diffusion equations with Robin boundary conditions via fractional Hamiltonian boundary value methods](http://arxiv.org/abs/2509.17793v1)** | 2025-09-22 | 26 pages, 7 figures |
+| **[LRQ-DiT: Log-Rotation Post-Training Quantization of Diffusion Transformers for Image and Video Generation](http://arxiv.org/abs/2508.03485v2)** | 2025-09-22 |  |
+| **[DINOv3-Diffusion Policy: Self-Supervised Large Visual Model for Visuomotor Diffusion Policy Learning](http://arxiv.org/abs/2509.17684v1)** | 2025-09-22 |  |
+| **[Single-step Diffusion for Image Compression at Ultra-Low Bitrates](http://arxiv.org/abs/2506.16572v2)** | 2025-09-22 |  |
+| **[DiCo: Revitalizing ConvNets for Scalable and Efficient Diffusion Modeling](http://arxiv.org/abs/2505.11196v2)** | 2025-09-22 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight</p></details> |
+| **[OmniInsert: Mask-Free Video Insertion of Any Reference via Diffusion Transformer Models](http://arxiv.org/abs/2509.17627v1)** | 2025-09-22 | <details><summary>Githu...</summary><p>Github Page: https://phantom-video.github.io/OmniInsert/</p></details> |
 
