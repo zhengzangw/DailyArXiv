@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 01, 2025
+title: Latest 15 Papers - October 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PanoWorld-X: Generating Explorable Panoramic Worlds via Sphere-Aware Video Diffusion](http://arxiv.org/abs/2509.24997v1)** | 2025-09-29 | <details><summary>Proje...</summary><p>Project page: \url{https://yuyangyin.github.io/PanoWorld-X/}</p></details> |
-| **[SDPose: Exploiting Diffusion Priors for Out-of-Domain and Robust Pose Estimation](http://arxiv.org/abs/2509.24980v1)** | 2025-09-29 | <details><summary>18 pa...</summary><p>18 pages, 9 figures, 9 tables</p></details> |
-| **[Wan-Alpha: High-Quality Text-to-Video Generation with Alpha Channel](http://arxiv.org/abs/2509.24979v1)** | 2025-09-29 |  |
-| **[BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation](http://arxiv.org/abs/2508.10774v2)** | 2025-09-29 | Tech report |
-| **[Attention Surgery: An Efficient Recipe to Linearize Your Video Diffusion Transformer](http://arxiv.org/abs/2509.24899v1)** | 2025-09-29 |  |
-| **[BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models](http://arxiv.org/abs/2509.06040v5)** | 2025-09-29 | 12 pages, 6 figures |
-| **[Enhancing Physical Plausibility in Video Generation by Reasoning the Implausibility](http://arxiv.org/abs/2509.24702v1)** | 2025-09-29 |  |
-| **[SANA-Video: Efficient Video Generation with Block Linear Diffusion Transformer](http://arxiv.org/abs/2509.24695v1)** | 2025-09-29 | <details><summary>21 pa...</summary><p>21 pages, 15 figures, 7 tables</p></details> |
-| **[Learning Object-Centric Representations Based on Slots in Real World Scenarios](http://arxiv.org/abs/2509.24652v1)** | 2025-09-29 | <details><summary>PhD T...</summary><p>PhD Thesis, overlap with arXiv:2507.20855 and arXiv:2501.15878</p></details> |
-| **[ControlHair: Physically-based Video Diffusion for Controllable Dynamic Hair Rendering](http://arxiv.org/abs/2509.21541v2)** | 2025-09-29 | <details><summary>9 pag...</summary><p>9 pages,Project website: https://ctrlhair-arxiv.netlify.app/</p></details> |
-| **[DiTraj: training-free trajectory control for video diffusion transformer](http://arxiv.org/abs/2509.21839v2)** | 2025-09-29 |  |
-| **[UI2V-Bench: An Understanding-based Image-to-video Generation Benchmark](http://arxiv.org/abs/2509.24427v1)** | 2025-09-29 |  |
-| **[CLQ: Cross-Layer Guided Orthogonal-based Quantization for Diffusion Transformers](http://arxiv.org/abs/2509.24416v1)** | 2025-09-29 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Code is released at https://github.com/Kai-Liu001/CLQ</p></details> |
-| **[NeRV-Diffusion: Diffuse Implicit Neural Representations for Video Synthesis](http://arxiv.org/abs/2509.24353v1)** | 2025-09-29 | <details><summary>Proje...</summary><p>Project Page: https://nerv-diffusion.github.io/</p></details> |
-| **[FreeAction: Training-Free Techniques for Enhanced Fidelity of Trajectory-to-Video Generation](http://arxiv.org/abs/2509.24241v1)** | 2025-09-29 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, accepted to CoRL 2025 LSRW workshop</p></details> |
+| **[Stable Cinemetrics : Structured Taxonomy and Evaluation for Professional Video Generation](http://arxiv.org/abs/2509.26555v1)** | 2025-09-30 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Project Page : https://stable-cinemetrics.github.io/</p></details> |
+| **[Photography Perspective Composition: Towards Aesthetic Perspective Recommendation](http://arxiv.org/abs/2505.20655v3)** | 2025-09-30 | <details><summary>Accep...</summary><p>Accepted at NeurIPS25</p></details> |
+| **[MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation](http://arxiv.org/abs/2509.26391v1)** | 2025-09-30 |  |
+| **[Scaling RL to Long Videos](http://arxiv.org/abs/2507.07966v4)** | 2025-09-30 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025. Code at https://github.com/NVlabs/Long-RL and model at https://huggingface.co/Efficient-Large-Model/LongVILA-R1-7B</p></details> |
+| **[PatchVSR: Breaking Video Diffusion Resolution Limits with Patch-wise Video Super-Resolution](http://arxiv.org/abs/2509.26025v1)** | 2025-09-30 | CVPR 2025 |
+| **[HumanVideo-MME: Benchmarking MLLMs for Human-Centric Video Understanding](http://arxiv.org/abs/2507.04909v2)** | 2025-09-30 | Under review |
+| **[MoWM: Mixture-of-World-Models for Embodied Planning via Latent-to-Pixel Feature Modulation](http://arxiv.org/abs/2509.21797v2)** | 2025-09-30 | 11 pages, 4 figures |
+| **[Wan-Alpha: High-Quality Text-to-Video Generation with Alpha Channel](http://arxiv.org/abs/2509.24979v2)** | 2025-09-30 |  |
+| **[Taming Diffusion Transformer for Efficient Mobile Video Generation in Seconds](http://arxiv.org/abs/2507.13343v2)** | 2025-09-30 | <details><summary>21 pa...</summary><p>21 pages, 9 figures, 13 tables</p></details> |
+| **[WorldGym: World Model as An Environment for Policy Evaluation](http://arxiv.org/abs/2506.00613v3)** | 2025-09-30 | <details><summary>https...</summary><p>https://world-model-eval.github.io</p></details> |
+| **[QuantSparse: Comprehensively Compressing Video Diffusion Transformer with Model Quantization and Attention Sparsification](http://arxiv.org/abs/2509.23681v2)** | 2025-09-30 |  |
+| **[VSF: Simple, Efficient, and Effective Negative Guidance in Few-Step Image Generation Models By Value Sign Flip](http://arxiv.org/abs/2508.10931v5)** | 2025-09-29 |  |
+| **[FlashI2V: Fourier-Guided Latent Shifting Prevents Conditional Image Leakage in Image-to-Video Generation](http://arxiv.org/abs/2509.25187v1)** | 2025-09-29 |  |
+| **[DC-VideoGen: Efficient Video Generation with Deep Compression Video Autoencoder](http://arxiv.org/abs/2509.25182v1)** | 2025-09-29 | <details><summary>Tech ...</summary><p>Tech Report. The first three authors contributed equally to this work</p></details> |
+| **[Rolling Forcing: Autoregressive Long Video Diffusion in Real Time](http://arxiv.org/abs/2509.25161v1)** | 2025-09-29 | <details><summary>Proje...</summary><p>Project page: https://kunhao-liu.github.io/Rolling_Forcing_Webpage/</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Diffuse Domain Methods with Dirichlet Boundary Conditions](http://arxiv.org/abs/2509.25115v1)** | 2025-09-29 |  |
-| **[Advantage Weighted Matching: Aligning RL with Pretraining in Diffusion Models](http://arxiv.org/abs/2509.25050v1)** | 2025-09-29 |  |
-| **[Ultra-Fast Language Generation via Discrete Diffusion Divergence Instruct](http://arxiv.org/abs/2509.25035v1)** | 2025-09-29 | <details><summary>56 pa...</summary><p>56 pages, 7 figures, 7 tables</p></details> |
-| **[Score-based Membership Inference on Diffusion Models](http://arxiv.org/abs/2509.25003v1)** | 2025-09-29 |  |
-| **[PanoWorld-X: Generating Explorable Panoramic Worlds via Sphere-Aware Video Diffusion](http://arxiv.org/abs/2509.24997v1)** | 2025-09-29 | <details><summary>Proje...</summary><p>Project page: \url{https://yuyangyin.github.io/PanoWorld-X/}</p></details> |
-| **[Path Diffuser: Diffusion Model for Data-Driven Traffic Simulator](http://arxiv.org/abs/2509.24995v1)** | 2025-09-29 |  |
-| **[SDPose: Exploiting Diffusion Priors for Out-of-Domain and Robust Pose Estimation](http://arxiv.org/abs/2509.24980v1)** | 2025-09-29 | <details><summary>18 pa...</summary><p>18 pages, 9 figures, 9 tables</p></details> |
-| **[DiffTester: Accelerating Unit Test Generation for Diffusion LLMs via Repetitive Pattern](http://arxiv.org/abs/2509.24975v1)** | 2025-09-29 |  |
-| **[Double Descent as a Lens for Sample Efficiency in Autoregressive vs. Discrete Diffusion Models](http://arxiv.org/abs/2509.24974v1)** | 2025-09-29 |  |
-| **[Diffusion-Based mmWave Radar Point Cloud Enhancement Driven by Range Images](http://arxiv.org/abs/2503.02300v2)** | 2025-09-29 | <details><summary>8 pag...</summary><p>8 pages, 7 figures. This work has been submitted to the IEEE for possible publication</p></details> |
-| **[What Do You Need for Diverse Trajectory Composition in Diffusion Planning?](http://arxiv.org/abs/2505.18083v2)** | 2025-09-29 | 9 Pages |
-| **[From Code to Action: Hierarchical Learning of Diffusion-VLM Policies](http://arxiv.org/abs/2509.24917v1)** | 2025-09-29 | <details><summary>19 pa...</summary><p>19 pages including references, 6 figures. Accepted to CoRL LEAP 2025</p></details> |
-| **[DRCP: Diffusion on Reinforced Cooperative Perception for Perceiving Beyond Limits](http://arxiv.org/abs/2509.24903v1)** | 2025-09-29 |  |
-| **[Origins of Creativity in Attention-Based Diffusion Models](http://arxiv.org/abs/2506.17324v2)** | 2025-09-29 |  |
-| **[Attention Surgery: An Efficient Recipe to Linearize Your Video Diffusion Transformer](http://arxiv.org/abs/2509.24899v1)** | 2025-09-29 |  |
+| **[Stitch: Training-Free Position Control in Multimodal Diffusion Transformers](http://arxiv.org/abs/2509.26644v1)** | 2025-09-30 | Preprint |
+| **[HilbertA: Hilbert Attention for Image Generation with Diffusion Models](http://arxiv.org/abs/2509.26538v1)** | 2025-09-30 |  |
+| **[CE-SDWV: Effective and Efficient Concept Erasure for Text-to-Image Diffusion Models via a Semantic-Driven Word Vocabulary](http://arxiv.org/abs/2501.15562v2)** | 2025-09-30 | 25 pages, 14 figures |
+| **[Contrastive Diffusion Guidance for Spatial Inverse Problems](http://arxiv.org/abs/2509.26489v1)** | 2025-09-30 |  |
+| **[Post-Training Quantization via Residual Truncation and Zero Suppression for Diffusion Models](http://arxiv.org/abs/2509.26436v1)** | 2025-09-30 |  |
+| **[AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size](http://arxiv.org/abs/2509.26432v1)** | 2025-09-30 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
+| **[DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion](http://arxiv.org/abs/2509.14353v3)** | 2025-09-30 | <details><summary>https...</summary><p>https://genrobo.github.io/DreamControl/ (under submission)</p></details> |
+| **[Fast-dLLM v2: Efficient Block-Diffusion LLM](http://arxiv.org/abs/2509.26328v1)** | 2025-09-30 |  |
+| **[Binary Diffusion Probabilistic Model](http://arxiv.org/abs/2501.13915v2)** | 2025-09-30 |  |
+| **[Decoupled Classifier-Free Guidance for Counterfactual Diffusion Models](http://arxiv.org/abs/2506.14399v4)** | 2025-09-30 |  |
+| **[Ocean Diviner: A Diffusion-Augmented Reinforcement Learning Framework for AUV Robust Control in Underwater Tasks](http://arxiv.org/abs/2507.11283v2)** | 2025-09-30 | <details><summary>Jingz...</summary><p>Jingzehua Xu, Guanwen Xie and Weiyi Liu contributed equally to this work</p></details> |
+| **[IMG: Calibrating Diffusion Models via Implicit Multimodal Guidance](http://arxiv.org/abs/2509.26231v1)** | 2025-09-30 | ICCV 2025 |
+| **[Rethinking Diffusion Model in High Dimension](http://arxiv.org/abs/2503.08643v3)** | 2025-09-30 |  |
+| **[EVODiff: Entropy-aware Variance Optimized Diffusion Inference](http://arxiv.org/abs/2509.26096v1)** | 2025-09-30 | <details><summary>NeurI...</summary><p>NeurIPS 2025, 40 pages, 14 figures</p></details> |
+| **[RIFLE: Removal of Image Flicker-Banding via Latent Diffusion Enhancement](http://arxiv.org/abs/2509.24644v2)** | 2025-09-30 |  |
 
