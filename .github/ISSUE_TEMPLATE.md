@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 02, 2025
+title: Latest 15 Papers - October 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,13 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SpargeAttention: Accurate and Training-free Sparse Attention Accelerating Any Model Inference](http://arxiv.org/abs/2502.18137v7)** | 2025-10-01 | <details><summary>@inpr...</summary><p>@inproceedings{zhang2025spargeattn, title={Spargeattn: Accurate sparse attention accelerating any model inference}, author={Zhang, Jintao and Xiang, Chendong and Huang, Haofeng and Wei, Jia and Xi, Haocheng and Zhu, Jun and Chen, Jianfei}, booktitle={International Conference on Machine Learning (ICML)}, year={2025} }</p></details> |
+| **[SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization](http://arxiv.org/abs/2411.10958v7)** | 2025-10-01 | <details><summary>@inpr...</summary><p>@inproceedings{zhang2024sageattention2, title={Sageattention2: Efficient attention with thorough outlier smoothing and per-thread int4 quantization}, author={Zhang, Jintao and Huang, Haofeng and Zhang, Pengle and Wei, Jia and Zhu, Jun and Chen, Jianfei}, booktitle={International Conference on Machine Learning (ICML)}, year={2025} }</p></details> |
+| **[SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration](http://arxiv.org/abs/2410.02367v9)** | 2025-10-01 | <details><summary>@inpr...</summary><p>@inproceedings{zhang2025sageattention, title={SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration}, author={Zhang, Jintao and Wei, Jia and Zhang, Pengle and Zhu, Jun and Chen, Jianfei}, booktitle={International Conference on Learning Representations (ICLR)}, year={2025} }</p></details> |
+| **[DACoN: DINO for Anime Paint Bucket Colorization with Any Number of Reference Images](http://arxiv.org/abs/2509.14685v2)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. v2: Added results on the subset used by the baseline for consistency; full test set results are also reported (Tables 1 and 2)</p></details> |
+| **[Learning Human-Perceived Fakeness in AI-Generated Videos via Multimodal LLMs](http://arxiv.org/abs/2509.22646v2)** | 2025-10-01 | <details><summary>Proje...</summary><p>Project Page: https://deeptracereward.github.io/</p></details> |
+| **[H3AE: High Compression, High Speed, and High Quality AutoEncoder for Video Diffusion Models](http://arxiv.org/abs/2504.10567v2)** | 2025-10-01 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 9 tables</p></details> |
+| **[STORK: Faster Diffusion And Flow Matching Sampling By Resolving Both Stiffness And Structure-Dependence](http://arxiv.org/abs/2505.24210v2)** | 2025-10-01 |  |
 | **[Stable Cinemetrics : Structured Taxonomy and Evaluation for Professional Video Generation](http://arxiv.org/abs/2509.26555v1)** | 2025-09-30 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Project Page : https://stable-cinemetrics.github.io/</p></details> |
 | **[Photography Perspective Composition: Towards Aesthetic Perspective Recommendation](http://arxiv.org/abs/2505.20655v3)** | 2025-09-30 | <details><summary>Accep...</summary><p>Accepted at NeurIPS25</p></details> |
 | **[MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation](http://arxiv.org/abs/2509.26391v1)** | 2025-09-30 |  |
@@ -15,30 +22,23 @@ labels: documentation
 | **[HumanVideo-MME: Benchmarking MLLMs for Human-Centric Video Understanding](http://arxiv.org/abs/2507.04909v2)** | 2025-09-30 | Under review |
 | **[MoWM: Mixture-of-World-Models for Embodied Planning via Latent-to-Pixel Feature Modulation](http://arxiv.org/abs/2509.21797v2)** | 2025-09-30 | 11 pages, 4 figures |
 | **[Wan-Alpha: High-Quality Text-to-Video Generation with Alpha Channel](http://arxiv.org/abs/2509.24979v2)** | 2025-09-30 |  |
-| **[Taming Diffusion Transformer for Efficient Mobile Video Generation in Seconds](http://arxiv.org/abs/2507.13343v2)** | 2025-09-30 | <details><summary>21 pa...</summary><p>21 pages, 9 figures, 13 tables</p></details> |
-| **[WorldGym: World Model as An Environment for Policy Evaluation](http://arxiv.org/abs/2506.00613v3)** | 2025-09-30 | <details><summary>https...</summary><p>https://world-model-eval.github.io</p></details> |
-| **[QuantSparse: Comprehensively Compressing Video Diffusion Transformer with Model Quantization and Attention Sparsification](http://arxiv.org/abs/2509.23681v2)** | 2025-09-30 |  |
-| **[VSF: Simple, Efficient, and Effective Negative Guidance in Few-Step Image Generation Models By Value Sign Flip](http://arxiv.org/abs/2508.10931v5)** | 2025-09-29 |  |
-| **[FlashI2V: Fourier-Guided Latent Shifting Prevents Conditional Image Leakage in Image-to-Video Generation](http://arxiv.org/abs/2509.25187v1)** | 2025-09-29 |  |
-| **[DC-VideoGen: Efficient Video Generation with Deep Compression Video Autoencoder](http://arxiv.org/abs/2509.25182v1)** | 2025-09-29 | <details><summary>Tech ...</summary><p>Tech Report. The first three authors contributed equally to this work</p></details> |
-| **[Rolling Forcing: Autoregressive Long Video Diffusion in Real Time](http://arxiv.org/abs/2509.25161v1)** | 2025-09-29 | <details><summary>Proje...</summary><p>Project page: https://kunhao-liu.github.io/Rolling_Forcing_Webpage/</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Stitch: Training-Free Position Control in Multimodal Diffusion Transformers](http://arxiv.org/abs/2509.26644v1)** | 2025-09-30 | Preprint |
-| **[HilbertA: Hilbert Attention for Image Generation with Diffusion Models](http://arxiv.org/abs/2509.26538v1)** | 2025-09-30 |  |
-| **[CE-SDWV: Effective and Efficient Concept Erasure for Text-to-Image Diffusion Models via a Semantic-Driven Word Vocabulary](http://arxiv.org/abs/2501.15562v2)** | 2025-09-30 | 25 pages, 14 figures |
-| **[Contrastive Diffusion Guidance for Spatial Inverse Problems](http://arxiv.org/abs/2509.26489v1)** | 2025-09-30 |  |
-| **[Post-Training Quantization via Residual Truncation and Zero Suppression for Diffusion Models](http://arxiv.org/abs/2509.26436v1)** | 2025-09-30 |  |
-| **[AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size](http://arxiv.org/abs/2509.26432v1)** | 2025-09-30 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
-| **[DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion](http://arxiv.org/abs/2509.14353v3)** | 2025-09-30 | <details><summary>https...</summary><p>https://genrobo.github.io/DreamControl/ (under submission)</p></details> |
-| **[Fast-dLLM v2: Efficient Block-Diffusion LLM](http://arxiv.org/abs/2509.26328v1)** | 2025-09-30 |  |
-| **[Binary Diffusion Probabilistic Model](http://arxiv.org/abs/2501.13915v2)** | 2025-09-30 |  |
-| **[Decoupled Classifier-Free Guidance for Counterfactual Diffusion Models](http://arxiv.org/abs/2506.14399v4)** | 2025-09-30 |  |
-| **[Ocean Diviner: A Diffusion-Augmented Reinforcement Learning Framework for AUV Robust Control in Underwater Tasks](http://arxiv.org/abs/2507.11283v2)** | 2025-09-30 | <details><summary>Jingz...</summary><p>Jingzehua Xu, Guanwen Xie and Weiyi Liu contributed equally to this work</p></details> |
-| **[IMG: Calibrating Diffusion Models via Implicit Multimodal Guidance](http://arxiv.org/abs/2509.26231v1)** | 2025-09-30 | ICCV 2025 |
-| **[Rethinking Diffusion Model in High Dimension](http://arxiv.org/abs/2503.08643v3)** | 2025-09-30 |  |
-| **[EVODiff: Entropy-aware Variance Optimized Diffusion Inference](http://arxiv.org/abs/2509.26096v1)** | 2025-09-30 | <details><summary>NeurI...</summary><p>NeurIPS 2025, 40 pages, 14 figures</p></details> |
-| **[RIFLE: Removal of Image Flicker-Banding via Latent Diffusion Enhancement](http://arxiv.org/abs/2509.24644v2)** | 2025-09-30 |  |
+| **[Ultra-Fast Language Generation via Discrete Diffusion Divergence Instruct](http://arxiv.org/abs/2509.25035v2)** | 2025-10-01 | <details><summary>56 pa...</summary><p>56 pages, 7 figures, 7 tables</p></details> |
+| **[Sylvester-Preconditioned Adaptive-Rank Implicit Time Integrators for Advection-Diffusion Equations with Variable Coefficients](http://arxiv.org/abs/2410.19662v3)** | 2025-10-01 |  |
+| **[Act to See, See to Act: Diffusion-Driven Perception-Action Interplay for Adaptive Policies](http://arxiv.org/abs/2509.25822v2)** | 2025-10-01 | <details><summary>39th ...</summary><p>39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
+| **[Adaptive Diffusion Constrained Sampling for Bimanual Robot Manipulation](http://arxiv.org/abs/2505.13667v4)** | 2025-10-01 |  |
+| **[AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size](http://arxiv.org/abs/2509.26432v2)** | 2025-10-01 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
+| **[Diffusion Model as a Noise-Aware Latent Reward Model for Step-Level Preference Optimization](http://arxiv.org/abs/2502.01051v4)** | 2025-10-01 | NeurIPS 2025 |
+| **[Diffusion Bridge Variational Inference for Deep Gaussian Processes](http://arxiv.org/abs/2509.19078v2)** | 2025-10-01 |  |
+| **[Towards More Accurate Diffusion Model Acceleration with A Timestep Tuner](http://arxiv.org/abs/2310.09469v2)** | 2025-10-01 |  |
+| **[Rectified Diffusion Guidance for Conditional Generation](http://arxiv.org/abs/2410.18737v2)** | 2025-10-01 |  |
+| **[Revisiting Diffusion Q-Learning: From Iterative Denoising to One-Step Action Generation](http://arxiv.org/abs/2508.13904v2)** | 2025-10-01 |  |
+| **[Diffusion Model-based Parameter Estimation in Dynamic Power Systems](http://arxiv.org/abs/2411.10431v2)** | 2025-10-01 |  |
+| **[H3AE: High Compression, High Speed, and High Quality AutoEncoder for Video Diffusion Models](http://arxiv.org/abs/2504.10567v2)** | 2025-10-01 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 9 tables</p></details> |
+| **[STORK: Faster Diffusion And Flow Matching Sampling By Resolving Both Stiffness And Structure-Dependence](http://arxiv.org/abs/2505.24210v2)** | 2025-10-01 |  |
+| **[DC-Gen: Post-Training Diffusion Acceleration with Deeply Compressed Latent Space](http://arxiv.org/abs/2509.25180v2)** | 2025-10-01 | <details><summary>Tech ...</summary><p>Tech Report. The first three authors contributed equally to this work</p></details> |
+| **[Reinforcement Learning with Discrete Diffusion Policies for Combinatorial Action Spaces](http://arxiv.org/abs/2509.22963v2)** | 2025-10-01 | <details><summary>22 pa...</summary><p>22 pages, 10 figures. Haitong Ma and Ofir Nabati contributed equally to this paper</p></details> |
 
