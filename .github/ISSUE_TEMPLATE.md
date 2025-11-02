@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 31, 2025
+title: Latest 15 Papers - November 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with the MME-CoF Benchmark](http://arxiv.org/abs/2510.26802v1)** | 2025-10-30 | <details><summary>Proje...</summary><p>Project Page: https://video-cof.github.io</p></details> |
+| **[SEE4D: Pose-Free 4D Generation via Auto-Regressive Video Inpainting](http://arxiv.org/abs/2510.26796v1)** | 2025-10-30 | <details><summary>26 pa...</summary><p>26 pages; 21 figures; 3 tables; project page: https://see-4d.github.io/</p></details> |
+| **[The Quest for Generalizable Motion Generation: Data, Model, and Evaluation](http://arxiv.org/abs/2510.26794v1)** | 2025-10-30 |  |
+| **[HM-Talker: Hybrid Motion Modeling for High-Fidelity Talking Head Synthesis](http://arxiv.org/abs/2508.10566v2)** | 2025-10-30 |  |
+| **[Co-Evolving Latent Action World Models](http://arxiv.org/abs/2510.26433v1)** | 2025-10-30 |  |
+| **[LoCoT2V-Bench: A Benchmark for Long-Form and Complex Text-to-Video Generation](http://arxiv.org/abs/2510.26412v1)** | 2025-10-30 |  |
+| **[Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation](http://arxiv.org/abs/2508.07981v3)** | 2025-10-30 |  |
+| **[GameFactory: Creating New Games with Generative Interactive Videos](http://arxiv.org/abs/2501.08325v4)** | 2025-10-30 | <details><summary>ICCV ...</summary><p>ICCV 2025 Highlight, Project Page: https://yujiwen.github.io/gamefactory</p></details> |
+| **[Learning World Models for Interactive Video Generation](http://arxiv.org/abs/2505.21996v2)** | 2025-10-29 | <details><summary>Proje...</summary><p>Project page: https://sites.google.com/view/vrag</p></details> |
+| **[OnlyFlow: Optical Flow based Motion Conditioning for Video Diffusion Models](http://arxiv.org/abs/2411.10501v2)** | 2025-10-29 | <details><summary>8 pag...</summary><p>8 pages, 1 supplementary page, 9 figures</p></details> |
+| **[VC4VG: Optimizing Video Captions for Text-to-Video Generation](http://arxiv.org/abs/2510.24134v2)** | 2025-10-29 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025</p></details> |
 | **[VFXMaster: Unlocking Dynamic Visual Effect Generation via In-Context Learning](http://arxiv.org/abs/2510.25772v1)** | 2025-10-29 | <details><summary>Proje...</summary><p>Project Page URL:https://libaolu312.github.io/VFXMaster/</p></details> |
 | **[Bob's Confetti: Phonetic Memorization Attacks in Music and Video Generation](http://arxiv.org/abs/2507.17937v3)** | 2025-10-29 |  |
 | **[LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities](http://arxiv.org/abs/2502.12128v4)** | 2025-10-29 | <details><summary>Proje...</summary><p>Project page: https://ml-jku.github.io/LaM-SLidE/</p></details> |
 | **[VividCam: Learning Unconventional Camera Motions from Virtual Synthetic Videos](http://arxiv.org/abs/2510.24904v1)** | 2025-10-28 | 19 pages, 9 figures |
-| **[Generative View Stitching](http://arxiv.org/abs/2510.24718v1)** | 2025-10-28 | <details><summary>Proje...</summary><p>Project website: https://andrewsonga.github.io/gvs</p></details> |
-| **[Uniform Discrete Diffusion with Metric Path for Video Generation](http://arxiv.org/abs/2510.24717v1)** | 2025-10-28 | 19 pages, 10 figures |
-| **[LongCat-Video Technical Report](http://arxiv.org/abs/2510.22200v2)** | 2025-10-28 |  |
-| **[Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond](http://arxiv.org/abs/2405.03520v2)** | 2025-10-28 | <details><summary>This ...</summary><p>This survey will be regularly updated at: https://github.com/GigaAI-research/General-World-Models-Survey</p></details> |
-| **[MC-SJD : Maximal Coupling Speculative Jacobi Decoding for Autoregressive Visual Generation Acceleration](http://arxiv.org/abs/2510.24211v1)** | 2025-10-28 |  |
-| **[CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects](http://arxiv.org/abs/2401.09962v3)** | 2025-10-28 | IEEE TMM 2025 |
-| **[VC4VG: Optimizing Video Captions for Text-to-Video Generation](http://arxiv.org/abs/2510.24134v1)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025</p></details> |
-| **[Identity-Preserving Text-to-Video Generation Guided by Simple yet Effective Spatial-Temporal Decoupled Representations](http://arxiv.org/abs/2507.04705v3)** | 2025-10-27 | <details><summary>ACM M...</summary><p>ACM Multimedia 2025; code URL: https://github.com/rain152/IPVG</p></details> |
-| **[Improving Video Generation with Human Feedback](http://arxiv.org/abs/2501.13918v2)** | 2025-10-27 | <details><summary>https...</summary><p>https://github.com/KwaiVGI/VideoAlign</p></details> |
-| **[CoMo: Compositional Motion Customization for Text-to-Video Generation](http://arxiv.org/abs/2510.23007v1)** | 2025-10-27 |  |
-| **[S$^2$Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation](http://arxiv.org/abs/2508.04016v3)** | 2025-10-27 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FreeArt3D: Training-Free Articulated Object Generation using 3D Diffusion](http://arxiv.org/abs/2510.25765v1)** | 2025-10-29 |  |
-| **[Physics-Guided Conditional Diffusion Networks for Microwave Image Reconstruction](http://arxiv.org/abs/2510.25729v1)** | 2025-10-29 |  |
-| **[Error Bounds and Optimal Schedules for Masked Diffusions with Factorized Approximations](http://arxiv.org/abs/2510.25544v1)** | 2025-10-29 |  |
-| **[Improving Temporal Consistency and Fidelity at Inference-time in Perceptual Video Restoration by Zero-shot Image-based Diffusion Models](http://arxiv.org/abs/2510.25420v1)** | 2025-10-29 |  |
-| **[Diffusion-Driven Progressive Target Manipulation for Source-Free Domain Adaptation](http://arxiv.org/abs/2510.25279v1)** | 2025-10-29 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[Energy Approach from $\varepsilon$-Graph to Continuum Diffusion Model with Connectivity Functional](http://arxiv.org/abs/2510.25114v1)** | 2025-10-29 |  |
-| **[Pixel-Perfect Depth with Semantics-Prompted Diffusion Transformers](http://arxiv.org/abs/2510.07316v2)** | 2025-10-29 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Project page: https://pixel-perfect-depth.github.io/</p></details> |
-| **[LRT-Diffusion: Calibrated Risk-Aware Guidance for Diffusion Policies](http://arxiv.org/abs/2510.24983v1)** | 2025-10-28 |  |
-| **[CANDI: Hybrid Discrete-Continuous Diffusion Models](http://arxiv.org/abs/2510.22510v2)** | 2025-10-28 |  |
-| **[Non-Markovian Discrete Diffusion with Causal Language Models](http://arxiv.org/abs/2502.09767v3)** | 2025-10-28 | <details><summary>39th ...</summary><p>39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
-| **[Uniform Discrete Diffusion with Metric Path for Video Generation](http://arxiv.org/abs/2510.24717v1)** | 2025-10-28 | 19 pages, 10 figures |
-| **[Routing Matters in MoE: Scaling Diffusion Transformers with Explicit Routing Guidance](http://arxiv.org/abs/2510.24711v1)** | 2025-10-28 |  |
-| **[Reduced Basis Approach for Convection-Diffusion Equations with Non-Linear Boundary Reaction Conditions](http://arxiv.org/abs/2510.24632v1)** | 2025-10-28 |  |
-| **[Diffusion LLM with Native Variable Generation Lengths: Let [EOS] Lead the Way](http://arxiv.org/abs/2510.24605v1)** | 2025-10-28 |  |
-| **[Unbiased likelihood estimation of the Langevin diffusion for animal movement modelling](http://arxiv.org/abs/2510.24539v1)** | 2025-10-28 |  |
+| **[Masked Diffusion Captioning for Visual Feature Learning](http://arxiv.org/abs/2510.26799v1)** | 2025-10-30 | <details><summary>EMNLP...</summary><p>EMNLP 2025 (Findings). Project page: https://cfeng16.github.io/mdlm4vfl/</p></details> |
+| **[Locality in Image Diffusion Models Emerges from Data Statistics](http://arxiv.org/abs/2509.09672v2)** | 2025-10-30 | <details><summary>31 pa...</summary><p>31 pages, 20 figures, 7 tables</p></details> |
+| **[ScoreAdv: Score-based Targeted Generation of Natural Adversarial Examples via Diffusion Models](http://arxiv.org/abs/2507.06078v2)** | 2025-10-30 |  |
+| **[Diffusion-Aided Bandwidth-Efficient Semantic Communication with Adaptive Requests](http://arxiv.org/abs/2510.26442v1)** | 2025-10-30 | <details><summary>Submi...</summary><p>Submitted to IEEE ICC 2026</p></details> |
+| **[The evolving surface morphochemical reaction-diffusion system for battery modeling](http://arxiv.org/abs/2510.26437v1)** | 2025-10-30 | 25 pages, 14 figures |
+| **[EmoAttack: Emotion-to-Image Diffusion Models for Emotional Backdoor Generation](http://arxiv.org/abs/2406.15863v3)** | 2025-10-30 |  |
+| **[Tunable-Generalization Diffusion Powered by Self-Supervised Contextual Sub-Data for Low-Dose CT Reconstruction](http://arxiv.org/abs/2509.23885v2)** | 2025-10-30 |  |
+| **[SD-ReID: View-aware Stable Diffusion for Aerial-Ground Person Re-Identification](http://arxiv.org/abs/2504.09549v2)** | 2025-10-30 | <details><summary>More ...</summary><p>More modifications may performed</p></details> |
+| **[EEG-Driven Image Reconstruction with Saliency-Guided Diffusion Models](http://arxiv.org/abs/2510.26391v1)** | 2025-10-30 | Demo paper |
+| **[GLYPH-SR: Can We Achieve Both High-Quality Image Super-Resolution and High-Fidelity Text Recovery via VLM-guided Latent Diffusion Model?](http://arxiv.org/abs/2510.26339v1)** | 2025-10-30 | <details><summary>11 pa...</summary><p>11 pages, 6 figures. Includes supplementary material. Under review as a conference paper at ICLR 2026</p></details> |
+| **[Posterior Sampling by Combining Diffusion Models with Annealed Langevin Dynamics](http://arxiv.org/abs/2510.26324v1)** | 2025-10-30 | NeurIPS 2025 |
+| **[Neurosymbolic Diffusion Models](http://arxiv.org/abs/2505.13138v2)** | 2025-10-30 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
+| **[Distributional Multi-objective Black-box Optimization for Diffusion-model Inference-time Multi-Target Generation](http://arxiv.org/abs/2510.26278v1)** | 2025-10-30 |  |
+| **[How Efficient Are Diffusion Language Models? A Critical Examination of Efficiency Evaluation Practices](http://arxiv.org/abs/2510.18480v2)** | 2025-10-30 | <details><summary>Withd...</summary><p>Withdrawn by the authors to better delineate the related work from the paper's original contributions</p></details> |
+| **[Numerical Identification of a Time-Dependent Coefficient in a Time-Fractional Diffusion Equation with Integral Constraints](http://arxiv.org/abs/2505.19738v2)** | 2025-10-30 |  |
 
