@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 10, 2025
+title: Latest 15 Papers - November 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,9 +7,9 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[THEval. Evaluation Framework for Talking Head Video Generation](http://arxiv.org/abs/2511.04520v2)** | 2025-11-07 |  |
 | **[InfinityStar: Unified Spacetime AutoRegressive Modeling for Visual Generation](http://arxiv.org/abs/2511.04675v1)** | 2025-11-06 | NeurIPS 2025 Oral |
 | **[Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm](http://arxiv.org/abs/2511.04570v1)** | 2025-11-06 | 36 pages, 14 figures |
-| **[THEval. Evaluation Framework for Talking Head Video Generation](http://arxiv.org/abs/2511.04520v1)** | 2025-11-06 |  |
 | **[RISE-T2V: Rephrasing and Injecting Semantics with LLM for Expansive Text-to-Video Generation](http://arxiv.org/abs/2511.04317v1)** | 2025-11-06 | 17 pages, 16 figures |
 | **[Advanced Sign Language Video Generation with Compressed and Quantized Multi-Condition Tokenization](http://arxiv.org/abs/2506.15980v2)** | 2025-11-06 |  |
 | **[Seeing What Matters: Generalizable AI-generated Video Detection with Forensic-Oriented Augmentation](http://arxiv.org/abs/2506.16802v2)** | 2025-11-06 |  |
@@ -26,19 +26,19 @@ labels: documentation
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human Demonstrations](http://arxiv.org/abs/2511.04671v1)** | 2025-11-06 |  |
-| **[Optimal Inference Schedules for Masked Diffusion Models](http://arxiv.org/abs/2511.04647v1)** | 2025-11-06 | 33 pages, 1 figure |
-| **[Diffusion & Adversarial Schrödinger Bridges via Iterative Proportional Markovian Fitting](http://arxiv.org/abs/2410.02601v4)** | 2025-11-06 |  |
-| **[MusRec: Zero-Shot Text-to-Music Editing via Rectified Flow and Diffusion Transformers](http://arxiv.org/abs/2511.04376v1)** | 2025-11-06 |  |
-| **[X-Diffusion: Generating Detailed 3D MRI Volumes From a Single Image Using Cross-Sectional Diffusion Models](http://arxiv.org/abs/2404.19604v3)** | 2025-11-06 | <details><summary>accep...</summary><p>accepted at ICCV 2025 GAIA workshop https://era-ai-biomed.github.io/GAIA/ , project website: https://emmanuelleb985.github.io/XDiffusion/</p></details> |
-| **[On scalable and efficient training of diffusion samplers](http://arxiv.org/abs/2505.19552v4)** | 2025-11-06 |  |
-| **[Residual Diffusion Bridge Model for Image Restoration](http://arxiv.org/abs/2510.23116v2)** | 2025-11-06 |  |
-| **[DOVE: Efficient One-Step Diffusion Model for Real-World Video Super-Resolution](http://arxiv.org/abs/2505.16239v3)** | 2025-11-06 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025. Code is available at: https://github.com/zhengchen1999/DOVE</p></details> |
-| **[Tortoise and Hare Guidance: Accelerating Diffusion Model Inference with Multirate Integration](http://arxiv.org/abs/2511.04117v1)** | 2025-11-06 | <details><summary>21 pa...</summary><p>21 pages, 8 figures. NeurIPS 2025. Project page: https://yhlee-add.github.io/THG</p></details> |
-| **[Shallow Diffuse: Robust and Invisible Watermarking through Low-Dimensional Subspaces in Diffusion Models](http://arxiv.org/abs/2410.21088v3)** | 2025-11-06 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight</p></details> |
-| **[Stochastic Diffusion: A Diffusion Probabilistic Model for Stochastic Time Series Forecasting](http://arxiv.org/abs/2406.02827v3)** | 2025-11-06 | <details><summary>15 pa...</summary><p>15 pages, 4 figures. SIGKDD 2025</p></details> |
-| **[MicroLad: 2D-to-3D Microstructure Reconstruction and Generation via Latent Diffusion and Score Distillation](http://arxiv.org/abs/2508.20138v3)** | 2025-11-05 |  |
-| **[Diffusion Dynamics in Biofilms with Time-Varying Channels](http://arxiv.org/abs/2511.03856v1)** | 2025-11-05 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, submitted for journal publication</p></details> |
-| **[From Static to Dynamic: Enhancing Offline-to-Online Reinforcement Learning via Energy-Guided Diffusion Stratification](http://arxiv.org/abs/2511.03828v1)** | 2025-11-05 |  |
-| **[Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off](http://arxiv.org/abs/2508.04825v2)** | 2025-11-05 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2025, project page: https://nxnai.github.io/Voost/</p></details> |
+| **[DGTN: Graph-Enhanced Transformer with Diffusive Attention Gating Mechanism for Enzyme DDG Prediction](http://arxiv.org/abs/2511.05483v1)** | 2025-11-07 |  |
+| **[FreeSeg-Diff: Training-Free Open-Vocabulary Segmentation with Diffusion Models](http://arxiv.org/abs/2403.20105v2)** | 2025-11-07 |  |
+| **[In-and-Out: Algorithmic Diffusion for Sampling Convex Bodies](http://arxiv.org/abs/2405.01425v3)** | 2025-11-07 | <details><summary>30 pa...</summary><p>30 pages. Journal-submission version of NeurIPS 2024 (spotlight)</p></details> |
+| **[Efficient and Unbiased Sampling from Boltzmann Distributions via Variance-Tuned Diffusion Models](http://arxiv.org/abs/2505.21005v2)** | 2025-11-07 |  |
+| **[Diffusion-Based Electromagnetic Inverse Design of Scattering Structured Media](http://arxiv.org/abs/2511.05357v1)** | 2025-11-07 | <details><summary>Accep...</summary><p>Accepted to Machine Learning and the Physical Sciences Workshop, NeurIPS 2025</p></details> |
+| **[Rethinking Metrics and Diffusion Architecture for 3D Point Cloud Generation](http://arxiv.org/abs/2511.05308v1)** | 2025-11-07 | <details><summary>This ...</summary><p>This paper has been accepted at International Conference on 3D Vision (3DV) 2026</p></details> |
+| **[Integrating Score-Based Diffusion Models with Machine Learning-Enhanced Localization for Advanced Data Assimilation in Geological Carbon Storage](http://arxiv.org/abs/2511.05266v1)** | 2025-11-07 | <details><summary>Corre...</summary><p>Corresponding author: Gabriel Serr\~ao Seabra</p></details> |
+| **[MoE-DP: An MoE-Enhanced Diffusion Policy for Robust Long-Horizon Robotic Manipulation with Skill Decomposition and Failure Recovery](http://arxiv.org/abs/2511.05007v1)** | 2025-11-07 |  |
+| **[Peptide2Mol: A Diffusion Model for Generating Small Molecules as Peptide Mimics for Targeted Protein Binding](http://arxiv.org/abs/2511.04984v1)** | 2025-11-07 | <details><summary>Abstr...</summary><p>Abstract 1 page, main text 9 pages, references 2 pages, 4 figures. Submitted to RECOMB 2026</p></details> |
+| **[When Are Concepts Erased From Diffusion Models?](http://arxiv.org/abs/2505.17013v5)** | 2025-11-07 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025. Our code, data, and results are available at https://unerasing.baulab.info/</p></details> |
+| **[Fine-Tuning Masked Diffusion for Provable Self-Correction](http://arxiv.org/abs/2510.01384v2)** | 2025-11-07 | <details><summary>Autho...</summary><p>Authorship statement: Jaeyeon Kim and Seunggeun Kim contributed equally, and Taekyun Lee is also a co first author</p></details> |
+| **[Pattern-Aware Diffusion Synthesis of fMRI/dMRI with Tissue and Microstructural Refinement](http://arxiv.org/abs/2511.04963v1)** | 2025-11-07 |  |
+| **[Retrieval Augmented Diffusion Model for Structure-informed Antibody Design and Optimization](http://arxiv.org/abs/2410.15040v2)** | 2025-11-07 |  |
+| **[Identifying Drift, Diffusion, and Causal Structure from Temporal Snapshots](http://arxiv.org/abs/2410.22729v3)** | 2025-11-07 |  |
+| **[CASteer: Steering Diffusion Models for Controllable Generation](http://arxiv.org/abs/2503.09630v3)** | 2025-11-07 |  |
 
