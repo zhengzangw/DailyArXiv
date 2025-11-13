@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 13, 2025
+title: Latest 15 Papers - November 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -33,8 +33,8 @@ labels: documentation
 | **[Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions](https://arxiv.org/pdf/2302.07261v2)** | 2023-03-06 |  |
 | **[Immiscible Diffusion: Accelerating Diffusion Training with Noise Assignment](https://arxiv.org/pdf/2406.12303v2)** | 2024-11-01 |  |
 | **[Guided Diffusion from Self-Supervised Diffusion Features](https://arxiv.org/pdf/2312.08825v1)** | 2023-12-15 | Work In Progress |
-| **[Q-Diffusion: Quantizing Diffusion Models](https://arxiv.org/pdf/2302.04304v3)** | 2023-06-09 | <details><summary>The c...</summary><p>The code is available at https://github.com/Xiuyu-Li/q-diffusion</p></details> |
 | **[Beta Diffusion](https://arxiv.org/pdf/2309.07867v4)** | 2023-12-27 | NeurIPS 2023 |
+| **[Q-Diffusion: Quantizing Diffusion Models](https://arxiv.org/pdf/2302.04304v3)** | 2023-06-09 | <details><summary>The c...</summary><p>The code is available at https://github.com/Xiuyu-Li/q-diffusion</p></details> |
 | **[Diffusion in Diffusion: Cyclic One-Way Diffusion for Text-Vision-Conditioned Generation](https://arxiv.org/pdf/2306.08247v6)** | 2024-03-19 | <details><summary>Accep...</summary><p>Accepted by ICLR2024, 21 pages with 18 figures</p></details> |
 | **[Dynamical Diffusion: Learning Temporal Dynamics with Diffusion Models](https://arxiv.org/pdf/2503.00951v1)** | 2025-03-04 | ICLR 2025 Accepted |
 | **[Diffusion Explainer: Visual Explanation for Text-to-image Stable Diffusion](https://arxiv.org/pdf/2305.03509v3)** | 2024-09-04 | 5 pages, 7 figures |
