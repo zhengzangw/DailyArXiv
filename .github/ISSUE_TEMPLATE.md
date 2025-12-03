@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 03, 2025
+title: Latest 15 Papers - December 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Objects in Generated Videos Are Slower Than They Appear: Models Suffer Sub-Earth Gravity and Don't Know Galileo's Principle...for now](https://arxiv.org/abs/2512.02016v1)** | 2025-12-01 | <details><summary>https...</summary><p>https://gravity-eval.github.io/</p></details> |
-| **[Generative Video Motion Editing with 3D Point Tracks](https://arxiv.org/abs/2512.02015v1)** | 2025-12-01 | <details><summary>Proje...</summary><p>Project page: https://edit-by-track.github.io</p></details> |
-| **[TUNA: Taming Unified Visual Representations for Native Unified Multimodal Models](https://arxiv.org/abs/2512.02014v1)** | 2025-12-01 | <details><summary>Proje...</summary><p>Project page: https://tuna-ai.org/</p></details> |
-| **[Learning Dexterous Manipulation Skills from Imperfect Simulations](https://arxiv.org/abs/2512.02011v1)** | 2025-12-01 |  |
-| **[Learning Visual Affordance from Audio](https://arxiv.org/abs/2512.02005v1)** | 2025-12-01 | 15 pages, 10 figures |
-| **[PAI-Bench: A Comprehensive Benchmark For Physical AI](https://arxiv.org/abs/2512.01989v1)** | 2025-12-01 |  |
-| **[Continuous Perception Matters: Diagnosing Temporal Integration Failures in Multimodal Models](https://arxiv.org/abs/2408.07867v2)** | 2025-12-01 |  |
-| **[DualCamCtrl: Dual-Branch Diffusion Model for Geometry-Aware Camera-Controlled Video Generation](https://arxiv.org/abs/2511.23127v2)** | 2025-12-01 |  |
-| **[SpriteHand: Real-Time Versatile Hand-Object Interaction with Autoregressive Video Generation](https://arxiv.org/abs/2512.01960v1)** | 2025-12-01 |  |
-| **[GrndCtrl: Grounding World Models via Self-Supervised Reward Alignment](https://arxiv.org/abs/2512.01952v1)** | 2025-12-01 |  |
-| **[Script: Graph-Structured and Query-Conditioned Semantic Token Pruning for Multimodal Large Language Models](https://arxiv.org/abs/2512.01949v1)** | 2025-12-01 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research, Project in https://01yzzyu.github.io/script.github.io/</p></details> |
-| **[COACH: Collaborative Agents for Contextual Highlighting - A Multi-Agent Framework for Sports Video Analysis](https://arxiv.org/abs/2512.01853v1)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 Workshop LaMAS</p></details> |
-| **[JPEGs Just Got Snipped: Croppable Signatures Against Deepfake Images](https://arxiv.org/abs/2512.01845v1)** | 2025-12-01 |  |
-| **[PhyDetEx: Detecting and Explaining the Physical Plausibility of T2V Models](https://arxiv.org/abs/2512.01843v1)** | 2025-12-01 | 17 pages, 8 figures |
-| **[Seeing through Imagination: Learning Scene Geometry via Implicit Spatial World Modeling](https://arxiv.org/abs/2512.01821v1)** | 2025-12-01 |  |
+| **[Video2Act: A Dual-System Video Diffusion Policy with Robotic Spatio-Motional Modeling](https://arxiv.org/abs/2512.03044v1)** | 2025-12-02 |  |
+| **[OneThinker: All-in-one Reasoning Model for Image and Video](https://arxiv.org/abs/2512.03043v1)** | 2025-12-02 | <details><summary>Proje...</summary><p>Project page: https://github.com/tulerfeng/OneThinker</p></details> |
+| **[MultiShotMaster: A Controllable Multi-Shot Video Generation Framework](https://arxiv.org/abs/2512.03041v1)** | 2025-12-02 | <details><summary>Proje...</summary><p>Project Page: https://qinghew.github.io/MultiShotMaster</p></details> |
+| **[Video4Spatial: Towards Visuospatial Intelligence with Context-Guided Video Generation](https://arxiv.org/abs/2512.03040v1)** | 2025-12-02 | <details><summary>Proje...</summary><p>Project page at https://xizaoqu.github.io/video4spatial/</p></details> |
+| **[ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation](https://arxiv.org/abs/2512.03036v1)** | 2025-12-02 |  |
+| **[MAViD: A Multimodal Framework for Audio-Visual Dialogue Understanding and Generation](https://arxiv.org/abs/2512.03034v1)** | 2025-12-02 | <details><summary>Our p...</summary><p>Our project website is https://carlyx.github.io/MAViD/</p></details> |
+| **[SMP: Reusable Score-Matching Motion Priors for Physics-Based Character Control](https://arxiv.org/abs/2512.03028v1)** | 2025-12-02 | 14 pages, 9 figures |
+| **[Instant Video Models: Universal Adapters for Stabilizing Image-Based Networks](https://arxiv.org/abs/2512.03014v1)** | 2025-12-02 | NeurIPS 2025 |
+| **[In-Context Sync-LoRA for Portrait Video Editing](https://arxiv.org/abs/2512.03013v1)** | 2025-12-02 | <details><summary>Proje...</summary><p>Project page: https://sagipolaczek.github.io/Sync-LoRA/</p></details> |
+| **[Benchmarking Scientific Understanding and Reasoning for Video Generation using VideoScience-Bench](https://arxiv.org/abs/2512.02942v1)** | 2025-12-02 |  |
+| **[LoVoRA: Text-guided and Mask-free Video Object Removal and Addition with Learnable Object-aware Localization](https://arxiv.org/abs/2512.02933v1)** | 2025-12-02 |  |
+| **[Taming Camera-Controlled Video Generation with Verifiable Geometry Reward](https://arxiv.org/abs/2512.02870v1)** | 2025-12-02 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 7 tables</p></details> |
+| **[Action Anticipation at a Glimpse: To What Extent Can Multimodal Cues Replace Video?](https://arxiv.org/abs/2512.02846v1)** | 2025-12-02 | <details><summary>Accep...</summary><p>Accepted in WACV 2026 - Applications Track</p></details> |
+| **[ReVSeg: Incentivizing the Reasoning Chain for Video Segmentation with Reinforcement Learning](https://arxiv.org/abs/2512.02835v1)** | 2025-12-02 |  |
+| **[From Navigation to Refinement: Revealing the Two-Stage Nature of Flow-based Diffusion Models through Oracle Velocity](https://arxiv.org/abs/2512.02826v1)** | 2025-12-02 | <details><summary>Prepr...</summary><p>Preprint version; 15 pages, 16 figures</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Diffusion Model Framework for Maximum Entropy Reinforcement Learning](https://arxiv.org/abs/2512.02019v1)** | 2025-12-01 |  |
-| **[DualCamCtrl: Dual-Branch Diffusion Model for Geometry-Aware Camera-Controlled Video Generation](https://arxiv.org/abs/2511.23127v2)** | 2025-12-01 |  |
-| **[SGDiff: Scene Graph Guided Diffusion Model for Image Collaborative SegCaptioning](https://arxiv.org/abs/2512.01975v1)** | 2025-12-01 | Accept by AAAI-2025 |
-| **[Harnessing Diffusion-Generated Synthetic Images for Fair Image Classification](https://arxiv.org/abs/2511.08711v2)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted to AAAI AISI Track, 2026</p></details> |
-| **[Dimension-free error estimate for diffusion model and optimal scheduling](https://arxiv.org/abs/2512.01820v1)** | 2025-12-01 |  |
-| **[TTSnap: Test-Time Scaling of Diffusion Models via Noise-Aware Pruning](https://arxiv.org/abs/2511.22242v2)** | 2025-12-01 |  |
-| **[Reconstructing Multi-Scale Physical Fields from Extremely Sparse Measurements with an Autoencoder-Diffusion Cascade](https://arxiv.org/abs/2512.01572v1)** | 2025-12-01 | 19 pages,10 figures |
-| **[Self-Supervised One-Step Diffusion Refinement for Snapshot Compressive Imaging](https://arxiv.org/abs/2409.07417v2)** | 2025-12-01 |  |
-| **[Diffusion Fuzzy System: Fuzzy Rule Guided Latent Multi-Path Diffusion Modeling](https://arxiv.org/abs/2512.01533v1)** | 2025-12-01 |  |
-| **[Multi-view diffusion geometry using intertwined diffusion trajectories](https://arxiv.org/abs/2512.01484v1)** | 2025-12-01 |  |
-| **[ChronosObserver: Taming 4D World with Hyperspace Diffusion Sampling](https://arxiv.org/abs/2512.01481v1)** | 2025-12-01 |  |
-| **[ResDiT: Evoking the Intrinsic Resolution Scalability in Diffusion Transformers](https://arxiv.org/abs/2512.01426v1)** | 2025-12-01 | 8 pages |
-| **[MDiff4STR: Mask Diffusion Model for Scene Text Recognition](https://arxiv.org/abs/2512.01422v1)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 (Oral)</p></details> |
-| **[FRAMER: Frequency-Aligned Self-Distillation with Adaptive Modulation Leveraging Diffusion Priors for Real-World Image Super-Resolution](https://arxiv.org/abs/2512.01390v1)** | 2025-12-01 | <details><summary>Comme...</summary><p>Comments: Please visit our project page at https://cmlab-korea.github.io/FRAMER/</p></details> |
-| **[Beyond Loss Guidance: Using PDE Residuals as Spectral Attention in Diffusion Neural Operators](https://arxiv.org/abs/2512.01370v1)** | 2025-12-01 |  |
+| **[CAMEO: Correspondence-Attention Alignment for Multi-View Diffusion Models](https://arxiv.org/abs/2512.03045v1)** | 2025-12-02 | <details><summary>Proje...</summary><p>Project page: https://cvlab-kaist.github.io/CAMEO/</p></details> |
+| **[Video2Act: A Dual-System Video Diffusion Policy with Robotic Spatio-Motional Modeling](https://arxiv.org/abs/2512.03044v1)** | 2025-12-02 |  |
+| **[Glance: Accelerating Diffusion Models with 1 Sample](https://arxiv.org/abs/2512.02899v1)** | 2025-12-02 |  |
+| **[Fast-Decoding Diffusion Language Models via Progress-Aware Confidence Schedules](https://arxiv.org/abs/2512.02892v1)** | 2025-12-02 |  |
+| **[Learning to Integrate Diffusion ODEs by Averaging the Derivatives](https://arxiv.org/abs/2505.14502v2)** | 2025-12-02 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
+| **[SwarmDiffusion: End-To-End Traversability-Guided Diffusion for Embodiment-Agnostic Navigation of Heterogeneous Robots](https://arxiv.org/abs/2512.02851v1)** | 2025-12-02 | <details><summary>This ...</summary><p>This work has been submitted for publication and is currently under review</p></details> |
+| **[VLM as Strategist: Adaptive Generation of Safety-critical Testing Scenarios via Guided Diffusion](https://arxiv.org/abs/2512.02844v1)** | 2025-12-02 | 25 pages, 9 figures |
+| **[From Navigation to Refinement: Revealing the Two-Stage Nature of Flow-based Diffusion Models through Oracle Velocity](https://arxiv.org/abs/2512.02826v1)** | 2025-12-02 | <details><summary>Prepr...</summary><p>Preprint version; 15 pages, 16 figures</p></details> |
+| **[Aligning Diffusion Models with Noise-Conditioned Perception](https://arxiv.org/abs/2406.17636v2)** | 2025-12-02 |  |
+| **[PGP-DiffSR: Phase-Guided Progressive Pruning for Efficient Diffusion-based Image Super-Resolution](https://arxiv.org/abs/2512.02681v1)** | 2025-12-02 | 10 pages |
+| **[LAP: Fast LAtent Diffusion Planner with Fine-Grained Feature Distillation for Autonomous Driving](https://arxiv.org/abs/2512.00470v2)** | 2025-12-02 |  |
+| **[Generative diffusion for perceptron problems: statistical physics analysis and efficient algorithms](https://arxiv.org/abs/2502.16292v3)** | 2025-12-02 | <details><summary>v3 mi...</summary><p>v3 minor revision after NeurIPS's rebuttal</p></details> |
+| **[WeMMU: Enhanced Bridging of Vision-Language Models and Diffusion Models via Noisy Query Tokens](https://arxiv.org/abs/2512.02536v1)** | 2025-12-02 |  |
+| **[AID: Agent Intent from Diffusion for Multi-Agent Informative Path Planning](https://arxiv.org/abs/2512.02535v1)** | 2025-12-02 |  |
+| **[Diffusion-SDPO: Safeguarded Direct Preference Optimization for Diffusion Models](https://arxiv.org/abs/2511.03317v2)** | 2025-12-02 | <details><summary>The c...</summary><p>The code is publicly available at https://github.com/AIDC-AI/Diffusion-SDPO</p></details> |
 
