@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 04, 2025
+title: Latest 15 Papers - December 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Video2Act: A Dual-System Video Diffusion Policy with Robotic Spatio-Motional Modeling](https://arxiv.org/abs/2512.03044v1)** | 2025-12-02 |  |
-| **[OneThinker: All-in-one Reasoning Model for Image and Video](https://arxiv.org/abs/2512.03043v1)** | 2025-12-02 | <details><summary>Proje...</summary><p>Project page: https://github.com/tulerfeng/OneThinker</p></details> |
-| **[MultiShotMaster: A Controllable Multi-Shot Video Generation Framework](https://arxiv.org/abs/2512.03041v1)** | 2025-12-02 | <details><summary>Proje...</summary><p>Project Page: https://qinghew.github.io/MultiShotMaster</p></details> |
-| **[Video4Spatial: Towards Visuospatial Intelligence with Context-Guided Video Generation](https://arxiv.org/abs/2512.03040v1)** | 2025-12-02 | <details><summary>Proje...</summary><p>Project page at https://xizaoqu.github.io/video4spatial/</p></details> |
-| **[ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation](https://arxiv.org/abs/2512.03036v1)** | 2025-12-02 |  |
-| **[MAViD: A Multimodal Framework for Audio-Visual Dialogue Understanding and Generation](https://arxiv.org/abs/2512.03034v1)** | 2025-12-02 | <details><summary>Our p...</summary><p>Our project website is https://carlyx.github.io/MAViD/</p></details> |
-| **[SMP: Reusable Score-Matching Motion Priors for Physics-Based Character Control](https://arxiv.org/abs/2512.03028v1)** | 2025-12-02 | 14 pages, 9 figures |
-| **[Instant Video Models: Universal Adapters for Stabilizing Image-Based Networks](https://arxiv.org/abs/2512.03014v1)** | 2025-12-02 | NeurIPS 2025 |
-| **[In-Context Sync-LoRA for Portrait Video Editing](https://arxiv.org/abs/2512.03013v1)** | 2025-12-02 | <details><summary>Proje...</summary><p>Project page: https://sagipolaczek.github.io/Sync-LoRA/</p></details> |
-| **[Benchmarking Scientific Understanding and Reasoning for Video Generation using VideoScience-Bench](https://arxiv.org/abs/2512.02942v1)** | 2025-12-02 |  |
-| **[LoVoRA: Text-guided and Mask-free Video Object Removal and Addition with Learnable Object-aware Localization](https://arxiv.org/abs/2512.02933v1)** | 2025-12-02 |  |
-| **[Taming Camera-Controlled Video Generation with Verifiable Geometry Reward](https://arxiv.org/abs/2512.02870v1)** | 2025-12-02 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 7 tables</p></details> |
-| **[Action Anticipation at a Glimpse: To What Extent Can Multimodal Cues Replace Video?](https://arxiv.org/abs/2512.02846v1)** | 2025-12-02 | <details><summary>Accep...</summary><p>Accepted in WACV 2026 - Applications Track</p></details> |
-| **[ReVSeg: Incentivizing the Reasoning Chain for Video Segmentation with Reinforcement Learning](https://arxiv.org/abs/2512.02835v1)** | 2025-12-02 |  |
-| **[From Navigation to Refinement: Revealing the Two-Stage Nature of Flow-based Diffusion Models through Oracle Velocity](https://arxiv.org/abs/2512.02826v1)** | 2025-12-02 | <details><summary>Prepr...</summary><p>Preprint version; 15 pages, 16 figures</p></details> |
+| **[Stable Signer: Hierarchical Sign Language Generative Model](https://arxiv.org/abs/2512.04048v1)** | 2025-12-03 | <details><summary>12 pa...</summary><p>12 pages, 7 figures. More Demo at https://stablesigner.github.io</p></details> |
+| **[SDPose: Exploiting Diffusion Priors for Out-of-Domain and Robust Pose Estimation](https://arxiv.org/abs/2509.24980v2)** | 2025-12-03 | <details><summary>20 pa...</summary><p>20 pages, 10 figures, 7 tables</p></details> |
+| **[RELIC: Interactive Video World Model with Long-Horizon Memory](https://arxiv.org/abs/2512.04040v1)** | 2025-12-03 | 22 pages |
+| **[PSA: Pyramid Sparse Attention for Efficient Video Understanding and Generation](https://arxiv.org/abs/2512.04025v1)** | 2025-12-03 | Tech report |
+| **[SMP: Reusable Score-Matching Motion Priors for Physics-Based Character Control](https://arxiv.org/abs/2512.03028v2)** | 2025-12-03 | 14 pages, 9 figures |
+| **[TempR1: Improving Temporal Understanding of MLLMs via Temporal-Aware Multi-Task Reinforcement Learning](https://arxiv.org/abs/2512.03963v1)** | 2025-12-03 |  |
+| **[UniMo: Unifying 2D Video and 3D Human Motion with an Autoregressive Framework](https://arxiv.org/abs/2512.03918v1)** | 2025-12-03 | <details><summary>https...</summary><p>https://carlyx.github.io/UniMo/</p></details> |
+| **[Zero-Shot Video Translation and Editing with Frame Spatial-Temporal Correspondence](https://arxiv.org/abs/2512.03905v1)** | 2025-12-03 | <details><summary>Code:...</summary><p>Code: https://github.com/Sunnycookies/FRESCO-v2, Project: https://williamyang1991.github.io/projects/FRESCOv2/</p></details> |
+| **[Language-Driven Object-Oriented Two-Stage Method for Scene Graph Anticipation](https://arxiv.org/abs/2509.05661v2)** | 2025-12-03 |  |
+| **[InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue](https://arxiv.org/abs/2510.13747v2)** | 2025-12-03 |  |
+| **[Game-RL: Synthesizing Multimodal Verifiable Game Data to Boost VLMs' General Reasoning](https://arxiv.org/abs/2505.13886v7)** | 2025-12-03 | <details><summary>Our c...</summary><p>Our compliance team has determined that the submission contains technical details that have not been fully reviewed through internal audit nor authorized for public disclosure</p></details> |
+| **[ToG-Bench: Task-Oriented Spatio-Temporal Grounding in Egocentric Videos](https://arxiv.org/abs/2512.03666v1)** | 2025-12-03 | 26 pages |
+| **[The promising potential of vision language models for the generation of textual weather forecasts](https://arxiv.org/abs/2512.03623v1)** | 2025-12-03 | 7 pages, 2 tables |
+| **[ReCamDriving: LiDAR-Free Camera-Controlled Novel Trajectory Video Generation](https://arxiv.org/abs/2512.03621v1)** | 2025-12-03 | <details><summary>Proje...</summary><p>Project page: https://recamdriving.github.io/</p></details> |
+| **[LAMP: Language-Assisted Motion Planning for Controllable Video Generation](https://arxiv.org/abs/2512.03619v1)** | 2025-12-03 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CAMEO: Correspondence-Attention Alignment for Multi-View Diffusion Models](https://arxiv.org/abs/2512.03045v1)** | 2025-12-02 | <details><summary>Proje...</summary><p>Project page: https://cvlab-kaist.github.io/CAMEO/</p></details> |
-| **[Video2Act: A Dual-System Video Diffusion Policy with Robotic Spatio-Motional Modeling](https://arxiv.org/abs/2512.03044v1)** | 2025-12-02 |  |
-| **[Glance: Accelerating Diffusion Models with 1 Sample](https://arxiv.org/abs/2512.02899v1)** | 2025-12-02 |  |
-| **[Fast-Decoding Diffusion Language Models via Progress-Aware Confidence Schedules](https://arxiv.org/abs/2512.02892v1)** | 2025-12-02 |  |
-| **[Learning to Integrate Diffusion ODEs by Averaging the Derivatives](https://arxiv.org/abs/2505.14502v2)** | 2025-12-02 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
-| **[SwarmDiffusion: End-To-End Traversability-Guided Diffusion for Embodiment-Agnostic Navigation of Heterogeneous Robots](https://arxiv.org/abs/2512.02851v1)** | 2025-12-02 | <details><summary>This ...</summary><p>This work has been submitted for publication and is currently under review</p></details> |
-| **[VLM as Strategist: Adaptive Generation of Safety-critical Testing Scenarios via Guided Diffusion](https://arxiv.org/abs/2512.02844v1)** | 2025-12-02 | 25 pages, 9 figures |
-| **[From Navigation to Refinement: Revealing the Two-Stage Nature of Flow-based Diffusion Models through Oracle Velocity](https://arxiv.org/abs/2512.02826v1)** | 2025-12-02 | <details><summary>Prepr...</summary><p>Preprint version; 15 pages, 16 figures</p></details> |
-| **[Aligning Diffusion Models with Noise-Conditioned Perception](https://arxiv.org/abs/2406.17636v2)** | 2025-12-02 |  |
-| **[PGP-DiffSR: Phase-Guided Progressive Pruning for Efficient Diffusion-based Image Super-Resolution](https://arxiv.org/abs/2512.02681v1)** | 2025-12-02 | 10 pages |
-| **[LAP: Fast LAtent Diffusion Planner with Fine-Grained Feature Distillation for Autonomous Driving](https://arxiv.org/abs/2512.00470v2)** | 2025-12-02 |  |
-| **[Generative diffusion for perceptron problems: statistical physics analysis and efficient algorithms](https://arxiv.org/abs/2502.16292v3)** | 2025-12-02 | <details><summary>v3 mi...</summary><p>v3 minor revision after NeurIPS's rebuttal</p></details> |
-| **[WeMMU: Enhanced Bridging of Vision-Language Models and Diffusion Models via Noisy Query Tokens](https://arxiv.org/abs/2512.02536v1)** | 2025-12-02 |  |
-| **[AID: Agent Intent from Diffusion for Multi-Agent Informative Path Planning](https://arxiv.org/abs/2512.02535v1)** | 2025-12-02 |  |
-| **[Diffusion-SDPO: Safeguarded Direct Preference Optimization for Diffusion Models](https://arxiv.org/abs/2511.03317v2)** | 2025-12-02 | <details><summary>The c...</summary><p>The code is publicly available at https://github.com/AIDC-AI/Diffusion-SDPO</p></details> |
+| **[SDPose: Exploiting Diffusion Priors for Out-of-Domain and Robust Pose Estimation](https://arxiv.org/abs/2509.24980v2)** | 2025-12-03 | <details><summary>20 pa...</summary><p>20 pages, 10 figures, 7 tables</p></details> |
+| **[Sat2Flow: A Structure-Aware Diffusion Framework for Human Flow Generation from Satellite Imagery](https://arxiv.org/abs/2508.19499v2)** | 2025-12-03 | 9 pages, 5 figures |
+| **[Highly Efficient Test-Time Scaling for T2I Diffusion Models with Text Embedding Perturbation](https://arxiv.org/abs/2512.03996v1)** | 2025-12-03 |  |
+| **[BlurDM: A Blur Diffusion Model for Image Deblurring](https://arxiv.org/abs/2512.03979v1)** | 2025-12-03 | NeurIPS 2025 |
+| **[CoDA: From Text-to-Image Diffusion Models to Training-Free Dataset Distillation](https://arxiv.org/abs/2512.03844v1)** | 2025-12-03 | 34 pages, 24 figures |
+| **[Principled RL for Diffusion LLMs Emerges from a Sequence-Level Perspective](https://arxiv.org/abs/2512.03759v1)** | 2025-12-03 |  |
+| **[Fully Unsupervised Self-debiasing of Text-to-Image Diffusion Models](https://arxiv.org/abs/2512.03749v1)** | 2025-12-03 | <details><summary>Accep...</summary><p>Accepted at WACV 2026</p></details> |
+| **[ConvRot: Rotation-Based Plug-and-Play 4-bit Quantization for Diffusion Transformers](https://arxiv.org/abs/2512.03673v1)** | 2025-12-03 |  |
+| **[Universal Multi-Domain Translation via Diffusion Routers](https://arxiv.org/abs/2510.03252v2)** | 2025-12-03 |  |
+| **[PipeFusion: Patch-level Pipeline Parallelism for Diffusion Transformers Inference](https://arxiv.org/abs/2405.14430v4)** | 2025-12-03 |  |
+| **[SwarmDiffusion: End-To-End Traversability-Guided Diffusion for Embodiment-Agnostic Navigation of Heterogeneous Robots](https://arxiv.org/abs/2512.02851v2)** | 2025-12-03 | <details><summary>This ...</summary><p>This work has been submitted for publication and is currently under review</p></details> |
+| **[GAOT: Generating Articulated Objects Through Text-Guided Diffusion Models](https://arxiv.org/abs/2512.03566v1)** | 2025-12-03 | <details><summary>Accep...</summary><p>Accepted by ACM MM Asia2026</p></details> |
+| **[Towards Irreversible Machine Unlearning for Diffusion Models](https://arxiv.org/abs/2512.03564v1)** | 2025-12-03 |  |
+| **[FloodDiffusion: Tailored Diffusion Forcing for Streaming Motion Generation](https://arxiv.org/abs/2512.03520v1)** | 2025-12-03 | 15 pages, 7 figures |
+| **[Margin-aware Preference Optimization for Aligning Diffusion Models without Reference](https://arxiv.org/abs/2406.06424v2)** | 2025-12-03 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 Main Technical Track</p></details> |
 
