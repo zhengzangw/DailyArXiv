@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 12, 2025
+title: Latest 15 Papers - December 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ReViSE: Towards Reason-Informed Video Editing in Unified Models with Self-Reflective Learning](https://arxiv.org/abs/2512.09924v1)** | 2025-12-10 |  |
+| **[AlcheMinT: Fine-grained Temporal Control for Multi-Reference Consistent Video Generation](https://arxiv.org/abs/2512.10943v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/Video-AlcheMinT/snap-research.github.io/Video-AlcheMinT</p></details> |
+| **[OmniView: An All-Seeing Diffusion Model for 3D and 4D View Synthesis](https://arxiv.org/abs/2512.10940v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/OmniView/</p></details> |
+| **[From Generated Human Videos to Physically Plausible Robot Trajectories](https://arxiv.org/abs/2512.05094v2)** | 2025-12-11 | <details><summary>For p...</summary><p>For project website, see https://genmimic.github.io</p></details> |
+| **[StereoWorld: Geometry-Aware Monocular-to-Stereo Video Generation](https://arxiv.org/abs/2512.09363v2)** | 2025-12-11 |  |
+| **[Lang2Motion: Bridging Language and Motion through Joint Embedding Spaces](https://arxiv.org/abs/2512.10617v1)** | 2025-12-11 |  |
+| **[Audio-sync Video Instance Editing with Granularity-Aware Mask Refiner](https://arxiv.org/abs/2512.10571v1)** | 2025-12-11 |  |
+| **[Video4Spatial: Towards Visuospatial Intelligence with Context-Guided Video Generation](https://arxiv.org/abs/2512.03040v2)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page at https://xizaoqu.github.io/video4spatial/</p></details> |
+| **[LeMiCa: Lexicographic Minimax Path Caching for Efficient Diffusion-Based Video Generation](https://arxiv.org/abs/2511.00090v3)** | 2025-12-11 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight</p></details> |
+| **[ShotDirector: Directorially Controllable Multi-Shot Video Generation with Cinematographic Transitions](https://arxiv.org/abs/2512.10286v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project Page: https://uknowsth.github.io/ShotDirector/</p></details> |
+| **[ReViSE: Towards Reason-Informed Video Editing in Unified Models with Self-Reflective Learning](https://arxiv.org/abs/2512.09924v2)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project Page: [this https URL](https://github.com/Liuxinyv/ReViSE)</p></details> |
+| **[Less is More: Data-Efficient Adaptation for Controllable Text-to-Video Generation](https://arxiv.org/abs/2511.17844v2)** | 2025-12-11 |  |
+| **[Towards Efficient Real-Time Video Motion Transfer via Generative Time Series Modeling](https://arxiv.org/abs/2504.05537v2)** | 2025-12-10 |  |
 | **[UniUGP: Unifying Understanding, Generation, and Planing For End-to-end Autonomous Driving](https://arxiv.org/abs/2512.09864v1)** | 2025-12-10 | <details><summary>Proje...</summary><p>Project Page: https://seed-uniugp.github.io/</p></details> |
 | **[Matrix-game 2.0: An open-source real-time and streaming interactive world model](https://arxiv.org/abs/2508.13009v3)** | 2025-12-10 | <details><summary>Proje...</summary><p>Project Page: https://matrix-game-v2.github.io</p></details> |
 | **[VHOI: Controllable Video Generation of Human-Object Interactions from Sparse Trajectories via Motion Densification](https://arxiv.org/abs/2512.09646v1)** | 2025-12-10 |  |
-| **[MoReGen: Multi-Agent Motion-Reasoning Engine for Code-based Text-to-Video Synthesis](https://arxiv.org/abs/2512.04221v2)** | 2025-12-10 |  |
-| **[Bring Your Dreams to Life: Continual Text-to-Video Customization](https://arxiv.org/abs/2512.05802v2)** | 2025-12-10 | Accepted to AAAI2026 |
-| **[Label-free Motion-Conditioned Diffusion Model for Cardiac Ultrasound Synthesis](https://arxiv.org/abs/2512.09418v1)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted at MICAD 2025</p></details> |
-| **[StereoWorld: Geometry-Aware Monocular-to-Stereo Video Generation](https://arxiv.org/abs/2512.09363v1)** | 2025-12-10 |  |
-| **[PlayerOne: Egocentric World Simulator](https://arxiv.org/abs/2506.09995v3)** | 2025-12-10 | <details><summary>Proje...</summary><p>Project page: https://playerone-hku.github.io/</p></details> |
-| **[VABench: A Comprehensive Benchmark for Audio-Video Generation](https://arxiv.org/abs/2512.09299v1)** | 2025-12-10 | 24 pages, 25 figures |
-| **[Understanding World or Predicting Future? A Comprehensive Survey of World Models](https://arxiv.org/abs/2411.14499v4)** | 2025-12-10 | <details><summary>Exten...</summary><p>Extended version of the original ACM CSUR paper, 49 pages, 6 figures, 8 tables</p></details> |
-| **[GimbalDiffusion: Gravity-Aware Camera Control for Video Generation](https://arxiv.org/abs/2512.09112v1)** | 2025-12-09 | <details><summary>Proje...</summary><p>Project page: https://lvsn.github.io/GimbalDiffusion/</p></details> |
-| **[Astra: General Interactive World Model with Autoregressive Denoising](https://arxiv.org/abs/2512.08931v1)** | 2025-12-09 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/EternalEvan/Astra</p></details> |
-| **[Self-Evolving 3D Scene Generation from a Single Image](https://arxiv.org/abs/2512.08905v1)** | 2025-12-09 |  |
-| **[Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance](https://arxiv.org/abs/2512.08765v1)** | 2025-12-09 | <details><summary>Neurl...</summary><p>NeurlPS 2025. Code and data available at https://github.com/ali-vilab/Wan-Move</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Splatent: Splatting Diffusion Latents for Novel View Synthesis](https://arxiv.org/abs/2512.09923v1)** | 2025-12-10 |  |
-| **[Diffusion Posterior Sampler for Hyperspectral Unmixing with Spectral Variability Modeling](https://arxiv.org/abs/2512.09871v1)** | 2025-12-10 |  |
-| **[Constrained Discrete Diffusion](https://arxiv.org/abs/2503.09790v3)** | 2025-12-10 | <details><summary>Publi...</summary><p>Published at the 39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
-| **[Learning What Matters: Steering Diffusion via Spectrally Anisotropic Forward Noise](https://arxiv.org/abs/2510.09660v4)** | 2025-12-10 |  |
-| **[d-TreeRPO: Towards More Reliable Policy Optimization for Diffusion Language Models](https://arxiv.org/abs/2512.09675v1)** | 2025-12-10 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 3tables</p></details> |
-| **[Directional Diffusion-Style Code Editing Pre-training](https://arxiv.org/abs/2501.12079v2)** | 2025-12-10 |  |
-| **[Lazy Diffusion: Mitigating spectral collapse in generative diffusion-based stable autoregressive emulation of turbulent flows](https://arxiv.org/abs/2512.09572v1)** | 2025-12-10 |  |
-| **[Attention Sinks in Diffusion Language Models](https://arxiv.org/abs/2510.15731v2)** | 2025-12-10 |  |
-| **[Color encoding in Latent Space of Stable Diffusion Models](https://arxiv.org/abs/2512.09477v1)** | 2025-12-10 | <details><summary>6 pag...</summary><p>6 pages, 8 figures, Color Imaging Conference 33</p></details> |
-| **[CoD: A Diffusion Foundation Model for Image Compression](https://arxiv.org/abs/2511.18706v2)** | 2025-12-10 |  |
-| **[BridgeDrive: Diffusion Bridge Policy for Closed-Loop Trajectory Planning in Autonomous Driving](https://arxiv.org/abs/2509.23589v2)** | 2025-12-10 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 9 tables</p></details> |
-| **[Diffusion Secant Alignment for Score-Based Density Ratio Estimation](https://arxiv.org/abs/2509.04852v3)** | 2025-12-10 |  |
-| **[Label-free Motion-Conditioned Diffusion Model for Cardiac Ultrasound Synthesis](https://arxiv.org/abs/2512.09418v1)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted at MICAD 2025</p></details> |
-| **[FUSER: Feed-Forward MUltiview 3D Registration Transformer and SE(3)$^N$ Diffusion Refinement](https://arxiv.org/abs/2512.09373v1)** | 2025-12-10 | 13 pages, 6 figures |
-| **[OmniPSD: Layered PSD Generation with Diffusion Transformer](https://arxiv.org/abs/2512.09247v1)** | 2025-12-10 |  |
+| **[StereoSpace: Depth-Free Synthesis of Stereo Geometry via End-to-End Diffusion in a Canonical Space](https://arxiv.org/abs/2512.10959v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page: https://hf.co/spaces/prs-eth/stereospace_web</p></details> |
+| **[Group Diffusion: Enhancing Image Generation by Unlocking Cross-Sample Collaboration](https://arxiv.org/abs/2512.10954v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project Page: https://sichengmo.github.io/GroupDiff/</p></details> |
+| **[ImplicitRDP: An End-to-End Visual-Force Diffusion Policy with Structural Slow-Fast Learning](https://arxiv.org/abs/2512.10946v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page: https://implicit-rdp.github.io</p></details> |
+| **[OmniView: An All-Seeing Diffusion Model for 3D and 4D View Synthesis](https://arxiv.org/abs/2512.10940v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/OmniView/</p></details> |
+| **[Guided Transfer Learning for Discrete Diffusion Models](https://arxiv.org/abs/2512.10877v1)** | 2025-12-11 | <details><summary>7 pag...</summary><p>7 pages (main text) + appendix</p></details> |
+| **[Scaling Behavior of Discrete Diffusion Language Models](https://arxiv.org/abs/2512.10858v1)** | 2025-12-11 |  |
+| **[AERMANI-Diffusion: Regime-Conditioned Diffusion for Dynamics Learning in Aerial Manipulators](https://arxiv.org/abs/2512.10773v1)** | 2025-12-11 |  |
+| **[Optimization-Guided Diffusion for Interactive Scene Generation](https://arxiv.org/abs/2512.07661v2)** | 2025-12-11 |  |
+| **[CAPTAIN: Semantic Feature Injection for Memorization Mitigation in Text-to-Image Diffusion Models](https://arxiv.org/abs/2512.10655v1)** | 2025-12-11 |  |
+| **[Glance: Accelerating Diffusion Models with 1 Sample](https://arxiv.org/abs/2512.02899v2)** | 2025-12-11 |  |
+| **[Mode-Seeking for Inverse Problems with Diffusion Models](https://arxiv.org/abs/2512.10524v1)** | 2025-12-11 |  |
+| **[Targeted Data Protection for Diffusion Model by Matching Training Trajectory](https://arxiv.org/abs/2512.10433v1)** | 2025-12-11 | AAAI 2026 |
+| **[LeMiCa: Lexicographic Minimax Path Caching for Efficient Diffusion-Based Video Generation](https://arxiv.org/abs/2511.00090v3)** | 2025-12-11 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight</p></details> |
+| **[Diffusion differentiable resampling](https://arxiv.org/abs/2512.10401v1)** | 2025-12-11 |  |
+| **[Toward a Unified Geometry Understanding: Riemannian Diffusion Framework for Graph Generation and Prediction](https://arxiv.org/abs/2510.04522v2)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 
