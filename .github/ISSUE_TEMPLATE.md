@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 17, 2025
+title: Latest 15 Papers - December 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spatia: Video Generation with Updatable Spatial Memory](https://arxiv.org/abs/2512.15716v1)** | 2025-12-17 | <details><summary>Proje...</summary><p>Project page: https://zhaojingjing713.github.io/Spatia/</p></details> |
+| **[Skyra: AI-Generated Video Detection via Grounded Artifact Reasoning](https://arxiv.org/abs/2512.15693v1)** | 2025-12-17 | <details><summary>Proje...</summary><p>Project Page: https://github.com/JoeLeelyf/Skyra</p></details> |
+| **[GRAN-TED: Generating Robust, Aligned, and Nuanced Text Embedding for Diffusion Models](https://arxiv.org/abs/2512.15560v1)** | 2025-12-17 |  |
+| **[DeX-Portrait: Disentangled and Expressive Portrait Animation via Explicit and Latent Motion Representations](https://arxiv.org/abs/2512.15524v1)** | 2025-12-17 | <details><summary>Proje...</summary><p>Projectpage: https://syx132.github.io/DeX-Portrait/</p></details> |
+| **[Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation](https://arxiv.org/abs/2508.07981v4)** | 2025-12-17 | Accepted to AAAI2026 |
+| **[Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset](https://arxiv.org/abs/2510.15742v2)** | 2025-12-17 | <details><summary>Proje...</summary><p>Project page: https://ezioby.github.io/Ditto_page Code: https://github.com/EzioBy/Ditto</p></details> |
+| **[TalkVerse: Democratizing Minute-Long Audio-Driven Video Generation](https://arxiv.org/abs/2512.14938v1)** | 2025-12-16 | <details><summary>open-...</summary><p>open-sourced single-person full-body talking video generation dataset, training code and checkpoints</p></details> |
+| **[MemFlow: Flowing Adaptive Memory for Consistent and Efficient Long Video Narratives](https://arxiv.org/abs/2512.14699v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project Page: https://sihuiji.github.io/MemFlow.github.io/</p></details> |
+| **[Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model](https://arxiv.org/abs/2512.13507v2)** | 2025-12-16 | <details><summary>Seeda...</summary><p>Seedance 1.5 pro Technical Report</p></details> |
+| **[SS4D: Native 4D Generative Model via Structured Spacetime Latents](https://arxiv.org/abs/2512.14284v1)** | 2025-12-16 | <details><summary>ToG(S...</summary><p>ToG(Siggraph Asia 2025)</p></details> |
+| **[DRAW2ACT: Turning Depth-Encoded Trajectories into Robotic Demonstration Videos](https://arxiv.org/abs/2512.14217v1)** | 2025-12-16 |  |
+| **[Video Reality Test: Can AI-Generated ASMR Videos fool VLMs and Humans?](https://arxiv.org/abs/2512.13281v2)** | 2025-12-16 | <details><summary>Code ...</summary><p>Code is at https://github.com/video-reality-test/video-reality-test, page is at https://video-reality-test.github.io/</p></details> |
+| **[Video Generation with Stable Transparency via Shiftable RGB-A Distribution Learner](https://arxiv.org/abs/2509.24979v3)** | 2025-12-16 |  |
+| **[Beyond the Visible: Disocclusion-Aware Editing via Proxy Dynamic Graphs](https://arxiv.org/abs/2512.13392v2)** | 2025-12-16 |  |
 | **[LongVie 2: Multimodal Controllable Ultra-Long Video World Model](https://arxiv.org/abs/2512.13604v1)** | 2025-12-15 | <details><summary>Proje...</summary><p>Project Page: https://vchitect.github.io/LongVie2-project/</p></details> |
-| **[Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model](https://arxiv.org/abs/2512.13507v1)** | 2025-12-15 | <details><summary>Seeda...</summary><p>Seedance 1.5 pro Technical Report</p></details> |
-| **[Transform Trained Transformer: Accelerating Naive 4K Video Generation Over 10$\times$](https://arxiv.org/abs/2512.13492v1)** | 2025-12-15 | <details><summary>Proje...</summary><p>Project page: https://zhangzjn.github.io/projects/T3-Video</p></details> |
-| **[PoseAnything: Universal Pose-guided Video Generation with Part-aware Temporal Coherence](https://arxiv.org/abs/2512.13465v1)** | 2025-12-15 |  |
-| **[Beyond the Visible: Disocclusion-Aware Editing via Proxy Dynamic Graphs](https://arxiv.org/abs/2512.13392v1)** | 2025-12-15 |  |
-| **[KlingAvatar 2.0 Technical Report](https://arxiv.org/abs/2512.13313v1)** | 2025-12-15 | 14 pages, 7 figures |
-| **[LINA: Learning INterventions Adaptively for Physical Alignment and Generalization in Diffusion Models](https://arxiv.org/abs/2512.13290v1)** | 2025-12-15 |  |
-| **[Video Reality Test: Can AI-Generated ASMR Videos fool VLMs and Humans?](https://arxiv.org/abs/2512.13281v1)** | 2025-12-15 | <details><summary>Code ...</summary><p>Code is at https://github.com/video-reality-test/video-reality-tes}, page is at https://video-reality-test.github.io/</p></details> |
-| **[3D Scene Prompting for Scene-Consistent Camera-Controllable Video Generation](https://arxiv.org/abs/2510.14945v2)** | 2025-12-15 | <details><summary>Proje...</summary><p>Project page : https://cvlab-kaist.github.io/3DScenePrompt/</p></details> |
-| **[Motus: A Unified Latent Action World Model](https://arxiv.org/abs/2512.13030v1)** | 2025-12-15 |  |
-| **[SneakPeek: Future-Guided Instructional Streaming Video Generation](https://arxiv.org/abs/2512.13019v1)** | 2025-12-15 |  |
-| **[What Happens Next? Next Scene Prediction with a Unified Video Model](https://arxiv.org/abs/2512.13015v1)** | 2025-12-15 |  |
-| **[Light-X: Generative 4D Video Rendering with Camera and Illumination Control](https://arxiv.org/abs/2512.05115v2)** | 2025-12-15 | <details><summary>Proje...</summary><p>Project Page: https://lightx-ai.github.io/ , Code: https://github.com/TQTQliu/Light-X</p></details> |
-| **[Astra: General Interactive World Model with Autoregressive Denoising](https://arxiv.org/abs/2512.08931v2)** | 2025-12-15 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/EternalEvan/Astra</p></details> |
-| **[ID-Crafter: VLM-Grounded Online RL for Compositional Multi-Subject Video Generation](https://arxiv.org/abs/2511.00511v4)** | 2025-12-15 | <details><summary>Proje...</summary><p>Project page: https://angericky.github.io/ID-Crafter, Code: https://github.com/paulpanwang/IDCrafter</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DiffusionBrowser: Interactive Diffusion Previews via Multi-Branch Decoders](https://arxiv.org/abs/2512.13690v1)** | 2025-12-15 | <details><summary>Proje...</summary><p>Project page: https://susunghong.github.io/DiffusionBrowser</p></details> |
-| **[BlurDM: A Blur Diffusion Model for Image Deblurring](https://arxiv.org/abs/2512.03979v2)** | 2025-12-15 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Project Page: https://jin-ting-he.github.io/Blur-Diffusion-Model/</p></details> |
-| **[Image Diffusion Preview with Consistency Solver](https://arxiv.org/abs/2512.13592v1)** | 2025-12-15 |  |
-| **[ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding](https://arxiv.org/abs/2512.13586v1)** | 2025-12-15 |  |
-| **[Beyond Next-Token Prediction: A Performance Characterization of Diffusion versus Autoregressive Language Models](https://arxiv.org/abs/2510.04146v2)** | 2025-12-15 | 11 pages, 5 figures |
-| **[Virtual Multiplex Staining for Histological Images using a Marker-wise Conditioned Diffusion Model](https://arxiv.org/abs/2508.14681v3)** | 2025-12-15 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
-| **[CleanDIFT: Diffusion Features without Noise](https://arxiv.org/abs/2412.03439v3)** | 2025-12-15 | <details><summary>for t...</summary><p>for the project page and code, view https://compvis.github.io/cleandift/</p></details> |
-| **[LINA: Learning INterventions Adaptively for Physical Alignment and Generalization in Diffusion Models](https://arxiv.org/abs/2512.13290v1)** | 2025-12-15 |  |
-| **[STARCaster: Spatio-Temporal AutoRegressive Video Diffusion for Identity- and View-Aware Talking Portraits](https://arxiv.org/abs/2512.13247v1)** | 2025-12-15 | <details><summary>Proje...</summary><p>Project page: https://foivospar.github.io/STARCaster/</p></details> |
-| **[Diffusion-Based Restoration for Multi-Modal 3D Object Detection in Adverse Weather](https://arxiv.org/abs/2512.13107v1)** | 2025-12-15 |  |
-| **[TC-LoRA: Temporally Modulated Conditional LoRA for Adaptive Diffusion Control](https://arxiv.org/abs/2510.09561v2)** | 2025-12-15 | <details><summary>Proje...</summary><p>Project Page: https://minkyoungcho.github.io/tc-lora/; NeurIPS 2025 Workshop on SPACE in Vision, Language, and Embodied AI (SpaVLE); 10 pages</p></details> |
-| **[Multi-Robot Motion Planning from Vision and Language using Heat-Inspired Diffusion](https://arxiv.org/abs/2512.13090v1)** | 2025-12-15 |  |
-| **[A Self-Conditioned Representation Guided Diffusion Model for Realistic Text-to-LiDAR Scene Generation](https://arxiv.org/abs/2511.19004v2)** | 2025-12-15 |  |
-| **[Bi-Erasing: A Bidirectional Framework for Concept Removal in Diffusion Models](https://arxiv.org/abs/2512.13039v1)** | 2025-12-15 | Under Review |
-| **[Patch-Based Diffusion for Data-Efficient, Radiologist-Preferred MRI Reconstruction](https://arxiv.org/abs/2509.21531v2)** | 2025-12-15 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/voilalab/PaDIS-MRI</p></details> |
+| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v1)** | 2025-12-17 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, conference or other essential info</p></details> |
+| **[End-to-End Training for Autoregressive Video Diffusion via Self-Resampling](https://arxiv.org/abs/2512.15702v1)** | 2025-12-17 | <details><summary>Proje...</summary><p>Project Page: https://guoyww.github.io/projects/resampling-forcing/</p></details> |
+| **[Corrective Diffusion Language Models](https://arxiv.org/abs/2512.15596v1)** | 2025-12-17 | 18 pages |
+| **[GRAN-TED: Generating Robust, Aligned, and Nuanced Text Embedding for Diffusion Models](https://arxiv.org/abs/2512.15560v1)** | 2025-12-17 |  |
+| **[DiffEM: Learning from Corrupted Data with Diffusion Models via Expectation Maximization](https://arxiv.org/abs/2510.12691v2)** | 2025-12-17 |  |
+| **[Error Bounds and Optimal Schedules for Masked Diffusions with Factorized Approximations](https://arxiv.org/abs/2510.25544v2)** | 2025-12-17 |  |
+| **[LoRAverse: A Submodular Framework to Retrieve Diverse Adapters for Diffusion Models](https://arxiv.org/abs/2510.15022v2)** | 2025-12-17 |  |
+| **[Control-Augmented Autoregressive Diffusion for Data Assimilation](https://arxiv.org/abs/2510.06637v2)** | 2025-12-17 |  |
+| **[Generative Preprocessing for Image Compression with Pre-trained Diffusion Models](https://arxiv.org/abs/2512.15270v1)** | 2025-12-17 | <details><summary>Accep...</summary><p>Accepted as a PAPER and for publication in the DCC 2026 proceedings</p></details> |
+| **[DEER: Draft with Diffusion, Verify with Autoregressive Models](https://arxiv.org/abs/2512.15176v1)** | 2025-12-17 | <details><summary>Homep...</summary><p>Homepage : https://czc726.github.io/DEER/</p></details> |
+| **[From Navigation to Refinement: Revealing the Two-Stage Nature of Flow-based Diffusion Models through Oracle Velocity](https://arxiv.org/abs/2512.02826v2)** | 2025-12-17 | <details><summary>Prepr...</summary><p>Preprint v2; 15 pages, 16 figures</p></details> |
+| **[Downsizing Diffusion Models for Cardinality Estimation](https://arxiv.org/abs/2510.20681v2)** | 2025-12-17 |  |
+| **[FADTI: Fourier and Attention Driven Diffusion for Multivariate Time Series Imputation](https://arxiv.org/abs/2512.15116v1)** | 2025-12-17 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. 15 pages, 8 figures</p></details> |
+| **[TerraFusion: Joint Generation of Terrain Geometry and Texture Using Latent Diffusion Models](https://arxiv.org/abs/2505.04050v3)** | 2025-12-17 |  |
+| **[PMMD: A pose-guided multi-view multi-modal diffusion for person generation](https://arxiv.org/abs/2512.15069v1)** | 2025-12-17 |  |
 
