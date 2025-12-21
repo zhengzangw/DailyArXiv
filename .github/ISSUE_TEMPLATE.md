@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 19, 2025
+title: Latest 15 Papers - December 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Kling-Omni Technical Report](https://arxiv.org/abs/2512.16776v1)** | 2025-12-18 | <details><summary>Kling...</summary><p>Kling-Omni Technical Report</p></details> |
+| **[Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length](https://arxiv.org/abs/2512.04677v3)** | 2025-12-18 |  |
+| **[Factorized Video Generation: Decoupling Scene Construction and Temporal Synthesis in Text-to-Video Diffusion Models](https://arxiv.org/abs/2512.16371v1)** | 2025-12-18 |  |
+| **[Video Reality Test: Can AI-Generated ASMR Videos fool VLMs and Humans?](https://arxiv.org/abs/2512.13281v3)** | 2025-12-18 | <details><summary>Code ...</summary><p>Code is at https://github.com/video-reality-test/video-reality-test, page is at https://video-reality-test.github.io/</p></details> |
+| **[TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times](https://arxiv.org/abs/2512.16093v1)** | 2025-12-18 |  |
 | **[Spatia: Video Generation with Updatable Spatial Memory](https://arxiv.org/abs/2512.15716v1)** | 2025-12-17 | <details><summary>Proje...</summary><p>Project page: https://zhaojingjing713.github.io/Spatia/</p></details> |
 | **[Skyra: AI-Generated Video Detection via Grounded Artifact Reasoning](https://arxiv.org/abs/2512.15693v1)** | 2025-12-17 | <details><summary>Proje...</summary><p>Project Page: https://github.com/JoeLeelyf/Skyra</p></details> |
 | **[GRAN-TED: Generating Robust, Aligned, and Nuanced Text Embedding for Diffusion Models](https://arxiv.org/abs/2512.15560v1)** | 2025-12-17 |  |
@@ -17,28 +22,23 @@ labels: documentation
 | **[MemFlow: Flowing Adaptive Memory for Consistent and Efficient Long Video Narratives](https://arxiv.org/abs/2512.14699v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project Page: https://sihuiji.github.io/MemFlow.github.io/</p></details> |
 | **[Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model](https://arxiv.org/abs/2512.13507v2)** | 2025-12-16 | <details><summary>Seeda...</summary><p>Seedance 1.5 pro Technical Report</p></details> |
 | **[SS4D: Native 4D Generative Model via Structured Spacetime Latents](https://arxiv.org/abs/2512.14284v1)** | 2025-12-16 | <details><summary>ToG(S...</summary><p>ToG(Siggraph Asia 2025)</p></details> |
-| **[DRAW2ACT: Turning Depth-Encoded Trajectories into Robotic Demonstration Videos](https://arxiv.org/abs/2512.14217v1)** | 2025-12-16 |  |
-| **[Video Reality Test: Can AI-Generated ASMR Videos fool VLMs and Humans?](https://arxiv.org/abs/2512.13281v2)** | 2025-12-16 | <details><summary>Code ...</summary><p>Code is at https://github.com/video-reality-test/video-reality-test, page is at https://video-reality-test.github.io/</p></details> |
-| **[Video Generation with Stable Transparency via Shiftable RGB-A Distribution Learner](https://arxiv.org/abs/2509.24979v3)** | 2025-12-16 |  |
-| **[Beyond the Visible: Disocclusion-Aware Editing via Proxy Dynamic Graphs](https://arxiv.org/abs/2512.13392v2)** | 2025-12-16 |  |
-| **[LongVie 2: Multimodal Controllable Ultra-Long Video World Model](https://arxiv.org/abs/2512.13604v1)** | 2025-12-15 | <details><summary>Proje...</summary><p>Project Page: https://vchitect.github.io/LongVie2-project/</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v1)** | 2025-12-17 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, conference or other essential info</p></details> |
-| **[End-to-End Training for Autoregressive Video Diffusion via Self-Resampling](https://arxiv.org/abs/2512.15702v1)** | 2025-12-17 | <details><summary>Proje...</summary><p>Project Page: https://guoyww.github.io/projects/resampling-forcing/</p></details> |
-| **[Corrective Diffusion Language Models](https://arxiv.org/abs/2512.15596v1)** | 2025-12-17 | 18 pages |
-| **[GRAN-TED: Generating Robust, Aligned, and Nuanced Text Embedding for Diffusion Models](https://arxiv.org/abs/2512.15560v1)** | 2025-12-17 |  |
-| **[DiffEM: Learning from Corrupted Data with Diffusion Models via Expectation Maximization](https://arxiv.org/abs/2510.12691v2)** | 2025-12-17 |  |
-| **[Error Bounds and Optimal Schedules for Masked Diffusions with Factorized Approximations](https://arxiv.org/abs/2510.25544v2)** | 2025-12-17 |  |
-| **[LoRAverse: A Submodular Framework to Retrieve Diverse Adapters for Diffusion Models](https://arxiv.org/abs/2510.15022v2)** | 2025-12-17 |  |
-| **[Control-Augmented Autoregressive Diffusion for Data Assimilation](https://arxiv.org/abs/2510.06637v2)** | 2025-12-17 |  |
-| **[Generative Preprocessing for Image Compression with Pre-trained Diffusion Models](https://arxiv.org/abs/2512.15270v1)** | 2025-12-17 | <details><summary>Accep...</summary><p>Accepted as a PAPER and for publication in the DCC 2026 proceedings</p></details> |
-| **[DEER: Draft with Diffusion, Verify with Autoregressive Models](https://arxiv.org/abs/2512.15176v1)** | 2025-12-17 | <details><summary>Homep...</summary><p>Homepage : https://czc726.github.io/DEER/</p></details> |
-| **[From Navigation to Refinement: Revealing the Two-Stage Nature of Flow-based Diffusion Models through Oracle Velocity](https://arxiv.org/abs/2512.02826v2)** | 2025-12-17 | <details><summary>Prepr...</summary><p>Preprint v2; 15 pages, 16 figures</p></details> |
-| **[Downsizing Diffusion Models for Cardinality Estimation](https://arxiv.org/abs/2510.20681v2)** | 2025-12-17 |  |
-| **[FADTI: Fourier and Attention Driven Diffusion for Multivariate Time Series Imputation](https://arxiv.org/abs/2512.15116v1)** | 2025-12-17 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. 15 pages, 8 figures</p></details> |
-| **[TerraFusion: Joint Generation of Terrain Geometry and Texture Using Latent Diffusion Models](https://arxiv.org/abs/2505.04050v3)** | 2025-12-17 |  |
-| **[PMMD: A pose-guided multi-view multi-modal diffusion for person generation](https://arxiv.org/abs/2512.15069v1)** | 2025-12-17 |  |
+| **[Diffusion-Based Restoration for Multi-Modal 3D Object Detection in Adverse Weather](https://arxiv.org/abs/2512.13107v2)** | 2025-12-18 |  |
+| **[Four-hour thunderstorm nowcasting using a deep diffusion model of satellite data](https://arxiv.org/abs/2404.10512v5)** | 2025-12-18 |  |
+| **[FrameDiffuser: G-Buffer-Conditioned Diffusion for Neural Forward Frame Rendering](https://arxiv.org/abs/2512.16670v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project Page: https://framediffuser.jdihlmann.com/</p></details> |
+| **[REGLUE Your Latents with Global and Local Semantics for Entangled Diffusion](https://arxiv.org/abs/2512.16636v1)** | 2025-12-18 |  |
+| **[DeContext as Defense: Safe Image Editing in Diffusion Transformers](https://arxiv.org/abs/2512.16625v1)** | 2025-12-18 | 17 pages, 11 figures |
+| **[Trainable Log-linear Sparse Attention for Efficient Diffusion Transformers](https://arxiv.org/abs/2512.16615v1)** | 2025-12-18 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/SingleZombie/LLSA</p></details> |
+| **[Yuan-TecSwin: A text conditioned Diffusion model with Swin-transformer blocks](https://arxiv.org/abs/2512.16586v1)** | 2025-12-18 |  |
+| **[Hierarchical Schedule Optimization for Fast and Robust Diffusion Model Sampling](https://arxiv.org/abs/2511.11688v2)** | 2025-12-18 | <details><summary>Prepr...</summary><p>Preprint, accepted to AAAI 2026</p></details> |
+| **[InfoDCL: Informative Noise Enhanced Diffusion Based Contrastive Learning](https://arxiv.org/abs/2512.16576v1)** | 2025-12-18 |  |
+| **[Factorized Video Generation: Decoupling Scene Construction and Temporal Synthesis in Text-to-Video Diffusion Models](https://arxiv.org/abs/2512.16371v1)** | 2025-12-18 |  |
+| **[Masked Diffusion for Generative Recommendation](https://arxiv.org/abs/2511.23021v2)** | 2025-12-18 | 25 pages |
+| **[GMODiff: One-Step Gain Map Refinement with Diffusion Priors for HDR Reconstruction](https://arxiv.org/abs/2512.16357v1)** | 2025-12-18 |  |
+| **[Fine-Tuning Discrete Diffusion Models with Policy Gradient Methods](https://arxiv.org/abs/2502.01384v3)** | 2025-12-18 | <details><summary>33 pa...</summary><p>33 pages, 8 figures, 8 tables</p></details> |
+| **[$\mathrm{D}^\mathrm{3}$-Predictor: Noise-Free Deterministic Diffusion for Dense Prediction](https://arxiv.org/abs/2512.07062v3)** | 2025-12-18 |  |
+| **[ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search](https://arxiv.org/abs/2511.06833v2)** | 2025-12-18 | AAAI26 poster |
 
