@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 22, 2025
+title: Latest 15 Papers - December 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,13 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dexterous World Models](https://arxiv.org/abs/2512.17907v1)** | 2025-12-19 | <details><summary>Proje...</summary><p>Project Page: snuvclab.github.io/dwm</p></details> |
+| **[Map2Video: Street View Imagery Driven AI Video Generation](https://arxiv.org/abs/2512.17883v1)** | 2025-12-19 | 15 pages, 19 figures |
+| **[InsertAnywhere: Bridging 4D Scene Geometry and Diffusion Models for Realistic Video Object Insertion](https://arxiv.org/abs/2512.17504v1)** | 2025-12-19 | <details><summary>16 pa...</summary><p>16 pages, project page: https://myyzzzoooo.github.io/InsertAnywhere/</p></details> |
+| **[Mitty: Diffusion-based Human-to-Robot Video Generation](https://arxiv.org/abs/2512.17253v1)** | 2025-12-19 |  |
+| **[PhysFire-WM: A Physics-Informed World Model for Emulating Fire Spread Dynamics](https://arxiv.org/abs/2512.17152v1)** | 2025-12-19 |  |
+| **[Infinite-Homography as Robust Conditioning for Camera-Controlled Video Generation](https://arxiv.org/abs/2512.17040v1)** | 2025-12-18 |  |
+| **[Animate Any Character in Any World](https://arxiv.org/abs/2512.17796v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project page: https://snowflakewang.github.io/AniX/</p></details> |
 | **[Kling-Omni Technical Report](https://arxiv.org/abs/2512.16776v1)** | 2025-12-18 | <details><summary>Kling...</summary><p>Kling-Omni Technical Report</p></details> |
 | **[Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length](https://arxiv.org/abs/2512.04677v3)** | 2025-12-18 |  |
 | **[Factorized Video Generation: Decoupling Scene Construction and Temporal Synthesis in Text-to-Video Diffusion Models](https://arxiv.org/abs/2512.16371v1)** | 2025-12-18 |  |
@@ -14,31 +21,24 @@ labels: documentation
 | **[TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times](https://arxiv.org/abs/2512.16093v1)** | 2025-12-18 |  |
 | **[Spatia: Video Generation with Updatable Spatial Memory](https://arxiv.org/abs/2512.15716v1)** | 2025-12-17 | <details><summary>Proje...</summary><p>Project page: https://zhaojingjing713.github.io/Spatia/</p></details> |
 | **[Skyra: AI-Generated Video Detection via Grounded Artifact Reasoning](https://arxiv.org/abs/2512.15693v1)** | 2025-12-17 | <details><summary>Proje...</summary><p>Project Page: https://github.com/JoeLeelyf/Skyra</p></details> |
-| **[GRAN-TED: Generating Robust, Aligned, and Nuanced Text Embedding for Diffusion Models](https://arxiv.org/abs/2512.15560v1)** | 2025-12-17 |  |
-| **[DeX-Portrait: Disentangled and Expressive Portrait Animation via Explicit and Latent Motion Representations](https://arxiv.org/abs/2512.15524v1)** | 2025-12-17 | <details><summary>Proje...</summary><p>Projectpage: https://syx132.github.io/DeX-Portrait/</p></details> |
-| **[Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation](https://arxiv.org/abs/2508.07981v4)** | 2025-12-17 | Accepted to AAAI2026 |
-| **[Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset](https://arxiv.org/abs/2510.15742v2)** | 2025-12-17 | <details><summary>Proje...</summary><p>Project page: https://ezioby.github.io/Ditto_page Code: https://github.com/EzioBy/Ditto</p></details> |
-| **[TalkVerse: Democratizing Minute-Long Audio-Driven Video Generation](https://arxiv.org/abs/2512.14938v1)** | 2025-12-16 | <details><summary>open-...</summary><p>open-sourced single-person full-body talking video generation dataset, training code and checkpoints</p></details> |
-| **[MemFlow: Flowing Adaptive Memory for Consistent and Efficient Long Video Narratives](https://arxiv.org/abs/2512.14699v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project Page: https://sihuiji.github.io/MemFlow.github.io/</p></details> |
-| **[Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model](https://arxiv.org/abs/2512.13507v2)** | 2025-12-16 | <details><summary>Seeda...</summary><p>Seedance 1.5 pro Technical Report</p></details> |
-| **[SS4D: Native 4D Generative Model via Structured Spacetime Latents](https://arxiv.org/abs/2512.14284v1)** | 2025-12-16 | <details><summary>ToG(S...</summary><p>ToG(Siggraph Asia 2025)</p></details> |
+| **[Lights, Camera, Consistency: A Multistage Pipeline for Character-Stable AI Video Stories](https://arxiv.org/abs/2512.16954v1)** | 2025-12-17 | Under Review |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Diffusion-Based Restoration for Multi-Modal 3D Object Detection in Adverse Weather](https://arxiv.org/abs/2512.13107v2)** | 2025-12-18 |  |
-| **[Four-hour thunderstorm nowcasting using a deep diffusion model of satellite data](https://arxiv.org/abs/2404.10512v5)** | 2025-12-18 |  |
-| **[FrameDiffuser: G-Buffer-Conditioned Diffusion for Neural Forward Frame Rendering](https://arxiv.org/abs/2512.16670v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project Page: https://framediffuser.jdihlmann.com/</p></details> |
-| **[REGLUE Your Latents with Global and Local Semantics for Entangled Diffusion](https://arxiv.org/abs/2512.16636v1)** | 2025-12-18 |  |
-| **[DeContext as Defense: Safe Image Editing in Diffusion Transformers](https://arxiv.org/abs/2512.16625v1)** | 2025-12-18 | 17 pages, 11 figures |
-| **[Trainable Log-linear Sparse Attention for Efficient Diffusion Transformers](https://arxiv.org/abs/2512.16615v1)** | 2025-12-18 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/SingleZombie/LLSA</p></details> |
-| **[Yuan-TecSwin: A text conditioned Diffusion model with Swin-transformer blocks](https://arxiv.org/abs/2512.16586v1)** | 2025-12-18 |  |
-| **[Hierarchical Schedule Optimization for Fast and Robust Diffusion Model Sampling](https://arxiv.org/abs/2511.11688v2)** | 2025-12-18 | <details><summary>Prepr...</summary><p>Preprint, accepted to AAAI 2026</p></details> |
-| **[InfoDCL: Informative Noise Enhanced Diffusion Based Contrastive Learning](https://arxiv.org/abs/2512.16576v1)** | 2025-12-18 |  |
-| **[Factorized Video Generation: Decoupling Scene Construction and Temporal Synthesis in Text-to-Video Diffusion Models](https://arxiv.org/abs/2512.16371v1)** | 2025-12-18 |  |
-| **[Masked Diffusion for Generative Recommendation](https://arxiv.org/abs/2511.23021v2)** | 2025-12-18 | 25 pages |
-| **[GMODiff: One-Step Gain Map Refinement with Diffusion Priors for HDR Reconstruction](https://arxiv.org/abs/2512.16357v1)** | 2025-12-18 |  |
-| **[Fine-Tuning Discrete Diffusion Models with Policy Gradient Methods](https://arxiv.org/abs/2502.01384v3)** | 2025-12-18 | <details><summary>33 pa...</summary><p>33 pages, 8 figures, 8 tables</p></details> |
-| **[$\mathrm{D}^\mathrm{3}$-Predictor: Noise-Free Deterministic Diffusion for Dense Prediction](https://arxiv.org/abs/2512.07062v3)** | 2025-12-18 |  |
-| **[ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search](https://arxiv.org/abs/2511.06833v2)** | 2025-12-18 | AAAI26 poster |
+| **[Diffusion Forcing for Multi-Agent Interaction Sequence Modeling](https://arxiv.org/abs/2512.17900v1)** | 2025-12-19 |  |
+| **[InSPECT: Invariant Spectral Features Preservation of Diffusion Models](https://arxiv.org/abs/2512.17873v1)** | 2025-12-19 |  |
+| **[InfSplign: Inference-Time Spatial Alignment of Text-to-Image Diffusion Models](https://arxiv.org/abs/2512.17851v1)** | 2025-12-19 |  |
+| **[The Diffusion Duality](https://arxiv.org/abs/2506.10892v3)** | 2025-12-19 | <details><summary>ICML ...</summary><p>ICML 2025. We provide the code at: https://github.com/s-sahoo/duo [v3] includes improved theory, clearer presentation, and a new future work section</p></details> |
+| **[Provably Secure Covert Messaging Using Image-based Diffusion Processes](https://arxiv.org/abs/2503.10063v2)** | 2025-12-19 |  |
+| **[UrbanDIFF: A Denoising Diffusion Model for Spatial Gap Filling of Urban Land Surface Temperature Under Dense Cloud Cover](https://arxiv.org/abs/2512.17782v1)** | 2025-12-19 |  |
+| **[An Empirical Study of Sampling Hyperparameters in Diffusion-Based Super-Resolution](https://arxiv.org/abs/2512.17675v1)** | 2025-12-19 |  |
+| **[Vidarc: Embodied Video Diffusion Model for Closed-loop Control](https://arxiv.org/abs/2512.17661v1)** | 2025-12-19 |  |
+| **[CharDiff-LP: A Diffusion Model with Character-Level Guidance for License Plate Image Restoration](https://arxiv.org/abs/2510.17330v2)** | 2025-12-19 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 4 tables</p></details> |
+| **[3One2: One-step Regression Plus One-step Diffusion for One-hot Modulation in Dual-path Video Snapshot Compressive Imaging](https://arxiv.org/abs/2512.17578v1)** | 2025-12-19 |  |
+| **[DeContext as Defense: Safe Image Editing in Diffusion Transformers](https://arxiv.org/abs/2512.16625v2)** | 2025-12-19 | 17 pages, 11 figures |
+| **[RoomEditor++: A Parameter-Sharing Diffusion Architecture for High-Fidelity Furniture Synthesis](https://arxiv.org/abs/2512.17573v1)** | 2025-12-19 |  |
+| **[Kinematics-Aware Diffusion Policy with Consistent 3D Observation and Action Space for Whole-Arm Robotic Manipulation](https://arxiv.org/abs/2512.17568v1)** | 2025-12-19 | <details><summary>The f...</summary><p>The first two authors contributed equally. Project Website: https://kinematics-aware-diffusion-policy.github.io</p></details> |
+| **[InsertAnywhere: Bridging 4D Scene Geometry and Diffusion Models for Realistic Video Object Insertion](https://arxiv.org/abs/2512.17504v1)** | 2025-12-19 | <details><summary>16 pa...</summary><p>16 pages, project page: https://myyzzzoooo.github.io/InsertAnywhere/</p></details> |
+| **[STDiff: A State Transition Diffusion Framework for Time Series Imputation in Industrial Systems](https://arxiv.org/abs/2508.19011v3)** | 2025-12-19 | <details><summary>Peer-...</summary><p>Peer-reviewed and published in Expert Systems with Applications, Volume 302 (2026). This version reflects the published article</p></details> |
 
