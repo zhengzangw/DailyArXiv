@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 25, 2025
+title: Latest 15 Papers - December 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,12 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SemanticGen: Video Generation in Semantic Space](https://arxiv.org/abs/2512.20619v1)** | 2025-12-23 | <details><summary>Proje...</summary><p>Project page: https://jianhongbai.github.io/SemanticGen/</p></details> |
+| **[HiStream: Efficient High-Resolution Video Generation via Redundancy-Eliminated Streaming](https://arxiv.org/abs/2512.21338v1)** | 2025-12-24 | <details><summary>Proje...</summary><p>Project Page: http://haonanqiu.com/projects/HiStream.html</p></details> |
+| **[ACD: Direct Conditional Control for Video Diffusion Models via Attention Supervision](https://arxiv.org/abs/2512.21268v1)** | 2025-12-24 |  |
+| **[DreaMontage: Arbitrary Frame-Guided One-Shot Video Generation](https://arxiv.org/abs/2512.21252v1)** | 2025-12-24 | <details><summary>Proje...</summary><p>Project Page: https://dreamontage.github.io/DreaMontage/</p></details> |
+| **[Data-regularized Reinforcement Learning for Diffusion Models at Scale](https://arxiv.org/abs/2512.04332v3)** | 2025-12-24 |  |
+| **[SemanticGen: Video Generation in Semantic Space](https://arxiv.org/abs/2512.20619v2)** | 2025-12-24 | <details><summary>Proje...</summary><p>Project page: https://jianhongbai.github.io/SemanticGen/</p></details> |
+| **[T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation](https://arxiv.org/abs/2512.21094v1)** | 2025-12-24 |  |
 | **[Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model](https://arxiv.org/abs/2512.13507v3)** | 2025-12-23 | <details><summary>Seeda...</summary><p>Seedance 1.5 pro Technical Report</p></details> |
 | **[Memorize-and-Generate: Towards Long-Term Consistency in Real-Time Video Generation](https://arxiv.org/abs/2512.18741v2)** | 2025-12-23 | <details><summary>Code ...</summary><p>Code will be released at https://github.com/Xilluill/MAG</p></details> |
 | **[Video Generation Models Are Good Latent Reward Models](https://arxiv.org/abs/2511.21541v2)** | 2025-12-23 |  |
@@ -17,28 +22,23 @@ labels: documentation
 | **[How Much 3D Do Video Foundation Models Encode?](https://arxiv.org/abs/2512.19949v1)** | 2025-12-23 | <details><summary>Proje...</summary><p>Project Page: https://vidfm-3d-probe.github.io</p></details> |
 | **[Over++: Generative Video Compositing for Layer Interaction Effects](https://arxiv.org/abs/2512.19661v1)** | 2025-12-22 | <details><summary>Proje...</summary><p>Project page: https://overplusplus.github.io/</p></details> |
 | **[Real2Edit2Real: Generating Robotic Demonstrations via a 3D Control Interface](https://arxiv.org/abs/2512.19402v1)** | 2025-12-22 |  |
-| **[WaTeRFlow: Watermark Temporal Robustness via Flow Consistency](https://arxiv.org/abs/2512.19048v1)** | 2025-12-22 |  |
-| **[CETCAM: Camera-Controllable Video Generation via Consistent and Extensible Tokenization](https://arxiv.org/abs/2512.19020v1)** | 2025-12-22 |  |
-| **[EchoMotion: Unified Human Video and Motion Generation via Dual-Modality Diffusion Transformer](https://arxiv.org/abs/2512.18814v1)** | 2025-12-21 | 26 pages, 16 figures |
-| **[In-Context Audio Control of Video Diffusion Transformers](https://arxiv.org/abs/2512.18772v1)** | 2025-12-21 |  |
-| **[Comp-Attn: Present-and-Align Attention for Compositional Video Generation](https://arxiv.org/abs/2503.14428v2)** | 2025-12-21 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Repurposing Video Diffusion Transformers for Robust Point Tracking](https://arxiv.org/abs/2512.20606v1)** | 2025-12-23 | <details><summary>Proje...</summary><p>Project Page: https://cvlab-kaist.github.io/DiTracker/</p></details> |
-| **[MoE-DiffuSeq: Enhancing Long-Document Diffusion Models with Sparse Attention and Mixture of Experts](https://arxiv.org/abs/2512.20604v1)** | 2025-12-23 | Under submission |
-| **[Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs](https://arxiv.org/abs/2512.20573v1)** | 2025-12-23 |  |
-| **[Dual-Encoder Transformer-Based Multimodal Learning for Ischemic Stroke Lesion Segmentation Using Diffusion MRI](https://arxiv.org/abs/2512.20436v1)** | 2025-12-23 |  |
-| **[Towards Dataset Copyright Evasion Attack against Personalized Text-to-Image Diffusion Models](https://arxiv.org/abs/2505.02824v2)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Information Forensics and Security</p></details> |
-| **[Unsupervised Single-Channel Audio Separation with Diffusion Source Priors](https://arxiv.org/abs/2512.07226v2)** | 2025-12-23 |  |
-| **[LAMIC: Layout-Aware Multi-Image Composition via Scalability of Multimodal Diffusion Transformer](https://arxiv.org/abs/2508.00477v2)** | 2025-12-23 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 3 tables</p></details> |
-| **[Cross-Population White Matter Atlas Creation for Concurrent Mapping of Brain Connections in Neonates and Adults with Diffusion MRI Tractography](https://arxiv.org/abs/2512.20370v1)** | 2025-12-23 | 38 pages, 12 figure |
-| **[How I Met Your Bias: Investigating Bias Amplification in Diffusion Models](https://arxiv.org/abs/2512.20233v1)** | 2025-12-23 |  |
-| **[Why mask diffusion does not work](https://arxiv.org/abs/2510.03289v2)** | 2025-12-23 |  |
-| **[CoDi -- an exemplar-conditioned diffusion model for low-shot counting](https://arxiv.org/abs/2512.20153v1)** | 2025-12-23 |  |
-| **[Generative Bayesian Spectrum Cartography: Unified Reconstruction and Active Sensing via Diffusion Models](https://arxiv.org/abs/2512.20108v1)** | 2025-12-23 |  |
-| **[SLIM: Semantic-based Low-bitrate Image compression for Machines by leveraging diffusion](https://arxiv.org/abs/2512.18200v2)** | 2025-12-23 |  |
-| **[FlashLips: 100-FPS Mask-Free Latent Lip-Sync using Reconstruction Instead of Diffusion or GANs](https://arxiv.org/abs/2512.20033v1)** | 2025-12-23 |  |
-| **[Self-Guided Diffusion Model for Accelerating Computational Fluid Dynamics](https://arxiv.org/abs/2504.04375v3)** | 2025-12-23 |  |
+| **[Optimizing Decoding Paths in Masked Diffusion Models by Quantifying Uncertainty](https://arxiv.org/abs/2512.21336v1)** | 2025-12-24 |  |
+| **[DiTSinger: Scaling Singing Voice Synthesis with Diffusion Transformer and Implicit Alignment](https://arxiv.org/abs/2510.09016v2)** | 2025-12-24 | <details><summary>ICASS...</summary><p>ICASSP26 under review. Demo page: https://nju-jet.github.io/DiTSinger</p></details> |
+| **[GriDiT: Factorized Grid-Based Diffusion for Efficient Long Image Sequence Generation](https://arxiv.org/abs/2512.21276v1)** | 2025-12-24 |  |
+| **[Learning to Refocus with Video Diffusion Models](https://arxiv.org/abs/2512.19823v2)** | 2025-12-24 | <details><summary>Code ...</summary><p>Code and data are available at https://learn2refocus.github.io . SIGGRAPH Asia 2025, Dec. 2025</p></details> |
+| **[ACD: Direct Conditional Control for Video Diffusion Models via Attention Supervision](https://arxiv.org/abs/2512.21268v1)** | 2025-12-24 |  |
+| **[NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance](https://arxiv.org/abs/2505.08712v3)** | 2025-12-24 | <details><summary>Proje...</summary><p>Project Page: https://wzcai99.github.io/navigation-diffusion-policy.github.io/</p></details> |
+| **[Data-regularized Reinforcement Learning for Diffusion Models at Scale](https://arxiv.org/abs/2512.04332v3)** | 2025-12-24 |  |
+| **[Encrypted Traffic Detection in Resource Constrained IoT Networks: A Diffusion Model and LLM Integrated Framework](https://arxiv.org/abs/2512.21144v1)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper is accepted by IEEE Transactions on Network Science and Engineering</p></details> |
+| **[Emotion Diffusion in Real and Simulated Social Graphs: Structural Limits of LLM-Based Social Simulation](https://arxiv.org/abs/2512.21138v1)** | 2025-12-24 |  |
+| **[STLDM: Spatio-Temporal Latent Diffusion Model for Precipitation Nowcasting](https://arxiv.org/abs/2512.21118v1)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted by TMLR. Camera-ready submission</p></details> |
+| **[On the Design of One-step Diffusion via Shortcutting Flow Paths](https://arxiv.org/abs/2512.11831v3)** | 2025-12-24 | <details><summary>10 pa...</summary><p>10 pages of main body, conference paper</p></details> |
+| **[Rethinking Direct Preference Optimization in Diffusion Models](https://arxiv.org/abs/2505.18736v2)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted by SPIGM@NeurIPS 2025 and AAAI-26 (Oral)</p></details> |
+| **[Multi-Attribute guided Thermal Face Image Translation based on Latent Diffusion Model](https://arxiv.org/abs/2512.21032v1)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted by 2025 IEEE International Joint Conference on Biometrics (IJCB 2025)</p></details> |
+| **[Enhancing diffusion models with Gaussianization preprocessing](https://arxiv.org/abs/2512.21020v1)** | 2025-12-24 | 17 pages, 9 figures |
+| **[TimeBridge: Better Diffusion Prior Design with Bridge Models for Time Series Generation](https://arxiv.org/abs/2408.06672v3)** | 2025-12-24 | KDD 2026 |
 
