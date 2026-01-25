@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 23, 2026
+title: Latest 15 Papers - January 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation](https://arxiv.org/abs/2601.16210v1)** | 2026-01-22 |  |
+| **[Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning](https://arxiv.org/abs/2601.16163v1)** | 2026-01-22 |  |
+| **[PhysicsMind: Sim and Real Mechanics Benchmarking for Physical Reasoning and Prediction in Foundational VLMs and World Models](https://arxiv.org/abs/2601.16007v1)** | 2026-01-22 |  |
+| **[From Generative Engines to Actionable Simulators: The Imperative of Physical Grounding in World Models](https://arxiv.org/abs/2601.15533v1)** | 2026-01-21 |  |
 | **[Walk through Paintings: Egocentric World Models from Internet Priors](https://arxiv.org/abs/2601.15284v1)** | 2026-01-21 |  |
 | **[Rethinking Video Generation Model for the Embodied World](https://arxiv.org/abs/2601.15282v1)** | 2026-01-21 | <details><summary>Githu...</summary><p>Github: https://github.com/DAGroup-PKU/ReVidgen/ Project website: https://dagroup-pku.github.io/ReVidgen.github.io/</p></details> |
 | **[StableWorld: Towards Stable and Consistent Long Interactive Video Generation](https://arxiv.org/abs/2601.15281v1)** | 2026-01-21 | <details><summary>17 pa...</summary><p>17 pages, 21 figures,</p></details> |
@@ -18,27 +22,23 @@ labels: documentation
 | **[Moaw: Unleashing Motion Awareness for Video Diffusion Models](https://arxiv.org/abs/2601.12761v1)** | 2026-01-19 |  |
 | **[S2DiT: Sandwich Diffusion Transformer for Mobile Streaming Video Generation](https://arxiv.org/abs/2601.12719v1)** | 2026-01-19 |  |
 | **[Controllable Video Generation: A Survey](https://arxiv.org/abs/2507.16869v3)** | 2026-01-19 | <details><summary>proje...</summary><p>project page: https://github.com/mayuelala/Awesome-Controllable-Video-Generation</p></details> |
-| **[UVE: Are MLLMs Unified Evaluators for AI-Generated Videos?](https://arxiv.org/abs/2503.09949v4)** | 2026-01-17 |  |
-| **[VINO: A Unified Visual Generator with Interleaved OmniModal Context](https://arxiv.org/abs/2601.02358v2)** | 2026-01-16 | <details><summary>Proje...</summary><p>Project page: https://sotamak1r.github.io/VINO-web/</p></details> |
-| **[VidLeaks: Membership Inference Attacks Against Text-to-Video Models](https://arxiv.org/abs/2601.11210v1)** | 2026-01-16 |  |
-| **[ATATA: One Algorithm to Align Them All](https://arxiv.org/abs/2601.11194v1)** | 2026-01-16 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[APPLE: Attribute-Preserving Pseudo-Labeling for Diffusion-Based Face Swapping](https://arxiv.org/abs/2601.15288v1)** | 2026-01-21 | <details><summary>Proje...</summary><p>Project Page: https://cvlab-kaist.github.io/APPLE/</p></details> |
-| **[FlowSSC: Universal Generative Monocular Semantic Scene Completion via One-Step Latent Diffusion](https://arxiv.org/abs/2601.15250v1)** | 2026-01-21 | Under Review |
-| **[Diffusion In Diffusion: Reclaiming Global Coherence in Semi-Autoregressive Diffusion](https://arxiv.org/abs/2601.13599v2)** | 2026-01-21 | Work In Progress |
-| **[ScenDi: 3D-to-2D Scene Diffusion Cascades for Urban Generation](https://arxiv.org/abs/2601.15221v1)** | 2026-01-21 |  |
-| **[The Flexibility Trap: Why Arbitrary Order Limits Reasoning Potential in Diffusion Language Models](https://arxiv.org/abs/2601.15165v1)** | 2026-01-21 | <details><summary>Code ...</summary><p>Code and pre-trained models: https://github.com/LeapLabTHU/JustGRPO</p></details> |
-| **[When Are Two Scores Better Than One? Investigating Ensembles of Diffusion Models](https://arxiv.org/abs/2601.11444v2)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at Transactions on Machine Learning Research (reviewed on OpenReview: https://openreview.net/forum?id=4iRx9b0Csu). Code: https://github.com/rarazafin/score_diffusion_ensemble</p></details> |
-| **[HyperNet-Adaptation for Diffusion-Based Test Case Generation](https://arxiv.org/abs/2601.15041v1)** | 2026-01-21 |  |
-| **[Fractional Diffusion on Graphs: Superposition of Laplacian Semigroups and Memory](https://arxiv.org/abs/2601.14977v1)** | 2026-01-21 | 47 pages, 4 figures |
-| **[HumanDiffusion: A Vision-Based Diffusion Trajectory Planner with Human-Conditioned Goals for Search and Rescue UAV](https://arxiv.org/abs/2601.14973v1)** | 2026-01-21 | <details><summary>This ...</summary><p>This paper has been accepted at HRI, Late Breaking Report, 2026</p></details> |
-| **[Towards Holistic Modeling for Video Frame Interpolation with Auto-regressive Diffusion Transformers](https://arxiv.org/abs/2601.14959v1)** | 2026-01-21 |  |
-| **[TIDAL: Temporally Interleaved Diffusion and Action Loop for High-Frequency VLA Control](https://arxiv.org/abs/2601.14945v1)** | 2026-01-21 |  |
-| **[Ultra-Strong Gradient Diffusion MRI with Self-Supervised Learning for Prostate Cancer Characterization](https://arxiv.org/abs/2512.03196v2)** | 2026-01-21 | <details><summary>25 pa...</summary><p>25 pages, 14 figures, 7 tables</p></details> |
-| **[Semantic Image Synthesis via Diffusion Models](https://arxiv.org/abs/2207.00050v4)** | 2026-01-21 |  |
-| **[Trustworthy Longitudinal Brain MRI Completion: A Deformation-Based Approach with KAN-Enhanced Diffusion Model](https://arxiv.org/abs/2601.09572v2)** | 2026-01-21 |  |
-| **[Warm-Starting Collision-Free Model Predictive Control With Object-Centric Diffusion](https://arxiv.org/abs/2601.02873v2)** | 2026-01-21 | <details><summary>An op...</summary><p>An open-source implementation is provided https://ahaffemayer.github.io/diffusion_warmstart_slot/</p></details> |
+| **[CamPilot: Improving Camera Control in Video Diffusion Model with Efficient Camera Reward Feedback](https://arxiv.org/abs/2601.16214v1)** | 2026-01-22 |  |
+| **[Scaling Text-to-Image Diffusion Transformers with Representation Autoencoders](https://arxiv.org/abs/2601.16208v1)** | 2026-01-22 | <details><summary>websi...</summary><p>website: https://rae-dit.github.io/scale-rae/</p></details> |
+| **[ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion](https://arxiv.org/abs/2601.16148v1)** | 2026-01-22 |  |
+| **[GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning](https://arxiv.org/abs/2505.18763v4)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted by NeurIPS2025</p></details> |
+| **[Likelihood Matching for Diffusion Models](https://arxiv.org/abs/2508.03636v2)** | 2026-01-22 |  |
+| **[ProGiDiff: Prompt-Guided Diffusion-Based Medical Image Segmentation](https://arxiv.org/abs/2601.16060v1)** | 2026-01-22 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. It has been accepted by IEEE ISBI</p></details> |
+| **[Attacks on Approximate Caches in Text-to-Image Diffusion Models](https://arxiv.org/abs/2508.20424v3)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted by Usenix Security 2026</p></details> |
+| **[Yesnt: Are Diffusion Relighting Models Ready for Capture Stage Compositing? A Hybrid Alternative to Bridge the Gap](https://arxiv.org/abs/2510.23494v2)** | 2026-01-22 |  |
+| **[HyperAlign: Hypernetwork for Efficient Test-Time Alignment of Diffusion Models](https://arxiv.org/abs/2601.15968v1)** | 2026-01-22 |  |
+| **[Stable-DiffCoder: Pushing the Frontier of Code Diffusion Large Language Model](https://arxiv.org/abs/2601.15892v1)** | 2026-01-22 |  |
+| **[PF-D2M: A Pose-free Diffusion Model for Universal Dance-to-Music Generation](https://arxiv.org/abs/2601.15872v1)** | 2026-01-22 | 4 pages, 2 figures |
+| **[Towards Realistic Remote Sensing Dataset Distillation with Discriminative Prototype-guided Diffusion](https://arxiv.org/abs/2601.15829v1)** | 2026-01-22 |  |
+| **[Diffusion Model-Based Data Augmentation for Enhanced Neuron Segmentation](https://arxiv.org/abs/2601.15779v1)** | 2026-01-22 |  |
+| **[Sparse Data Diffusion for Scientific Simulations in Biology and Physics](https://arxiv.org/abs/2502.02448v3)** | 2026-01-22 | <details><summary>This ...</summary><p>This paper won the Best Paper Award at the SimBioChem workshop at EurIPS 2025</p></details> |
+| **[DualShield: Safe Model Predictive Diffusion via Reachability Analysis for Interactive Autonomous Driving](https://arxiv.org/abs/2601.15729v1)** | 2026-01-22 | 8 pages, 5 figures |
 
