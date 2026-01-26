@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 26, 2026
+title: Latest 15 Papers - January 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AnyView: Synthesizing Any Novel View in Dynamic Scenes](https://arxiv.org/abs/2601.16982v1)** | 2026-01-23 | <details><summary>Proje...</summary><p>Project webpage: https://tri-ml.github.io/AnyView/</p></details> |
+| **[Reward-Forcing: Autoregressive Video Generation with Reward Feedback](https://arxiv.org/abs/2601.16933v1)** | 2026-01-23 | preprint |
+| **[LoL: Longer than Longer, Scaling Video Generation to Hour](https://arxiv.org/abs/2601.16914v1)** | 2026-01-23 | preprint |
+| **[SALAD: Achieve High-Sparsity Attention via Efficient Linear Attention Tuning for Video Diffusion Transformer](https://arxiv.org/abs/2601.16515v1)** | 2026-01-23 |  |
+| **[Advances in Artificial Intelligence: A Review for the Creative Industries](https://arxiv.org/abs/2501.02725v5)** | 2026-01-23 | <details><summary>This ...</summary><p>This is an updated review of our previous paper (see https://doi.org/10.1007/s10462-021-10039-7), and has been accepted by Artificial Intelligence Review journal</p></details> |
+| **[ToonifyGB: StyleGAN-based Gaussian Blendshapes for 3D Stylized Head Avatars](https://arxiv.org/abs/2505.10072v3)** | 2026-01-23 | <details><summary>2-Pag...</summary><p>2-Page Version Accepted as a Poster at IEEE VR 2026</p></details> |
 | **[PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation](https://arxiv.org/abs/2601.16210v1)** | 2026-01-22 |  |
 | **[Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning](https://arxiv.org/abs/2601.16163v1)** | 2026-01-22 |  |
 | **[PhysicsMind: Sim and Real Mechanics Benchmarking for Physical Reasoning and Prediction in Foundational VLMs and World Models](https://arxiv.org/abs/2601.16007v1)** | 2026-01-22 |  |
 | **[From Generative Engines to Actionable Simulators: The Imperative of Physical Grounding in World Models](https://arxiv.org/abs/2601.15533v1)** | 2026-01-21 |  |
+| **[OmniView: An All-Seeing Diffusion Model for 3D and 4D View Synthesis](https://arxiv.org/abs/2512.10940v2)** | 2026-01-21 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/OmniView/</p></details> |
 | **[Walk through Paintings: Egocentric World Models from Internet Priors](https://arxiv.org/abs/2601.15284v1)** | 2026-01-21 |  |
 | **[Rethinking Video Generation Model for the Embodied World](https://arxiv.org/abs/2601.15282v1)** | 2026-01-21 | <details><summary>Githu...</summary><p>Github: https://github.com/DAGroup-PKU/ReVidgen/ Project website: https://dagroup-pku.github.io/ReVidgen.github.io/</p></details> |
 | **[StableWorld: Towards Stable and Consistent Long Interactive Video Generation](https://arxiv.org/abs/2601.15281v1)** | 2026-01-21 | <details><summary>17 pa...</summary><p>17 pages, 21 figures,</p></details> |
 | **[Sora as a World Model? A Complete Survey on Text-to-Video Generation](https://arxiv.org/abs/2403.05131v3)** | 2026-01-21 | <details><summary>First...</summary><p>First complete survey on Text-to-Video Generation from World Model perspective, 35 pages</p></details> |
-| **[Human detectors are surprisingly powerful reward models](https://arxiv.org/abs/2601.14037v2)** | 2026-01-21 | Technical report |
-| **[LaVR: Scene Latent Conditioned Generative Video Trajectory Re-Rendering using Large 4D Reconstruction Models](https://arxiv.org/abs/2601.14674v1)** | 2026-01-21 |  |
-| **[OmniTransfer: All-in-one Framework for Spatio-temporal Video Transfer](https://arxiv.org/abs/2601.14250v1)** | 2026-01-20 | <details><summary>Githu...</summary><p>Github Page: https://pangzecheung.github.io/OmniTransfer/</p></details> |
-| **[LAViG-FLOW: Latent Autoregressive Video Generation for Fluid Flow Simulations](https://arxiv.org/abs/2601.13190v1)** | 2026-01-19 |  |
-| **[Moaw: Unleashing Motion Awareness for Video Diffusion Models](https://arxiv.org/abs/2601.12761v1)** | 2026-01-19 |  |
-| **[S2DiT: Sandwich Diffusion Transformer for Mobile Streaming Video Generation](https://arxiv.org/abs/2601.12719v1)** | 2026-01-19 |  |
-| **[Controllable Video Generation: A Survey](https://arxiv.org/abs/2507.16869v3)** | 2026-01-19 | <details><summary>proje...</summary><p>project page: https://github.com/mayuelala/Awesome-Controllable-Video-Generation</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CamPilot: Improving Camera Control in Video Diffusion Model with Efficient Camera Reward Feedback](https://arxiv.org/abs/2601.16214v1)** | 2026-01-22 |  |
-| **[Scaling Text-to-Image Diffusion Transformers with Representation Autoencoders](https://arxiv.org/abs/2601.16208v1)** | 2026-01-22 | <details><summary>websi...</summary><p>website: https://rae-dit.github.io/scale-rae/</p></details> |
-| **[ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion](https://arxiv.org/abs/2601.16148v1)** | 2026-01-22 |  |
-| **[GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning](https://arxiv.org/abs/2505.18763v4)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted by NeurIPS2025</p></details> |
-| **[Likelihood Matching for Diffusion Models](https://arxiv.org/abs/2508.03636v2)** | 2026-01-22 |  |
-| **[ProGiDiff: Prompt-Guided Diffusion-Based Medical Image Segmentation](https://arxiv.org/abs/2601.16060v1)** | 2026-01-22 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. It has been accepted by IEEE ISBI</p></details> |
-| **[Attacks on Approximate Caches in Text-to-Image Diffusion Models](https://arxiv.org/abs/2508.20424v3)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted by Usenix Security 2026</p></details> |
-| **[Yesnt: Are Diffusion Relighting Models Ready for Capture Stage Compositing? A Hybrid Alternative to Bridge the Gap](https://arxiv.org/abs/2510.23494v2)** | 2026-01-22 |  |
-| **[HyperAlign: Hypernetwork for Efficient Test-Time Alignment of Diffusion Models](https://arxiv.org/abs/2601.15968v1)** | 2026-01-22 |  |
-| **[Stable-DiffCoder: Pushing the Frontier of Code Diffusion Large Language Model](https://arxiv.org/abs/2601.15892v1)** | 2026-01-22 |  |
-| **[PF-D2M: A Pose-free Diffusion Model for Universal Dance-to-Music Generation](https://arxiv.org/abs/2601.15872v1)** | 2026-01-22 | 4 pages, 2 figures |
-| **[Towards Realistic Remote Sensing Dataset Distillation with Discriminative Prototype-guided Diffusion](https://arxiv.org/abs/2601.15829v1)** | 2026-01-22 |  |
-| **[Diffusion Model-Based Data Augmentation for Enhanced Neuron Segmentation](https://arxiv.org/abs/2601.15779v1)** | 2026-01-22 |  |
-| **[Sparse Data Diffusion for Scientific Simulations in Biology and Physics](https://arxiv.org/abs/2502.02448v3)** | 2026-01-22 | <details><summary>This ...</summary><p>This paper won the Best Paper Award at the SimBioChem workshop at EurIPS 2025</p></details> |
-| **[DualShield: Safe Model Predictive Diffusion via Reachability Analysis for Interactive Autonomous Driving](https://arxiv.org/abs/2601.15729v1)** | 2026-01-22 | 8 pages, 5 figures |
+| **[Latent Diffusion for Internet of Things Attack Data Generation in Intrusion Detection](https://arxiv.org/abs/2601.16976v1)** | 2026-01-23 | <details><summary>Submi...</summary><p>Submitted to IEEE. 15 pages, 2 figures</p></details> |
+| **[Auto-Regressive Masked Diffusion Models](https://arxiv.org/abs/2601.16971v1)** | 2026-01-23 |  |
+| **[T-LoRA: Single Image Diffusion Model Customization Without Overfitting](https://arxiv.org/abs/2507.05964v2)** | 2026-01-23 | AAAI 2026 |
+| **[Fast, faithful and photorealistic diffusion-based image super-resolution with enhanced Flow Map models](https://arxiv.org/abs/2601.16660v1)** | 2026-01-23 | Technical report |
+| **[Edge-Aware Image Manipulation via Diffusion Models with a Novel Structure-Preservation Loss](https://arxiv.org/abs/2601.16645v1)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted to WACV 2026</p></details> |
+| **[HumanDiffusion: A Vision-Based Diffusion Trajectory Planner with Human-Conditioned Goals for Search and Rescue UAV](https://arxiv.org/abs/2601.14973v2)** | 2026-01-23 | <details><summary>This ...</summary><p>This paper has been accepted at HRI, Late Breaking Report, 2026</p></details> |
+| **[Efficient Learning of Stationary Diffusions with Stein-type Discrepancies](https://arxiv.org/abs/2601.16597v1)** | 2026-01-23 |  |
+| **[The Bitter Lesson of Diffusion Language Models for Agentic Workflows: A Comprehensive Reality Check](https://arxiv.org/abs/2601.12979v2)** | 2026-01-23 | Under Review |
+| **[GazeD: Context-Aware Diffusion for Accurate 3D Gaze Estimation](https://arxiv.org/abs/2601.12948v2)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted at 3DV 2026. Project page: https://aimagelab.ing.unimore.it/go/gazed</p></details> |
+| **[Text-to-Image Diffusion Models Cannot Count, and Prompt Refinement Cannot Help](https://arxiv.org/abs/2503.06884v2)** | 2026-01-23 |  |
+| **[SALAD: Achieve High-Sparsity Attention via Efficient Linear Attention Tuning for Video Diffusion Transformer](https://arxiv.org/abs/2601.16515v1)** | 2026-01-23 |  |
+| **[Stable-DiffCoder: Pushing the Frontier of Code Diffusion Large Language Model](https://arxiv.org/abs/2601.15892v2)** | 2026-01-23 |  |
+| **[CoreEditor: Consistent 3D Editing via Correspondence-constrained Diffusion](https://arxiv.org/abs/2508.11603v2)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted by IEEE TVCG</p></details> |
+| **[Physics-Conditioned Diffusion Models for Lattice Gauge Theory](https://arxiv.org/abs/2502.05504v2)** | 2026-01-23 | <details><summary>28 pa...</summary><p>28 pages, 10 figures, accepted in JHEP. Codes are available at: https://github.com/zzzqt/DM4U1</p></details> |
+| **[Memory-V2V: Augmenting Video-to-Video Diffusion Models with Memory](https://arxiv.org/abs/2601.16296v1)** | 2026-01-22 | <details><summary>Proje...</summary><p>Project page: https://dohunlee1.github.io/MemoryV2V</p></details> |
 
