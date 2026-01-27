@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 27, 2026
+title: Latest 15 Papers - January 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HiCache: A Plug-in Scaled-Hermite Upgrade for Taylor-Style Cache-then-Forecast Diffusion Acceleration](https://arxiv.org/abs/2508.16984v2)** | 2026-01-26 |  |
+| **[Are Video Generation Models Geographically Fair? An Attraction-Centric Evaluation of Global Visual Knowledge](https://arxiv.org/abs/2601.18698v1)** | 2026-01-26 | Work in progress |
+| **[LLMPopcorn: Exploring LLMs as Assistants for Popular Micro-video Generation](https://arxiv.org/abs/2502.12945v3)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted by ICASSP2026</p></details> |
+| **[DVD-Quant: Data-free Video Diffusion Transformers Quantization](https://arxiv.org/abs/2505.18663v3)** | 2026-01-26 | <details><summary>Code ...</summary><p>Code and models will be available at https://github.com/lhxcs/DVD-Quant</p></details> |
+| **[Self-Refining Video Sampling](https://arxiv.org/abs/2601.18577v1)** | 2026-01-26 | <details><summary>Proje...</summary><p>Project page: https://agwmon.github.io/self-refine-video/</p></details> |
+| **[TC-IDM: Grounding Video Generation for Executable Zero-shot Robot Motion](https://arxiv.org/abs/2601.18323v1)** | 2026-01-26 |  |
+| **[Adams Bashforth Moulton Solver for Inversion and Editing in Rectified Flow](https://arxiv.org/abs/2503.16522v2)** | 2026-01-26 |  |
+| **[Photography Perspective Composition: Towards Aesthetic Perspective Recommendation](https://arxiv.org/abs/2505.20655v5)** | 2026-01-25 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[MV-S2V: Multi-View Subject-Consistent Video Generation](https://arxiv.org/abs/2601.17756v1)** | 2026-01-25 | 13 pages, 9 figures |
+| **[The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation](https://arxiv.org/abs/2601.17737v1)** | 2026-01-25 |  |
+| **[SkyReels-V3 Technique Report](https://arxiv.org/abs/2601.17323v1)** | 2026-01-24 |  |
+| **[MAViS: A Multi-Agent Framework for Long-Sequence Video Storytelling](https://arxiv.org/abs/2508.08487v5)** | 2026-01-24 | <details><summary>Video...</summary><p>Video Generation Agent</p></details> |
 | **[AnyView: Synthesizing Any Novel View in Dynamic Scenes](https://arxiv.org/abs/2601.16982v1)** | 2026-01-23 | <details><summary>Proje...</summary><p>Project webpage: https://tri-ml.github.io/AnyView/</p></details> |
 | **[Reward-Forcing: Autoregressive Video Generation with Reward Feedback](https://arxiv.org/abs/2601.16933v1)** | 2026-01-23 | preprint |
 | **[LoL: Longer than Longer, Scaling Video Generation to Hour](https://arxiv.org/abs/2601.16914v1)** | 2026-01-23 | preprint |
-| **[SALAD: Achieve High-Sparsity Attention via Efficient Linear Attention Tuning for Video Diffusion Transformer](https://arxiv.org/abs/2601.16515v1)** | 2026-01-23 |  |
-| **[Advances in Artificial Intelligence: A Review for the Creative Industries](https://arxiv.org/abs/2501.02725v5)** | 2026-01-23 | <details><summary>This ...</summary><p>This is an updated review of our previous paper (see https://doi.org/10.1007/s10462-021-10039-7), and has been accepted by Artificial Intelligence Review journal</p></details> |
-| **[ToonifyGB: StyleGAN-based Gaussian Blendshapes for 3D Stylized Head Avatars](https://arxiv.org/abs/2505.10072v3)** | 2026-01-23 | <details><summary>2-Pag...</summary><p>2-Page Version Accepted as a Poster at IEEE VR 2026</p></details> |
-| **[PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation](https://arxiv.org/abs/2601.16210v1)** | 2026-01-22 |  |
-| **[Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning](https://arxiv.org/abs/2601.16163v1)** | 2026-01-22 |  |
-| **[PhysicsMind: Sim and Real Mechanics Benchmarking for Physical Reasoning and Prediction in Foundational VLMs and World Models](https://arxiv.org/abs/2601.16007v1)** | 2026-01-22 |  |
-| **[From Generative Engines to Actionable Simulators: The Imperative of Physical Grounding in World Models](https://arxiv.org/abs/2601.15533v1)** | 2026-01-21 |  |
-| **[OmniView: An All-Seeing Diffusion Model for 3D and 4D View Synthesis](https://arxiv.org/abs/2512.10940v2)** | 2026-01-21 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/OmniView/</p></details> |
-| **[Walk through Paintings: Egocentric World Models from Internet Priors](https://arxiv.org/abs/2601.15284v1)** | 2026-01-21 |  |
-| **[Rethinking Video Generation Model for the Embodied World](https://arxiv.org/abs/2601.15282v1)** | 2026-01-21 | <details><summary>Githu...</summary><p>Github: https://github.com/DAGroup-PKU/ReVidgen/ Project website: https://dagroup-pku.github.io/ReVidgen.github.io/</p></details> |
-| **[StableWorld: Towards Stable and Consistent Long Interactive Video Generation](https://arxiv.org/abs/2601.15281v1)** | 2026-01-21 | <details><summary>17 pa...</summary><p>17 pages, 21 figures,</p></details> |
-| **[Sora as a World Model? A Complete Survey on Text-to-Video Generation](https://arxiv.org/abs/2403.05131v3)** | 2026-01-21 | <details><summary>First...</summary><p>First complete survey on Text-to-Video Generation from World Model perspective, 35 pages</p></details> |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Latent Diffusion for Internet of Things Attack Data Generation in Intrusion Detection](https://arxiv.org/abs/2601.16976v1)** | 2026-01-23 | <details><summary>Submi...</summary><p>Submitted to IEEE. 15 pages, 2 figures</p></details> |
-| **[Auto-Regressive Masked Diffusion Models](https://arxiv.org/abs/2601.16971v1)** | 2026-01-23 |  |
-| **[T-LoRA: Single Image Diffusion Model Customization Without Overfitting](https://arxiv.org/abs/2507.05964v2)** | 2026-01-23 | AAAI 2026 |
-| **[Fast, faithful and photorealistic diffusion-based image super-resolution with enhanced Flow Map models](https://arxiv.org/abs/2601.16660v1)** | 2026-01-23 | Technical report |
-| **[Edge-Aware Image Manipulation via Diffusion Models with a Novel Structure-Preservation Loss](https://arxiv.org/abs/2601.16645v1)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted to WACV 2026</p></details> |
-| **[HumanDiffusion: A Vision-Based Diffusion Trajectory Planner with Human-Conditioned Goals for Search and Rescue UAV](https://arxiv.org/abs/2601.14973v2)** | 2026-01-23 | <details><summary>This ...</summary><p>This paper has been accepted at HRI, Late Breaking Report, 2026</p></details> |
-| **[Efficient Learning of Stationary Diffusions with Stein-type Discrepancies](https://arxiv.org/abs/2601.16597v1)** | 2026-01-23 |  |
-| **[The Bitter Lesson of Diffusion Language Models for Agentic Workflows: A Comprehensive Reality Check](https://arxiv.org/abs/2601.12979v2)** | 2026-01-23 | Under Review |
-| **[GazeD: Context-Aware Diffusion for Accurate 3D Gaze Estimation](https://arxiv.org/abs/2601.12948v2)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted at 3DV 2026. Project page: https://aimagelab.ing.unimore.it/go/gazed</p></details> |
-| **[Text-to-Image Diffusion Models Cannot Count, and Prompt Refinement Cannot Help](https://arxiv.org/abs/2503.06884v2)** | 2026-01-23 |  |
-| **[SALAD: Achieve High-Sparsity Attention via Efficient Linear Attention Tuning for Video Diffusion Transformer](https://arxiv.org/abs/2601.16515v1)** | 2026-01-23 |  |
-| **[Stable-DiffCoder: Pushing the Frontier of Code Diffusion Large Language Model](https://arxiv.org/abs/2601.15892v2)** | 2026-01-23 |  |
-| **[CoreEditor: Consistent 3D Editing via Correspondence-constrained Diffusion](https://arxiv.org/abs/2508.11603v2)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted by IEEE TVCG</p></details> |
-| **[Physics-Conditioned Diffusion Models for Lattice Gauge Theory](https://arxiv.org/abs/2502.05504v2)** | 2026-01-23 | <details><summary>28 pa...</summary><p>28 pages, 10 figures, accepted in JHEP. Codes are available at: https://github.com/zzzqt/DM4U1</p></details> |
-| **[Memory-V2V: Augmenting Video-to-Video Diffusion Models with Memory](https://arxiv.org/abs/2601.16296v1)** | 2026-01-22 | <details><summary>Proje...</summary><p>Project page: https://dohunlee1.github.io/MemoryV2V</p></details> |
+| **[HiCache: A Plug-in Scaled-Hermite Upgrade for Taylor-Style Cache-then-Forecast Diffusion Acceleration](https://arxiv.org/abs/2508.16984v2)** | 2026-01-26 |  |
+| **[No Other Representation Component Is Needed: Diffusion Transformers Can Provide Representation Guidance by Themselves](https://arxiv.org/abs/2505.02831v5)** | 2026-01-26 | <details><summary>ICLR ...</summary><p>ICLR 2026. Self-Representation Alignment for Diffusion Transformers. Code: https://github.com/vvvvvjdy/SRA</p></details> |
+| **[ART for Diffusion Sampling: A Reinforcement Learning Approach to Timestep Schedule](https://arxiv.org/abs/2601.18681v1)** | 2026-01-26 | 17 pages, 7 figures |
+| **[DVD-Quant: Data-free Video Diffusion Transformers Quantization](https://arxiv.org/abs/2505.18663v3)** | 2026-01-26 | <details><summary>Code ...</summary><p>Code and models will be available at https://github.com/lhxcs/DVD-Quant</p></details> |
+| **[Adaptive Domain Shift in Diffusion Models for Cross-Modality Image Translation](https://arxiv.org/abs/2601.18623v1)** | 2026-01-26 | <details><summary>Paper...</summary><p>Paper accepted as a conference paper at ICLR 2026</p></details> |
+| **[Geometry-Free Conditional Diffusion Modeling for Solving the Inverse Electrocardiography Problem](https://arxiv.org/abs/2601.18615v1)** | 2026-01-26 |  |
+| **[Generative Diffusion Augmentation with Quantum-Enhanced Discrimination for Medical Image Diagnosis](https://arxiv.org/abs/2601.18556v1)** | 2026-01-26 |  |
+| **[Diffusion-Aided Bandwidth-Efficient Semantic Communication with Adaptive Requests](https://arxiv.org/abs/2510.26442v4)** | 2026-01-26 |  |
+| **[BADiff: Bandwidth Adaptive Diffusion Model](https://arxiv.org/abs/2510.21366v2)** | 2026-01-26 | NeurIPS 2025 Poster |
+| **[Diffusion-based Frameworks for Unsupervised Speech Enhancement](https://arxiv.org/abs/2601.09931v2)** | 2026-01-26 |  |
+| **[The Flexibility Trap: Why Arbitrary Order Limits Reasoning Potential in Diffusion Language Models](https://arxiv.org/abs/2601.15165v2)** | 2026-01-26 | <details><summary>Code ...</summary><p>Code and pre-trained models: https://github.com/LeapLabTHU/JustGRPO</p></details> |
+| **[TempDiffReg: Temporal Diffusion Model for Non-Rigid 2D-3D Vascular Registration](https://arxiv.org/abs/2601.18168v1)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted by IEEE BIBM 2025</p></details> |
+| **[Localizing Knowledge in Diffusion Transformers](https://arxiv.org/abs/2505.18832v3)** | 2026-01-26 |  |
+| **[Knowledge Distillation Driven Semantic NOMA for Image Transmission with Diffusion Model](https://arxiv.org/abs/2509.07363v3)** | 2026-01-26 | <details><summary>16 pa...</summary><p>16 pages, accepted by IEEE Transactions on Wireless Communications</p></details> |
+| **[Diffusion Model-based Reinforcement Learning for Version Age of Information Scheduling: Average and Tail-Risk-Sensitive Control](https://arxiv.org/abs/2601.18069v1)** | 2026-01-26 | 16 pages, 11 figures |
 
