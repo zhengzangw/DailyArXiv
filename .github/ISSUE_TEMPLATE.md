@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 03, 2026
+title: Latest 15 Papers - February 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation](https://arxiv.org/abs/2601.23286v1)** | 2026-01-30 |  |
-| **[Video Unlearning via Low-Rank Refusal Vector](https://arxiv.org/abs/2506.07891v2)** | 2026-01-30 |  |
-| **[AccidentSim: Generating Vehicle Collision Videos with Physically Realistic Collision Trajectories from Real-World Accident Reports](https://arxiv.org/abs/2503.20654v2)** | 2026-01-30 |  |
-| **[Entropy-Guided k-Guard Sampling for Long-Horizon Autoregressive Video Generation](https://arxiv.org/abs/2601.19488v2)** | 2026-01-30 |  |
-| **[FlashVideo: Flowing Fidelity to Detail for Efficient High-Resolution Video Generation](https://arxiv.org/abs/2502.05179v4)** | 2026-01-30 | <details><summary>Model...</summary><p>Model and Weight: https://github.com/FoundationVision/FlashVideo</p></details> |
-| **[Beyond Inpainting: Unleash 3D Understanding for Precise Camera-Controlled Video Generation](https://arxiv.org/abs/2601.10214v2)** | 2026-01-30 | <details><summary>Proje...</summary><p>Project page: https://eleanor6725.github.io/DepthDirector/</p></details> |
-| **[LoCoT2V-Bench: Benchmarking Long-Form and Complex Text-to-Video Generation](https://arxiv.org/abs/2510.26412v2)** | 2026-01-30 |  |
-| **[DialectGen: Benchmarking and Improving Dialect Robustness in Multimodal Generation](https://arxiv.org/abs/2510.14949v2)** | 2026-01-30 |  |
-| **[Identity-GRPO: Optimizing Multi-Human Identity-preserving Video Generation via Reinforcement Learning](https://arxiv.org/abs/2510.14256v3)** | 2026-01-30 | <details><summary>Our p...</summary><p>Our project and code are available at https://ali-videoai.github.io/identity_page, https://github.com/alibaba/identity-grpo</p></details> |
-| **[Where Do the Joules Go? Diagnosing Inference Energy Consumption](https://arxiv.org/abs/2601.22076v2)** | 2026-01-30 | <details><summary>The M...</summary><p>The ML ENERGY Leaderboard v3.0 is open at https://ml.energy/leaderboard</p></details> |
-| **[Video Deepfake Abuse: How Company Choices Predictably Shape Misuse Patterns](https://arxiv.org/abs/2512.11815v2)** | 2026-01-30 |  |
-| **[Learning Transient Convective Heat Transfer with Geometry Aware World Models](https://arxiv.org/abs/2601.22086v1)** | 2026-01-29 | <details><summary>36 pa...</summary><p>36 pages, 18 figures, 2 tables</p></details> |
-| **[Past- and Future-Informed KV Cache Policy with Salience Estimation in Autoregressive Video Diffusion](https://arxiv.org/abs/2601.21896v1)** | 2026-01-29 |  |
-| **[Scaling Offline Model-Based RL via Jointly-Optimized World-Action Model Pretraining](https://arxiv.org/abs/2410.00564v4)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
-| **[MPF-Net: Exposing High-Fidelity AI-Generated Video Forgeries via Hierarchical Manifold Deviation and Micro-Temporal Fluctuations](https://arxiv.org/abs/2601.21408v1)** | 2026-01-29 |  |
+| **[Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation](https://arxiv.org/abs/2602.02214v1)** | 2026-02-02 | <details><summary>Proje...</summary><p>Project page and the code: \href{https://thu-ml.github.io/CausalForcing.github.io/}{https://thu-ml.github.io/CausalForcing.github.io/}</p></details> |
+| **[Past- and Future-Informed KV Cache Policy with Salience Estimation in Autoregressive Video Diffusion](https://arxiv.org/abs/2601.21896v2)** | 2026-02-02 |  |
+| **[Grounding Generated Videos in Feasible Plans via World Models](https://arxiv.org/abs/2602.01960v1)** | 2026-02-02 |  |
+| **[GPD: Guided Progressive Distillation for Fast and High-Quality Video Generation](https://arxiv.org/abs/2602.01814v1)** | 2026-02-02 |  |
+| **[MPF-Net: Exposing High-Fidelity AI-Generated Video Forgeries via Hierarchical Manifold Deviation and Micro-Temporal Fluctuations](https://arxiv.org/abs/2601.21408v2)** | 2026-02-02 |  |
+| **[PISCES: Annotation-free Text-to-Video Post-Training via Optimal Transport-Aligned Rewards](https://arxiv.org/abs/2602.01624v1)** | 2026-02-02 |  |
+| **[Omni-Judge: Can Omni-LLMs Serve as Human-Aligned Judges for Text-Conditioned Audio-Video Generation?](https://arxiv.org/abs/2602.01623v1)** | 2026-02-02 |  |
+| **[SVBench: Evaluation of Video Generation Models on Social Reasoning](https://arxiv.org/abs/2512.21507v3)** | 2026-02-02 | 10pages |
+| **[Making Avatars Interact: Towards Text-Driven Human-Object Interaction for Controllable Talking Avatars](https://arxiv.org/abs/2602.01538v1)** | 2026-02-02 |  |
+| **[FlowCast: Trajectory Forecasting for Scalable Zero-Cost Speculative Flow Matching](https://arxiv.org/abs/2602.01329v1)** | 2026-02-01 | <details><summary>Accep...</summary><p>Accepted at International Conference on Learning Representations (ICLR 2026)</p></details> |
+| **[MTAVG-Bench: A Comprehensive Benchmark for Evaluating Multi-Talker Dialogue-Centric Audio-Video Generation](https://arxiv.org/abs/2602.00607v1)** | 2026-01-31 |  |
+| **[DuoGen: Towards General Purpose Interleaved Multimodal Generation](https://arxiv.org/abs/2602.00508v1)** | 2026-01-31 | <details><summary>Techn...</summary><p>Technical Report. Project Page: https://research.nvidia.com/labs/dir/duetgen/</p></details> |
+| **[From Performers to Creators: Understanding Retired Women's Perceptions of Technology-Enhanced Dance Performance](https://arxiv.org/abs/2602.00481v1)** | 2026-01-31 |  |
+| **[PhyGDPO: Physics-Aware Groupwise Direct Preference Optimization for Physically Consistent Text-to-Video Generation](https://arxiv.org/abs/2512.24551v2)** | 2026-01-30 |  |
+| **[TokenTrim: Inference-Time Token Pruning for Autoregressive Long Video Generation](https://arxiv.org/abs/2602.00268v1)** | 2026-01-30 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Decoupled Diffusion Sampling for Inverse Problems on Function Spaces](https://arxiv.org/abs/2601.23280v1)** | 2026-01-30 |  |
-| **[On the Separability of Information in Diffusion Models](https://arxiv.org/abs/2509.23937v4)** | 2026-01-30 | <details><summary>27 pa...</summary><p>27 pages + references, 19 figures. v4: Re-organized the paper to focus on separability of information</p></details> |
-| **[IRL-DAL: Safe and Adaptive Trajectory Planning for Autonomous Driving via Energy-Guided Diffusion Models](https://arxiv.org/abs/2601.23266v1)** | 2026-01-30 |  |
-| **[Particle-Guided Diffusion Models for Partial Differential Equations](https://arxiv.org/abs/2601.23262v1)** | 2026-01-30 |  |
-| **[Diffusion-based Frameworks for Unsupervised Speech Enhancement](https://arxiv.org/abs/2601.09931v3)** | 2026-01-30 |  |
-| **[Sequence Diffusion Model for Temporal Link Prediction in Continuous-Time Dynamic Graph](https://arxiv.org/abs/2601.23233v1)** | 2026-01-30 |  |
-| **[Generative quantum machine learning via denoising diffusion probabilistic models](https://arxiv.org/abs/2310.05866v5)** | 2026-01-30 | <details><summary>5+10 ...</summary><p>5+10 pages, 16 figures. PRL accepted version. Code available at: https://github.com/francis-hsu/quantgenmdl</p></details> |
-| **[Scale-Cascaded Diffusion Models for Super-Resolution in Medical Imaging](https://arxiv.org/abs/2601.23201v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at IEEE International Symposium for Biomedical Imaging (ISBI) 2026</p></details> |
-| **[FourierSampler: Unlocking Non-Autoregressive Potential in Diffusion Language Models via Frequency-Guided Generation](https://arxiv.org/abs/2601.23182v1)** | 2026-01-30 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, under review</p></details> |
-| **[From Next-Token to Next-Block: A Principled Adaptation Path for Diffusion LLMs](https://arxiv.org/abs/2512.06776v2)** | 2026-01-30 | 14 pages, 5 figures |
-| **[DIFFA-2: A Practical Diffusion Large Language Model for General Audio Understanding](https://arxiv.org/abs/2601.23161v1)** | 2026-01-30 |  |
-| **[SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models](https://arxiv.org/abs/2503.07392v4)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[dgMARK: Decoding-Guided Watermarking for Diffusion Language Models](https://arxiv.org/abs/2601.22985v1)** | 2026-01-30 | <details><summary>Proje...</summary><p>Project page: https://dgmark-watermarking.github.io</p></details> |
-| **[Integrating Fourier Neural Operators with Diffusion Models to improve Spectral Representation of Synthetic Earthquake Ground Motion Response](https://arxiv.org/abs/2504.00757v2)** | 2026-01-30 | <details><summary>Prese...</summary><p>Presented at D11 - New Technologies (Additive manufacturing, AI, digital twin) D11-TS49 - Machine Learning and Artificial Intelligence 00 - SMiRT 25 - Toronto, Canada. August 10-15, 2025</p></details> |
-| **[Self-Imitated Diffusion Policy for Efficient and Robust Visual Navigation](https://arxiv.org/abs/2601.22965v1)** | 2026-01-30 | Preprint |
+| **[PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss](https://arxiv.org/abs/2602.02493v1)** | 2026-02-02 | <details><summary>Proje...</summary><p>Project Pages: https://zehong-ma.github.io/PixelGen/</p></details> |
+| **[FS-DFM: Fast and Accurate Long Text Generation with Few-Step Diffusion Language Models](https://arxiv.org/abs/2509.20624v3)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
+| **[Enabling Approximate Joint Sampling in Diffusion LMs](https://arxiv.org/abs/2509.22738v2)** | 2026-02-02 |  |
+| **[Accurate Network Traffic Matrix Prediction via LEAD: a Large Language Model-Enhanced Adapter-Based Conditional Diffusion Model](https://arxiv.org/abs/2601.21437v2)** | 2026-02-02 |  |
+| **[DiffInk: Glyph- and Style-Aware Latent Diffusion Transformer for Text to Online Handwriting Generation](https://arxiv.org/abs/2509.23624v3)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[Geometry- and Relation-Aware Diffusion for EEG Super-Resolution](https://arxiv.org/abs/2602.02238v1)** | 2026-02-02 |  |
+| **[Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation](https://arxiv.org/abs/2602.02214v1)** | 2026-02-02 | <details><summary>Proje...</summary><p>Project page and the code: \href{https://thu-ml.github.io/CausalForcing.github.io/}{https://thu-ml.github.io/CausalForcing.github.io/}</p></details> |
+| **[Conditional diffusion models for downscaling and bias correction of Earth system model precipitation](https://arxiv.org/abs/2404.14416v2)** | 2026-02-02 |  |
+| **[RDDM: Practicing RAW Domain Diffusion Model for Real-world Image Restoration](https://arxiv.org/abs/2508.19154v2)** | 2026-02-02 |  |
+| **[Critic-Guided Reinforcement Unlearning in Text-to-Image Diffusion](https://arxiv.org/abs/2601.03213v2)** | 2026-02-02 | Preprint |
+| **[SSI-DM: Singularity Skipping Inversion of Diffusion Models](https://arxiv.org/abs/2602.02193v1)** | 2026-02-02 |  |
+| **[AR-MAP: Are Autoregressive Large Language Models Implicit Teachers for Diffusion Large Language Models?](https://arxiv.org/abs/2602.02178v1)** | 2026-02-02 |  |
+| **[Focus-dLLM: Accelerating Long-Context Diffusion LLM Inference via Confidence-Guided Context Focusing](https://arxiv.org/abs/2602.02159v1)** | 2026-02-02 |  |
+| **[Understanding the Reversal Curse Mitigation in Masked Diffusion Models through Attention and Training Dynamics](https://arxiv.org/abs/2602.02133v1)** | 2026-02-02 |  |
+| **[Adaptive Domain Shift in Diffusion Models for Cross-Modality Image Translation](https://arxiv.org/abs/2601.18623v2)** | 2026-02-02 | <details><summary>Paper...</summary><p>Paper accepted as a conference paper at ICLR 2026</p></details> |
 
