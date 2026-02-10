@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 06, 2026
+title: Latest 15 Papers - February 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention](https://arxiv.org/abs/2602.04789v1)** | 2026-02-04 | 14 pages, 7 figures |
-| **[Past- and Future-Informed KV Cache Policy with Salience Estimation in Autoregressive Video Diffusion](https://arxiv.org/abs/2601.21896v3)** | 2026-02-04 |  |
-| **[AccidentSim: Generating Vehicle Collision Videos with Physically Realistic Collision Trajectories from Real-World Accident Reports](https://arxiv.org/abs/2503.20654v3)** | 2026-02-04 | <details><summary>15 pa...</summary><p>15 pages, 9 figures, 5 tables</p></details> |
-| **[Adaptive 1D Video Diffusion Autoencoder](https://arxiv.org/abs/2602.04220v1)** | 2026-02-04 |  |
-| **[SAVGBench: Benchmarking Spatially Aligned Audio-Video Generation](https://arxiv.org/abs/2412.13462v2)** | 2026-02-04 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, accepted for publication in IEEE ICASSP 2026</p></details> |
-| **[VTok: A Unified Video Tokenizer with Decoupled Spatial-Temporal Latents](https://arxiv.org/abs/2602.04202v1)** | 2026-02-04 |  |
-| **[MAMBO-G: Magnitude-Aware Mitigation for Boosted Guidance](https://arxiv.org/abs/2508.03442v3)** | 2026-02-04 |  |
-| **[Geometry-aware 4D Video Generation for Robot Manipulation](https://arxiv.org/abs/2507.01099v3)** | 2026-02-04 | <details><summary>ICLR ...</summary><p>ICLR 2026; Project website: https://robot4dgen.github.io</p></details> |
-| **[Simulating the Visual World with Artificial Intelligence: A Roadmap](https://arxiv.org/abs/2511.08585v3)** | 2026-02-03 | <details><summary>Proje...</summary><p>Project page: https://world-model-roadmap.github.io/ Github Repo: https://github.com/ziqihuangg/Awesome-From-Video-Generation-to-World-Model</p></details> |
-| **[3D-Aware Implicit Motion Control for View-Adaptive Human Video Generation](https://arxiv.org/abs/2602.03796v1)** | 2026-02-03 | <details><summary>Proje...</summary><p>Project Page: https://hjrphoebus.github.io/3DiMo/</p></details> |
-| **[BridgeV2W: Bridging Video Generation Models to Embodied World Models via Embodiment Masks](https://arxiv.org/abs/2602.03793v1)** | 2026-02-03 |  |
-| **[Phaedra: Learning High-Fidelity Discrete Tokenization for the Physical Science](https://arxiv.org/abs/2602.03915v1)** | 2026-02-03 | 57 pages, 27 figures |
-| **[How do people watch AI-generated videos of physical scenes?](https://arxiv.org/abs/2602.03374v1)** | 2026-02-03 |  |
-| **[InstaDrive: Instance-Aware Driving World Models for Realistic and Consistent Video Generation](https://arxiv.org/abs/2602.03242v1)** | 2026-02-03 |  |
-| **[ConsisDrive: Identity-Preserving Driving World Models for Video Generation by Instance Mask](https://arxiv.org/abs/2602.03213v1)** | 2026-02-03 |  |
+| **[WorldCompass: Reinforcement Learning for Long-Horizon World Models](https://arxiv.org/abs/2602.09022v1)** | 2026-02-09 | <details><summary>Proje...</summary><p>Project page: \url{https://3d-models.hunyuan.tencent.com/world/}</p></details> |
+| **[WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models](https://arxiv.org/abs/2602.08971v1)** | 2026-02-09 |  |
+| **[VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning](https://arxiv.org/abs/2602.08828v1)** | 2026-02-09 | <details><summary>Proje...</summary><p>Project: https://github.com/EricTan7/VideoVeritas</p></details> |
+| **[Omni-Video 2: Scaling MLLM-Conditioned Diffusion for Unified Video Generation and Editing](https://arxiv.org/abs/2602.08820v1)** | 2026-02-09 | <details><summary>Techn...</summary><p>Technical Report, Project: https://howellyoung-s.github.io/Omni-Video2-project/</p></details> |
+| **[ALIVE: Animate Your World with Lifelike Audio-Video Generation](https://arxiv.org/abs/2602.08682v1)** | 2026-02-09 |  |
+| **[Driving with DINO: Vision Foundation Features as a Unified Bridge for Sim-to-Real Generation in Autonomous Driving](https://arxiv.org/abs/2602.06159v2)** | 2026-02-09 | <details><summary>Proje...</summary><p>Project website https://albertchen98.github.io/DwD-project/</p></details> |
+| **["PhyWorldBench": A Comprehensive Evaluation of Physical Realism in Text-to-Video Models](https://arxiv.org/abs/2507.13428v2)** | 2026-02-09 | 35 pages, 21 figures |
+| **[T2VTree: User-Centered Visual Analytics for Agent-Assisted Thought-to-Video Authoring](https://arxiv.org/abs/2602.08368v1)** | 2026-02-09 |  |
+| **[PISCO: Precise Video Instance Insertion with Sparse Control](https://arxiv.org/abs/2602.08277v1)** | 2026-02-09 |  |
+| **[ReRoPE: Repurposing RoPE for Relative Camera Control](https://arxiv.org/abs/2602.08068v1)** | 2026-02-08 |  |
+| **[MAMBO-G: Magnitude-Aware Mitigation for Boosted Guidance](https://arxiv.org/abs/2508.03442v4)** | 2026-02-08 |  |
+| **[TeleBoost: A Systematic Alignment Framework for High-Fidelity, Controllable, and Robust Video Generation](https://arxiv.org/abs/2602.07595v1)** | 2026-02-07 |  |
+| **[SoulX-FlashHead: Oracle-guided Generation of Infinite Real-time Streaming Talking Heads](https://arxiv.org/abs/2602.07449v1)** | 2026-02-07 | 11 pages, 3 figures |
+| **[Optimizing Few-Step Generation with Adaptive Matching Distillation](https://arxiv.org/abs/2602.07345v1)** | 2026-02-07 | <details><summary>25 pa...</summary><p>25 pages, 15 figures, 11 tables</p></details> |
+| **[Towards Stabilized and Efficient Diffusion Transformers through Long-Skip-Connections with Spectral Constraints](https://arxiv.org/abs/2411.17616v5)** | 2026-02-07 | 17 pages, 8 figures |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Laminating Representation Autoencoders for Efficient Diffusion](https://arxiv.org/abs/2602.04873v1)** | 2026-02-04 |  |
-| **[Dynamical Regimes of Multimodal Diffusion Models](https://arxiv.org/abs/2602.04780v1)** | 2026-02-04 | 40 pages, 14 figures |
-| **[Causal-Adapter: Taming Text-to-Image Diffusion for Faithful Counterfactual Generation](https://arxiv.org/abs/2509.24798v5)** | 2026-02-04 | <details><summary>Proje...</summary><p>Project Page: https://leitong02.github.io/causaladapter/</p></details> |
-| **[Unlocking hidden biomolecular conformational landscapes in diffusion models at inference time](https://arxiv.org/abs/2512.03312v2)** | 2026-02-04 | <details><summary>Proje...</summary><p>Project page: https://github.com/drorlab/conformix</p></details> |
-| **[Mitigating Long-Tail Bias via Prompt-Controlled Diffusion Augmentation](https://arxiv.org/abs/2602.04749v1)** | 2026-02-04 |  |
-| **[Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design](https://arxiv.org/abs/2602.04663v1)** | 2026-02-04 | 23 pages, 11 figures |
-| **[Mixed-Density Diffuser: Efficient Planning with Non-Uniform Temporal Resolution](https://arxiv.org/abs/2510.23026v4)** | 2026-02-04 | <details><summary>Europ...</summary><p>European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN) (under review)</p></details> |
-| **[Discrete Diffusion-Based Model-Level Explanation of Heterogeneous GNNs with Node Features](https://arxiv.org/abs/2508.08458v2)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted at WWW 2026. Camera-ready version</p></details> |
-| **[Nix and Fix: Targeting 1000x Compression of 3D Gaussian Splatting with Diffusion Models](https://arxiv.org/abs/2602.04549v1)** | 2026-02-04 |  |
-| **[Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation](https://arxiv.org/abs/2512.07212v2)** | 2026-02-04 |  |
-| **[SALAD-Pan: Sensor-Agnostic Latent Adaptive Diffusion for Pan-Sharpening](https://arxiv.org/abs/2602.04473v1)** | 2026-02-04 |  |
-| **[Sparse-to-Sparse Training of Diffusion Models](https://arxiv.org/abs/2504.21380v2)** | 2026-02-04 | Accepted to TMLR |
-| **[From discrete-time policies to continuous-time diffusion samplers: Asymptotic equivalences and faster training](https://arxiv.org/abs/2501.06148v3)** | 2026-02-04 | <details><summary>TMLR ...</summary><p>TMLR final version; code: https://github.com/GFNOrg/gfn-diffusion/tree/stagger</p></details> |
-| **[LCUDiff: Latent Capacity Upgrade Diffusion for Faithful Human Body Restoration](https://arxiv.org/abs/2602.04406v1)** | 2026-02-04 | <details><summary>8 pag...</summary><p>8 pages, 7 figures. The code and model will be at https://github.com/gobunu/LCUDiff</p></details> |
-| **[Theory of Speciation Transitions in Diffusion Models with General Class Structure](https://arxiv.org/abs/2602.04404v1)** | 2026-02-04 | 17 pages, 6 figures |
+| **[Categorical Reparameterization with Denoising Diffusion models](https://arxiv.org/abs/2601.00781v2)** | 2026-02-09 | preprint |
+| **[Diffusion-Inspired Reconfiguration of Transformers for Uncertainty Calibration](https://arxiv.org/abs/2602.08920v1)** | 2026-02-09 |  |
+| **[Efficient and Stable Reinforcement Learning for Diffusion Language Models](https://arxiv.org/abs/2602.08905v1)** | 2026-02-09 | 13 pages, 3 figures |
+| **[Diffusion-Inspired Masked Fine-Tuning for Knowledge Injection in Autoregressive LLMs](https://arxiv.org/abs/2510.09885v4)** | 2026-02-09 |  |
+| **[Omni-Video 2: Scaling MLLM-Conditioned Diffusion for Unified Video Generation and Editing](https://arxiv.org/abs/2602.08820v1)** | 2026-02-09 | <details><summary>Techn...</summary><p>Technical Report, Project: https://howellyoung-s.github.io/Omni-Video2-project/</p></details> |
+| **[Negative-Aware Diffusion Process for Temporal Knowledge Graph Extrapolation](https://arxiv.org/abs/2602.08815v1)** | 2026-02-09 |  |
+| **[A Review of Online Diffusion Policy RL Algorithms for Scalable Robotic Control](https://arxiv.org/abs/2601.06133v2)** | 2026-02-09 |  |
+| **[Improving 2D Diffusion Models for 3D Medical Imaging with Inter-Slice Consistent Stochasticity](https://arxiv.org/abs/2602.04162v2)** | 2026-02-09 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[Learning To Sample From Diffusion Models Via Inverse Reinforcement Learning](https://arxiv.org/abs/2602.08689v1)** | 2026-02-09 | Preprint |
+| **[LLaDA2.1: Speeding Up Text Diffusion via Token Editing](https://arxiv.org/abs/2602.08676v1)** | 2026-02-09 | 11 pages, 3 figures |
+| **[VocalNet-MDM: Accelerating Streaming Speech LLM via Self-Distilled Masked Diffusion Modeling](https://arxiv.org/abs/2602.08607v1)** | 2026-02-09 |  |
+| **[DegDiT: Controllable Audio Generation with Dynamic Event Graph Guided Diffusion Transformer](https://arxiv.org/abs/2508.13786v2)** | 2026-02-09 |  |
+| **[Improved Sampling Schedules for Discrete Diffusion Models](https://arxiv.org/abs/2602.06849v2)** | 2026-02-09 |  |
+| **[An Elementary Approach to Scheduling in Generative Diffusion Models](https://arxiv.org/abs/2601.13602v2)** | 2026-02-09 | <details><summary>v2: N...</summary><p>v2: New theoretical analysis establishes the Gaussian case as a fundamental baseline necessary for studying the diffusion mechanism</p></details> |
+| **[TEAM: Temporal-Spatial Consistency Guided Expert Activation for MoE Diffusion Language Model Acceleration](https://arxiv.org/abs/2602.08404v1)** | 2026-02-09 |  |
 
