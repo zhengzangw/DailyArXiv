@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 11, 2026
+title: Latest 15 Papers - February 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[WorldCompass: Reinforcement Learning for Long-Horizon World Models](https://arxiv.org/abs/2602.09022v1)** | 2026-02-09 | <details><summary>Proje...</summary><p>Project page: \url{https://3d-models.hunyuan.tencent.com/world/}</p></details> |
-| **[WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models](https://arxiv.org/abs/2602.08971v1)** | 2026-02-09 |  |
-| **[VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning](https://arxiv.org/abs/2602.08828v1)** | 2026-02-09 | <details><summary>Proje...</summary><p>Project: https://github.com/EricTan7/VideoVeritas</p></details> |
-| **[Omni-Video 2: Scaling MLLM-Conditioned Diffusion for Unified Video Generation and Editing](https://arxiv.org/abs/2602.08820v1)** | 2026-02-09 | <details><summary>Techn...</summary><p>Technical Report, Project: https://howellyoung-s.github.io/Omni-Video2-project/</p></details> |
-| **[ALIVE: Animate Your World with Lifelike Audio-Video Generation](https://arxiv.org/abs/2602.08682v1)** | 2026-02-09 |  |
-| **[Driving with DINO: Vision Foundation Features as a Unified Bridge for Sim-to-Real Generation in Autonomous Driving](https://arxiv.org/abs/2602.06159v2)** | 2026-02-09 | <details><summary>Proje...</summary><p>Project website https://albertchen98.github.io/DwD-project/</p></details> |
-| **["PhyWorldBench": A Comprehensive Evaluation of Physical Realism in Text-to-Video Models](https://arxiv.org/abs/2507.13428v2)** | 2026-02-09 | 35 pages, 21 figures |
-| **[T2VTree: User-Centered Visual Analytics for Agent-Assisted Thought-to-Video Authoring](https://arxiv.org/abs/2602.08368v1)** | 2026-02-09 |  |
-| **[PISCO: Precise Video Instance Insertion with Sparse Control](https://arxiv.org/abs/2602.08277v1)** | 2026-02-09 |  |
-| **[ReRoPE: Repurposing RoPE for Relative Camera Control](https://arxiv.org/abs/2602.08068v1)** | 2026-02-08 |  |
-| **[MAMBO-G: Magnitude-Aware Mitigation for Boosted Guidance](https://arxiv.org/abs/2508.03442v4)** | 2026-02-08 |  |
-| **[TeleBoost: A Systematic Alignment Framework for High-Fidelity, Controllable, and Robust Video Generation](https://arxiv.org/abs/2602.07595v1)** | 2026-02-07 |  |
-| **[SoulX-FlashHead: Oracle-guided Generation of Infinite Real-time Streaming Talking Heads](https://arxiv.org/abs/2602.07449v1)** | 2026-02-07 | 11 pages, 3 figures |
-| **[Optimizing Few-Step Generation with Adaptive Matching Distillation](https://arxiv.org/abs/2602.07345v1)** | 2026-02-07 | <details><summary>25 pa...</summary><p>25 pages, 15 figures, 11 tables</p></details> |
-| **[Towards Stabilized and Efficient Diffusion Transformers through Long-Skip-Connections with Spectral Constraints](https://arxiv.org/abs/2411.17616v5)** | 2026-02-07 | 17 pages, 8 figures |
+| **[ConsID-Gen: View-Consistent and Identity-Preserving Image-to-Video Generation](https://arxiv.org/abs/2602.10113v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://myangwu.github.io/ConsID-Gen</p></details> |
+| **[DexImit: Learning Bimanual Dexterous Manipulation from Monocular Human Videos](https://arxiv.org/abs/2602.10105v1)** | 2026-02-10 |  |
+| **[VideoWorld 2: Learning Transferable Knowledge from Real-world Videos](https://arxiv.org/abs/2602.10102v1)** | 2026-02-10 | <details><summary>Code ...</summary><p>Code and models are released at: https://maverickren.github.io/VideoWorld2.github.io/</p></details> |
+| **[ALIVE: Animate Your World with Lifelike Audio-Video Generation](https://arxiv.org/abs/2602.08682v2)** | 2026-02-10 | <details><summary>Techn...</summary><p>Technical report for ALIVE. Bytedance ALIVE Team. Homepage: https://foundationvision.github.io/Alive/</p></details> |
+| **[Monocular Normal Estimation via Shading Sequence Estimation](https://arxiv.org/abs/2602.09929v1)** | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026 (Oral Presentation)</p></details> |
+| **[AdaTSQ: Pushing the Pareto Frontier of Diffusion Transformers via Temporal-Sensitivity Quantization](https://arxiv.org/abs/2602.09883v1)** | 2026-02-10 | <details><summary>Code ...</summary><p>Code will be released at https://github.com/Qiushao-E/AdaTSQ/</p></details> |
+| **[Free-GVC: Towards Training-Free Extreme Generative Video Compression with Temporal Coherence](https://arxiv.org/abs/2602.09868v1)** | 2026-02-10 |  |
+| **[Dual-IPO: Dual-Iterative Preference Optimization for Text-to-Video Generation](https://arxiv.org/abs/2502.02088v4)** | 2026-02-10 | <details><summary>To ap...</summary><p>To appear in ICLR 2026</p></details> |
+| **[MoWM: Mixture-of-World-Models for Embodied Planning via Latent-to-Pixel Feature Modulation](https://arxiv.org/abs/2509.21797v3)** | 2026-02-10 |  |
+| **[Tele-Omni: a Unified Multimodal Framework for Video Generation and Editing](https://arxiv.org/abs/2602.09609v1)** | 2026-02-10 |  |
+| **[Hand2World: Autoregressive Egocentric Interaction Generation via Free-Space Hand Gestures](https://arxiv.org/abs/2602.09600v1)** | 2026-02-10 |  |
+| **[AUHead: Realistic Emotional Talking Head Generation via Action Units Control](https://arxiv.org/abs/2602.09534v1)** | 2026-02-10 | <details><summary>https...</summary><p>https://openreview.net/forum?id=dmzlAUkulz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)</p></details> |
+| **[SoulX-FlashHead: Oracle-guided Generation of Infinite Real-time Streaming Talking Heads](https://arxiv.org/abs/2602.07449v2)** | 2026-02-10 | 11 pages, 3 figures |
+| **[Unconditional Priors Matter! Improving Conditional Generation of Fine-Tuned Diffusion Models](https://arxiv.org/abs/2503.20240v3)** | 2026-02-10 | <details><summary>WACV ...</summary><p>WACV 2026; Project Page: https://unconditional-priors-matter.github.io/</p></details> |
+| **[ConsisDrive: Identity-Preserving Driving World Models for Video Generation by Instance Mask](https://arxiv.org/abs/2602.03213v3)** | 2026-02-10 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Categorical Reparameterization with Denoising Diffusion models](https://arxiv.org/abs/2601.00781v2)** | 2026-02-09 | preprint |
-| **[Diffusion-Inspired Reconfiguration of Transformers for Uncertainty Calibration](https://arxiv.org/abs/2602.08920v1)** | 2026-02-09 |  |
-| **[Efficient and Stable Reinforcement Learning for Diffusion Language Models](https://arxiv.org/abs/2602.08905v1)** | 2026-02-09 | 13 pages, 3 figures |
-| **[Diffusion-Inspired Masked Fine-Tuning for Knowledge Injection in Autoregressive LLMs](https://arxiv.org/abs/2510.09885v4)** | 2026-02-09 |  |
-| **[Omni-Video 2: Scaling MLLM-Conditioned Diffusion for Unified Video Generation and Editing](https://arxiv.org/abs/2602.08820v1)** | 2026-02-09 | <details><summary>Techn...</summary><p>Technical Report, Project: https://howellyoung-s.github.io/Omni-Video2-project/</p></details> |
-| **[Negative-Aware Diffusion Process for Temporal Knowledge Graph Extrapolation](https://arxiv.org/abs/2602.08815v1)** | 2026-02-09 |  |
-| **[A Review of Online Diffusion Policy RL Algorithms for Scalable Robotic Control](https://arxiv.org/abs/2601.06133v2)** | 2026-02-09 |  |
-| **[Improving 2D Diffusion Models for 3D Medical Imaging with Inter-Slice Consistent Stochasticity](https://arxiv.org/abs/2602.04162v2)** | 2026-02-09 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[Learning To Sample From Diffusion Models Via Inverse Reinforcement Learning](https://arxiv.org/abs/2602.08689v1)** | 2026-02-09 | Preprint |
-| **[LLaDA2.1: Speeding Up Text Diffusion via Token Editing](https://arxiv.org/abs/2602.08676v1)** | 2026-02-09 | 11 pages, 3 figures |
-| **[VocalNet-MDM: Accelerating Streaming Speech LLM via Self-Distilled Masked Diffusion Modeling](https://arxiv.org/abs/2602.08607v1)** | 2026-02-09 |  |
-| **[DegDiT: Controllable Audio Generation with Dynamic Event Graph Guided Diffusion Transformer](https://arxiv.org/abs/2508.13786v2)** | 2026-02-09 |  |
-| **[Improved Sampling Schedules for Discrete Diffusion Models](https://arxiv.org/abs/2602.06849v2)** | 2026-02-09 |  |
-| **[An Elementary Approach to Scheduling in Generative Diffusion Models](https://arxiv.org/abs/2601.13602v2)** | 2026-02-09 | <details><summary>v2: N...</summary><p>v2: New theoretical analysis establishes the Gaussian case as a fundamental baseline necessary for studying the diffusion mechanism</p></details> |
-| **[TEAM: Temporal-Spatial Consistency Guided Expert Activation for MoE Diffusion Language Model Acceleration](https://arxiv.org/abs/2602.08404v1)** | 2026-02-09 |  |
+| **[Learning on the Manifold: Unlocking Standard Diffusion Transformers with Representation Encoders](https://arxiv.org/abs/2602.10099v1)** | 2026-02-10 | Technical Report |
+| **[Causality in Video Diffusers is Separable from Denoising](https://arxiv.org/abs/2602.10095v1)** | 2026-02-10 |  |
+| **[Coupled Inference in Diffusion Models for Semantic Decomposition](https://arxiv.org/abs/2602.09983v1)** | 2026-02-10 | 15 pages |
+| **[AdaTSQ: Pushing the Pareto Frontier of Diffusion Transformers via Temporal-Sensitivity Quantization](https://arxiv.org/abs/2602.09883v1)** | 2026-02-10 | <details><summary>Code ...</summary><p>Code will be released at https://github.com/Qiushao-E/AdaTSQ/</p></details> |
+| **[Coherent Load Profile Synthesis with Conditional Diffusion for LV Distribution Network Scenario Generation](https://arxiv.org/abs/2510.12832v2)** | 2026-02-10 |  |
+| **[Constant Rate Scheduling: A General Framework for Optimizing Diffusion Noise Schedule via Distributional Change](https://arxiv.org/abs/2411.12188v4)** | 2026-02-10 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR), January 2026</p></details> |
+| **[Emergence of Distortions in High-Dimensional Guided Diffusion Models](https://arxiv.org/abs/2602.00716v2)** | 2026-02-10 | 29 pages, 16 figures |
+| **[Explainability in Generative Medical Diffusion Models: A Faithfulness-Based Analysis on MRI Synthesis](https://arxiv.org/abs/2602.09781v1)** | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted at 3rd World Congress on Smart Computing (WCSC2026) conference</p></details> |
+| **[Temporal Concept Dynamics in Diffusion Models via Prompt-Conditioned Interventions](https://arxiv.org/abs/2512.08486v2)** | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Learning Representations 2026 (ICLR 2026). Code is available at: https://adagorgun.github.io/PCI-Project/</p></details> |
+| **[VDRive: Leveraging Reinforced VLA and Diffusion Policy for End-to-end Autonomous Driving](https://arxiv.org/abs/2510.15446v2)** | 2026-02-10 | WIP |
+| **[Physics-informed diffusion models in spectral space](https://arxiv.org/abs/2602.09708v1)** | 2026-02-10 | 24 pages, 9 figures |
+| **[The Entropic Signature of Class Speciation in Diffusion Models](https://arxiv.org/abs/2602.09651v1)** | 2026-02-10 | 21 pages |
+| **[LD-ViCE: Latent Diffusion Model for Video Counterfactual Explanations](https://arxiv.org/abs/2509.08422v4)** | 2026-02-10 | 44 Pages |
+| **[Blind denoising diffusion models and the blessings of dimensionality](https://arxiv.org/abs/2602.09639v1)** | 2026-02-10 | 40 pages, 12 figures |
+| **[Preference Aligned Visuomotor Diffusion Policies for Deformable Object Manipulation](https://arxiv.org/abs/2602.09583v1)** | 2026-02-10 |  |
 
