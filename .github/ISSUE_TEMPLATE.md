@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 16, 2026
+title: Latest 15 Papers - February 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FlexAM: Flexible Appearance-Motion Decomposition for Versatile Video Generation Control](https://arxiv.org/abs/2602.13185v1)** | 2026-02-13 | <details><summary>Codes...</summary><p>Codes: https://github.com/IGL-HKUST/FlexAM</p></details> |
+| **[Hand2World: Autoregressive Egocentric Interaction Generation via Free-Space Hand Gestures](https://arxiv.org/abs/2602.09600v2)** | 2026-02-13 |  |
+| **[SLA2: Sparse-Linear Attention with Learnable Routing and QAT](https://arxiv.org/abs/2602.12675v1)** | 2026-02-13 |  |
+| **[Dual-Granularity Contrastive Reward via Generated Episodic Guidance for Efficient Embodied RL](https://arxiv.org/abs/2602.12636v1)** | 2026-02-13 |  |
 | **[MonarchRT: Efficient Attention for Real-Time Video Generation](https://arxiv.org/abs/2602.12271v1)** | 2026-02-12 |  |
 | **[DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation](https://arxiv.org/abs/2602.12160v1)** | 2026-02-12 | <details><summary>Proje...</summary><p>Project: https://guoxu1233.github.io/DreamID-Omni/</p></details> |
 | **[FAIL: Flow Matching Adversarial Imitation Learning for Image Generation](https://arxiv.org/abs/2602.12155v1)** | 2026-02-12 |  |
@@ -17,28 +21,24 @@ labels: documentation
 | **[Learning Physics-Grounded 4D Dynamics with Neural Gaussian Force Fields](https://arxiv.org/abs/2602.00148v2)** | 2026-02-12 | 43 pages, ICLR 2026 |
 | **[MapReduce LoRA: Advancing the Pareto Front in Multi-Preference Optimization for Generative Models](https://arxiv.org/abs/2511.20629v3)** | 2026-02-12 |  |
 | **[LUVE : Latent-Cascaded Ultra-High-Resolution Video Generation with Dual Frequency Experts](https://arxiv.org/abs/2602.11564v1)** | 2026-02-12 |  |
-| **[H-WM: Robotic Task and Motion Planning Guided by Hierarchical World Model](https://arxiv.org/abs/2602.11291v1)** | 2026-02-11 | 14 pages, 3 figures |
-| **[FastFlow: Accelerating The Generative Flow Matching Models with Bandit Inference](https://arxiv.org/abs/2602.11105v1)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted at International Conference on Learning Representations (ICLR) 2026</p></details> |
-| **[Flow caching for autoregressive video generation](https://arxiv.org/abs/2602.10825v1)** | 2026-02-11 |  |
-| **[SoulX-FlashHead: Oracle-guided Generation of Infinite Real-time Streaming Talking Heads](https://arxiv.org/abs/2602.07449v3)** | 2026-02-11 | 11 pages, 3 figures |
-| **[WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models](https://arxiv.org/abs/2602.08971v2)** | 2026-02-11 |  |
+| **[OmniCustom: Sync Audio-Video Customization Via Joint Audio-Video Generation Model](https://arxiv.org/abs/2602.12304v1)** | 2026-02-12 | 16 pages |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Function-Space Decoupled Diffusion for Forward and Inverse Modeling in Carbon Capture and Storage](https://arxiv.org/abs/2602.12274v1)** | 2026-02-12 |  |
-| **[Decoupled Diffusion Sampling for Inverse Problems on Function Spaces](https://arxiv.org/abs/2601.23280v2)** | 2026-02-12 | Under review |
-| **[T3D: Few-Step Diffusion Language Models via Trajectory Self-Distillation with Direct Discriminative Optimization](https://arxiv.org/abs/2602.12262v1)** | 2026-02-12 |  |
-| **[Diffusion Alignment Beyond KL: Variance Minimisation as Effective Policy Optimiser](https://arxiv.org/abs/2602.12229v1)** | 2026-02-12 |  |
-| **[Self-Attention Decomposition For Training Free Diffusion Editing](https://arxiv.org/abs/2510.22650v2)** | 2026-02-12 | <details><summary>ICASS...</summary><p>ICASSP 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</p></details> |
-| **[Fourier Transformers for Latent Crystallographic Diffusion and Generative Modeling](https://arxiv.org/abs/2602.12045v1)** | 2026-02-12 |  |
-| **[Robot-DIFT: Distilling Diffusion Features for Geometrically Consistent Visuomotor Control](https://arxiv.org/abs/2602.11934v1)** | 2026-02-12 |  |
-| **[TADA! Tuning Audio Diffusion Models through Activation Steering](https://arxiv.org/abs/2602.11910v1)** | 2026-02-12 | <details><summary>Prepr...</summary><p>Preprint. Preliminary work</p></details> |
-| **[Universal Diffusion-Based Probabilistic Downscaling](https://arxiv.org/abs/2602.11893v1)** | 2026-02-12 |  |
-| **[DiffPlace: Street View Generation via Place-Controllable Diffusion Model Enhancing Place Recognition](https://arxiv.org/abs/2602.11875v1)** | 2026-02-12 | <details><summary>accep...</summary><p>accepted by ICRA 2026</p></details> |
-| **[Diffusion Bridge Variational Inference for Deep Gaussian Processes](https://arxiv.org/abs/2509.19078v3)** | 2026-02-12 |  |
-| **[PuYun-LDM: A Latent Diffusion Model for High-Resolution Ensemble Weather Forecasts](https://arxiv.org/abs/2602.11807v1)** | 2026-02-12 |  |
-| **[DICE: Diffusion Large Language Models Excel at Generating CUDA Kernels](https://arxiv.org/abs/2602.11715v1)** | 2026-02-12 |  |
-| **[Estimation of instrument and noise parameters for inverse problem based on prior diffusion model](https://arxiv.org/abs/2602.11711v1)** | 2026-02-12 |  |
-| **[U-DAVI: Uncertainty-Aware Diffusion-Prior-Based Amortized Variational Inference for Image Reconstruction](https://arxiv.org/abs/2602.11704v1)** | 2026-02-12 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
+| **[Realistic Face Reconstruction from Facial Embeddings via Diffusion Models](https://arxiv.org/abs/2602.13168v1)** | 2026-02-13 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
+| **[TA-KAND: Two-stage Attention Triple Enhancement and U-KAN based Diffusion For Few-shot Knowledge Graph Completion](https://arxiv.org/abs/2512.12182v2)** | 2026-02-13 | Work in progress |
+| **[Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting](https://arxiv.org/abs/2507.06971v3)** | 2026-02-13 | <details><summary>Accep...</summary><p>Accepted to ICRA 2026. The source code will be publicly available at https://github.com/FeiT-FeiTeng/Percep360</p></details> |
+| **[Pareto-Conditioned Diffusion Models for Offline Multi-Objective Optimization](https://arxiv.org/abs/2602.00737v2)** | 2026-02-13 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026 (Oral). Project website: https://sites.google.com/view/pcd-iclr26</p></details> |
+| **[AEGIS: Adversarial Target-Guided Retention-Data-Free Robust Concept Erasure from Diffusion Models](https://arxiv.org/abs/2602.06771v2)** | 2026-02-13 | 30 pages,12 figures |
+| **[Diffusion-Pretrained Dense and Contextual Embeddings](https://arxiv.org/abs/2602.11151v2)** | 2026-02-13 |  |
+| **[LLaDA2.1: Speeding Up Text Diffusion via Token Editing](https://arxiv.org/abs/2602.08676v3)** | 2026-02-13 | 11 pages, 3 figures |
+| **[DuoCast: Duo-Probabilistic Diffusion for Precipitation Nowcasting](https://arxiv.org/abs/2412.01091v4)** | 2026-02-13 |  |
+| **[Continuous-time q-Learning for Jump-Diffusion Models under Tsallis Entropy](https://arxiv.org/abs/2407.03888v4)** | 2026-02-13 |  |
+| **[PixelRush: Ultra-Fast, Training-Free High-Resolution Image Generation via One-step Diffusion](https://arxiv.org/abs/2602.12769v1)** | 2026-02-13 |  |
+| **[Towards reconstructing experimental sparse-view X-ray CT data with diffusion models](https://arxiv.org/abs/2602.12755v1)** | 2026-02-13 | <details><summary>5 pag...</summary><p>5 pages + references, 4 figures, 2 tables, conference paper</p></details> |
+| **[Diffusion-Based Scenario Tree Generation for Multivariate Time Series Prediction and Multistage Stochastic Optimization](https://arxiv.org/abs/2509.14832v2)** | 2026-02-13 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 1 table, and 1 algorithm. This version is submitted to the 34th EURASIP European Signal Processing Conference 2026 (EUSIPCO 2026), to be held in Bruges, Belgium, on August 31 - September 4, 2026</p></details> |
+| **[PuYun-LDM: A Latent Diffusion Model for High-Resolution Ensemble Weather Forecasts](https://arxiv.org/abs/2602.11807v2)** | 2026-02-13 |  |
+| **[Enhancing guidance for missing data in diffusion-based sequential recommendation](https://arxiv.org/abs/2601.15673v2)** | 2026-02-13 | <details><summary>ICASS...</summary><p>ICASSP 2026 accecpted</p></details> |
+| **[ImageRAGTurbo: Towards One-step Text-to-Image Generation with Retrieval-Augmented Diffusion Models](https://arxiv.org/abs/2602.12640v1)** | 2026-02-13 | 11 pages, 7 figures |
 
