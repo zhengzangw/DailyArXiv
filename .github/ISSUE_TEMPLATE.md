@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 23, 2026
+title: Latest 15 Papers - February 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control](https://arxiv.org/abs/2602.18422v1)** | 2026-02-20 | <details><summary>Proje...</summary><p>Project page here: https://codeysun.github.io/generated-reality</p></details> |
+| **[Predict to Skip: Linear Multistep Feature Forecasting for Efficient Diffusion Transformers](https://arxiv.org/abs/2602.18093v1)** | 2026-02-20 |  |
+| **[A Single Image and Multimodality Is All You Need for Novel View Synthesis](https://arxiv.org/abs/2602.17909v1)** | 2026-02-20 |  |
 | **[EA-Swin: An Embedding-Agnostic Swin Transformer for AI-Generated Video Detection](https://arxiv.org/abs/2602.17260v1)** | 2026-02-19 | First preprint |
 | **[VSF: Simple, Efficient, and Effective Negative Guidance in Few-Step Image Generation Models By Value Sign Flip](https://arxiv.org/abs/2508.10931v6)** | 2026-02-19 |  |
 | **[DDiT: Dynamic Patch Scheduling for Efficient Diffusion Transformers](https://arxiv.org/abs/2602.16968v1)** | 2026-02-19 |  |
@@ -19,26 +22,23 @@ labels: documentation
 | **[LAViG-FLOW: Latent Autoregressive Video Generation for Fluid Flow Simulations](https://arxiv.org/abs/2601.13190v2)** | 2026-02-16 |  |
 | **[Adapting VACE for Real-Time Autoregressive Video Diffusion](https://arxiv.org/abs/2602.14381v1)** | 2026-02-16 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 7 tables</p></details> |
 | **[VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model](https://arxiv.org/abs/2602.12063v2)** | 2026-02-15 | <details><summary>Proje...</summary><p>Project Page: https://sites.google.com/view/vlaw-arxiv</p></details> |
-| **[High-Fidelity Causal Video Diffusion Models for Real-Time Ultra-Low-Bitrate Semantic Communication](https://arxiv.org/abs/2602.13837v1)** | 2026-02-14 |  |
-| **[3D-Aware Implicit Motion Control for View-Adaptive Human Video Generation](https://arxiv.org/abs/2602.03796v2)** | 2026-02-14 | <details><summary>Proje...</summary><p>Project Page: https://hjrphoebus.github.io/3DiMo/</p></details> |
-| **[EchoTorrent: Towards Swift, Sustained, and Streaming Multi-Modal Video Generation](https://arxiv.org/abs/2602.13669v1)** | 2026-02-14 |  |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Sink-Aware Pruning for Diffusion Language Models](https://arxiv.org/abs/2602.17664v1)** | 2026-02-19 | <details><summary>Code ...</summary><p>Code at: https://github.com/VILA-Lab/Sink-Aware-Pruning</p></details> |
-| **[Contrastive Diffusion Alignment: Learning Structured Latents for Controllable Generation](https://arxiv.org/abs/2510.14190v2)** | 2026-02-19 |  |
-| **[MolHIT: Advancing Molecular-Graph Generation with Hierarchical Discrete Diffusion Models](https://arxiv.org/abs/2602.17602v1)** | 2026-02-19 |  |
-| **[Diffusion-Guided Pretraining for Brain Graph Foundation Models](https://arxiv.org/abs/2602.09437v2)** | 2026-02-19 | <details><summary>Paper...</summary><p>Paper has some mistakes</p></details> |
-| **[CoreEditor: Correspondence-constrained Diffusion for Consistent 3D Editing](https://arxiv.org/abs/2508.11603v3)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted by IEEE TVCG</p></details> |
-| **[Watermarking Diffusion Language Models](https://arxiv.org/abs/2509.24368v2)** | 2026-02-19 |  |
-| **[Improved Object-Centric Diffusion Learning with Registers and Contrastive Alignment](https://arxiv.org/abs/2601.01224v2)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
-| **[LRT-Diffusion: Calibrated Risk-Aware Guidance for Diffusion Policies](https://arxiv.org/abs/2510.24983v2)** | 2026-02-19 |  |
-| **[Universal Diffusion-Based Probabilistic Downscaling](https://arxiv.org/abs/2602.11893v2)** | 2026-02-19 |  |
-| **[MGD: Moment Guided Diffusion for Maximum Entropy Generation](https://arxiv.org/abs/2602.17211v1)** | 2026-02-19 |  |
-| **[Diffusive Scaling Limits of Forward Event-Chain Monte Carlo: Provably Efficient Exploration with Partial Refreshment](https://arxiv.org/abs/2602.17087v1)** | 2026-02-19 | 43 pages, 5 figures |
-| **[VFace: A Training-Free Approach for Diffusion-Based Video Face Swapping](https://arxiv.org/abs/2602.07835v2)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted at WACV 2026</p></details> |
-| **[Amber-Image: Efficient Compression of Large-Scale Diffusion Transformers](https://arxiv.org/abs/2602.17047v1)** | 2026-02-19 |  |
-| **[Di3PO - Diptych Diffusion DPO for Targeted Improvements in Image Generation](https://arxiv.org/abs/2602.06355v2)** | 2026-02-19 |  |
-| **[DDiT: Dynamic Patch Scheduling for Efficient Diffusion Transformers](https://arxiv.org/abs/2602.16968v1)** | 2026-02-19 |  |
+| **[The Geometry of Noise: Why Diffusion Models Don't Need Noise Conditioning](https://arxiv.org/abs/2602.18428v1)** | 2026-02-20 |  |
+| **[Exploiting Completeness Perception with Diffusion Transformer for Unified 3D MRI Synthesis](https://arxiv.org/abs/2602.18400v1)** | 2026-02-20 |  |
+| **[Quasi-Monte Carlo methods for uncertainty quantification of tumor growth modeled by a parametric semi-linear parabolic reaction-diffusion equation](https://arxiv.org/abs/2509.25753v2)** | 2026-02-20 |  |
+| **[Diffusing to Coordinate: Efficient Online Multi-Agent Diffusion Policies](https://arxiv.org/abs/2602.18291v1)** | 2026-02-20 |  |
+| **[Guided Transfer Learning for Discrete Diffusion Models](https://arxiv.org/abs/2512.10877v2)** | 2026-02-20 | <details><summary>9 pag...</summary><p>9 pages (main text) + appendix</p></details> |
+| **[Efficient Text-Guided Convolutional Adapter for the Diffusion Model](https://arxiv.org/abs/2602.14514v2)** | 2026-02-20 | <details><summary>Accep...</summary><p>Accepted in WACV 2026</p></details> |
+| **[Improving Sampling for Masked Diffusion Models via Information Gain](https://arxiv.org/abs/2602.18176v1)** | 2026-02-20 | <details><summary>https...</summary><p>https://github.com/yks23/Information-Gain-Sampler</p></details> |
+| **[Advection-Diffusion on Graphs: A Bakry-Emery Laplacian for Spectral Graph Neural Networks](https://arxiv.org/abs/2602.18141v1)** | 2026-02-20 |  |
+| **[One Token Is Enough: Improving Diffusion Language Models with a Sink Token](https://arxiv.org/abs/2601.19657v3)** | 2026-02-20 |  |
+| **[Predict to Skip: Linear Multistep Feature Forecasting for Efficient Diffusion Transformers](https://arxiv.org/abs/2602.18093v1)** | 2026-02-20 |  |
+| **[DeRaDiff: Denoising Time Realignment of Diffusion Models](https://arxiv.org/abs/2601.20198v2)** | 2026-02-20 |  |
+| **[Dual-Channel Attention Guidance for Training-Free Image Editing Control in Diffusion Transformers](https://arxiv.org/abs/2602.18022v1)** | 2026-02-20 |  |
+| **[Synthetic History: Evaluating Visual Representations of the Past in Diffusion Models](https://arxiv.org/abs/2505.17064v3)** | 2026-02-20 |  |
+| **[CDLM: Consistency Diffusion Language Models For Faster Sampling](https://arxiv.org/abs/2511.19269v2)** | 2026-02-20 | <details><summary>Accep...</summary><p>Accepted to MLSys 2026</p></details> |
+| **[Two Calm Ends and the Wild Middle: A Geometric Picture of Memorization in Diffusion Models](https://arxiv.org/abs/2602.17846v1)** | 2026-02-19 |  |
 
