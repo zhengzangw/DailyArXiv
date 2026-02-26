@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 26, 2026
+title: Latest 15 Papers - February 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Solaris: Building a Multiplayer Video World Model in Minecraft](https://arxiv.org/abs/2602.22208v1)** | 2026-02-25 | <details><summary>Proje...</summary><p>Project website: https://solaris-wm.github.io/</p></details> |
+| **[Monocular Normal Estimation via Shading Sequence Estimation](https://arxiv.org/abs/2602.09929v3)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026 (Oral)</p></details> |
+| **[Capturing Stable HDR Videos Using a Dual-Camera System](https://arxiv.org/abs/2507.06593v3)** | 2026-02-25 |  |
+| **[Geometry-as-context: Modulating Explicit 3D in Scene-consistent Video Generation to Geometry Context](https://arxiv.org/abs/2602.21929v1)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[Unified Reward Model for Multimodal Understanding and Generation](https://arxiv.org/abs/2503.05236v2)** | 2026-02-25 | <details><summary>proje...</summary><p>project page: https://codegoat24.github.io/UnifiedReward/</p></details> |
+| **[UniVBench: Towards Unified Evaluation for Video Foundation Models](https://arxiv.org/abs/2602.21835v1)** | 2026-02-25 |  |
+| **[SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model](https://arxiv.org/abs/2602.21818v1)** | 2026-02-25 |  |
+| **[RAYNOVA: Scale-Temporal Autoregressive World Modeling in Ray Space](https://arxiv.org/abs/2602.20685v2)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026; Project website: https://raynova-ai.github.io/</p></details> |
+| **[MultiAnimate: Pose-Guided Image Animation Made Extensible](https://arxiv.org/abs/2602.21581v1)** | 2026-02-25 | <details><summary>Proje...</summary><p>Project page at https://hyc001.github.io/MultiAnimate/</p></details> |
+| **[OmniCustom: Sync Audio-Video Customization Via Joint Audio-Video Generation Model](https://arxiv.org/abs/2602.12304v2)** | 2026-02-25 | <details><summary>code:...</summary><p>code: https://github.com/OmniCustom-project/OmniCustom</p></details> |
+| **[World Simulation with Video Foundation Models for Physical AI](https://arxiv.org/abs/2511.00062v2)** | 2026-02-24 |  |
 | **[Human Video Generation from a Single Image with 3D Pose and View Control](https://arxiv.org/abs/2602.21188v1)** | 2026-02-24 |  |
 | **[VII: Visual Instruction Injection for Jailbreaking Image-to-Video Generation Models](https://arxiv.org/abs/2602.20999v1)** | 2026-02-24 | <details><summary>Proje...</summary><p>Project page: https://Zbwwwwwwww.github.io/VII</p></details> |
 | **[WonderVerse: Extendable 3D Scene Generation with Video Generative Models](https://arxiv.org/abs/2503.09160v4)** | 2026-02-24 | Accepted at CVM 2026 |
 | **[MoSA: Motion-Coherent Human Video Generation via Structure-Appearance Decoupling](https://arxiv.org/abs/2508.17404v3)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026. Project: https://hywang2002.github.io/MoSA</p></details> |
-| **[RAYNOVA: 3D-Geometry-Free Auto-Regressive Driving World Modeling with Unified Spatio-Temporal Representation](https://arxiv.org/abs/2602.20685v1)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026; Project website: http://yichen928.github.io/raynova</p></details> |
-| **[LESA: Learnable Stage-Aware Predictors for Diffusion Model Acceleration](https://arxiv.org/abs/2602.20497v1)** | 2026-02-24 |  |
-| **[Less is More: Data-Efficient Adaptation for Controllable Text-to-Video Generation](https://arxiv.org/abs/2511.17844v3)** | 2026-02-23 |  |
-| **[3DSPA: A 3D Semantic Point Autoencoder for Evaluating Video Realism](https://arxiv.org/abs/2602.20354v1)** | 2026-02-23 |  |
-| **[NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning](https://arxiv.org/abs/2602.20119v1)** | 2026-02-23 | <details><summary>25 pa...</summary><p>25 pages, 15 figures. Project webpage: https://nova-plan.github.io/</p></details> |
-| **[PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation](https://arxiv.org/abs/2601.16210v2)** | 2026-02-23 |  |
-| **[GenAI vs. Human Creators: Procurement Mechanism Design in Two-/Three-Layer Markets](https://arxiv.org/abs/2511.06559v2)** | 2026-02-23 |  |
-| **[Tele-Omni: a Unified Multimodal Framework for Video Generation and Editing](https://arxiv.org/abs/2602.09609v2)** | 2026-02-23 |  |
-| **[Generative Neural Video Compression via Video Diffusion Prior](https://arxiv.org/abs/2512.05016v2)** | 2026-02-23 | accept by CVPR2026 |
-| **[PedaCo-Gen: Scaffolding Pedagogical Agency in Human-AI Collaborative Video Authoring](https://arxiv.org/abs/2602.19623v1)** | 2026-02-23 |  |
-| **[MapReduce LoRA: Advancing the Pareto Front in Multi-Preference Optimization for Generative Models](https://arxiv.org/abs/2511.20629v4)** | 2026-02-23 | CVPR 2026 |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Diffusion Duality, Chapter II: $Ψ$-Samplers and Efficient Curriculum](https://arxiv.org/abs/2602.21185v1)** | 2026-02-24 |  |
-| **[A Micro-Macro Model of Encounter-Driven Information Diffusion in Robot Swarms](https://arxiv.org/abs/2602.21148v1)** | 2026-02-24 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, published at ANTS 2026</p></details> |
-| **[Synthesis of discrete-continuous quantum circuits with multimodal diffusion models](https://arxiv.org/abs/2506.01666v2)** | 2026-02-24 | <details><summary>Main ...</summary><p>Main Text: 11 pages, 8 figures and 1 table; Code available at: https://github.com/FlorianFuerrutter/genQC; added new results</p></details> |
-| **[See and Fix the Flaws: Enabling VLMs and Diffusion Models to Comprehend Visual Artifacts via Agentic Data Synthesis](https://arxiv.org/abs/2602.20951v1)** | 2026-02-24 |  |
-| **[When Safety Collides: Resolving Multi-Category Harmful Conflicts in Text-to-Image Diffusion via Adaptive Safety Guidance](https://arxiv.org/abs/2602.20880v1)** | 2026-02-24 | <details><summary>CVPR ...</summary><p>CVPR 2026; Code is released at https://github.com/tmllab/2026_CVPR_CASG</p></details> |
-| **[PegasusFlow: Parallel Rolling-Denoising Score Sampling for Robot Diffusion Planner Flow Matching](https://arxiv.org/abs/2509.08435v2)** | 2026-02-24 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, conference paper</p></details> |
-| **[DiSPo: Diffusion-SSM based Policy Learning for Coarse-to-Fine Action Discretization](https://arxiv.org/abs/2409.14719v4)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted by ICRA 2026</p></details> |
-| **[One-Step Flow Q-Learning: Addressing the Diffusion Policy Bottleneck in Offline Reinforcement Learning](https://arxiv.org/abs/2508.13904v3)** | 2026-02-24 | 10 pages, ICLR2026 |
-| **[OrthoDiffusion: A Generalizable Multi-Task Diffusion Foundation Model for Musculoskeletal MRI Interpretation](https://arxiv.org/abs/2602.20752v1)** | 2026-02-24 |  |
-| **[Latent-Augmented Discrete Diffusion Models](https://arxiv.org/abs/2510.18114v2)** | 2026-02-24 |  |
-| **[Bridging Physically Based Rendering and Diffusion Models with Stochastic Differential Equation](https://arxiv.org/abs/2602.20725v1)** | 2026-02-24 | preprint |
-| **[Diffusion Generative Recommendation with Continuous Tokens](https://arxiv.org/abs/2504.12007v5)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted by The ACM Web Conference (WWW 2026)</p></details> |
-| **[Vanishing Watermarks: Diffusion-Based Image Editing Undermines Robust Invisible Watermarking](https://arxiv.org/abs/2602.20680v1)** | 2026-02-24 | Preprint |
-| **[PropFly: Learning to Propagate via On-the-Fly Supervision from Pre-trained Video Diffusion Models](https://arxiv.org/abs/2602.20583v1)** | 2026-02-24 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work (equal contribution)</p></details> |
-| **[Efficient and Explainable End-to-End Autonomous Driving via Masked Vision-Language-Action Diffusion](https://arxiv.org/abs/2602.20577v1)** | 2026-02-24 |  |
+| **[When Safety Collides: Resolving Multi-Category Harmful Conflicts in Text-to-Image Diffusion via Adaptive Safety Guidance](https://arxiv.org/abs/2602.20880v2)** | 2026-02-25 | <details><summary>CVPR ...</summary><p>CVPR 2026; Code is released at https://github.com/tmllab/2026_CVPR_CASG</p></details> |
+| **[LLaDA-MedV: Exploring Large Language Diffusion Models for Biomedical Image Understanding](https://arxiv.org/abs/2508.01617v2)** | 2026-02-25 |  |
+| **[Probing the Geometry of Diffusion Models with the String Method](https://arxiv.org/abs/2602.22122v1)** | 2026-02-25 |  |
+| **[Training-free Mixed-Resolution Latent Upsampling for Spatially Accelerated Diffusion Transformers](https://arxiv.org/abs/2507.08422v3)** | 2026-02-25 |  |
+| **[Learning Quantum Data Distribution via Chaotic Quantum Diffusion Model](https://arxiv.org/abs/2602.22061v1)** | 2026-02-25 | <details><summary>12 pa...</summary><p>12 pages, 7 figures; extended version from Poster in Workshop: Machine Learning and the Physical Sciences https://neurips.cc/virtual/2025/loc/san-diego/123072</p></details> |
+| **[Dual-Channel Attention Guidance for Training-Free Image Editing Control in Diffusion Transformers](https://arxiv.org/abs/2602.18022v2)** | 2026-02-25 |  |
+| **[Identifying Memorization of Diffusion Models through $p$-Laplace Analysis: Estimators, Bounds and Applications](https://arxiv.org/abs/2505.08246v2)** | 2026-02-25 | <details><summary>This ...</summary><p>This manuscript is a substantially extended version of our SSVM 2025 paper, including significant new theoretical results and additional experiments. It is currently under review as a journal submission</p></details> |
+| **[TRACE: Your Diffusion Model is Secretly an Instance Edge Detector](https://arxiv.org/abs/2503.07982v4)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026 (Oral)</p></details> |
+| **[Principled Latent Diffusion for Graphs via Laplacian Autoencoders](https://arxiv.org/abs/2601.13780v2)** | 2026-02-25 | <details><summary>Prepr...</summary><p>Preprint, under review</p></details> |
+| **[Directed Ordinal Diffusion Regularization for Progression-Aware Diabetic Retinopathy Grading](https://arxiv.org/abs/2602.21942v1)** | 2026-02-25 | 3 figures |
+| **[Adaptive Diffusion Constrained Sampling for Bimanual Robot Manipulation](https://arxiv.org/abs/2505.13667v5)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted by IEEE International Conference on Robotics and Automation 2026(ICRA 2026)</p></details> |
+| **[EndoDDC: Learning Sparse to Dense Reconstruction for Endoscopic Robotic Navigation via Diffusion Depth Completion](https://arxiv.org/abs/2602.21893v1)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted by ICRA 2026</p></details> |
+| **[DocDjinn: Controllable Synthetic Document Generation with VLMs and Handwriting Diffusion](https://arxiv.org/abs/2602.21824v1)** | 2026-02-25 |  |
+| **[Search or Accelerate: Confidence-Switched Position Beam Search for Diffusion Language Models](https://arxiv.org/abs/2602.10953v2)** | 2026-02-25 | 11 pages, 8 figures |
+| **[Accelerating Diffusion via Hybrid Data-Pipeline Parallelism Based on Conditional Guidance Scheduling](https://arxiv.org/abs/2602.21760v1)** | 2026-02-25 |  |
 
