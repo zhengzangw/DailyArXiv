@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 04, 2026
+title: Latest 15 Papers - March 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Video Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MotionStream: Real-Time Video Generation with Interactive Motion Controls](https://arxiv.org/abs/2511.01266v4)** | 2026-03-03 | <details><summary>ICLR ...</summary><p>ICLR 2026, Project webpage: https://joonghyuk.com/motionstream-web/</p></details> |
+| **[TC-Padé: Trajectory-Consistent Padé Approximation for Diffusion Acceleration](https://arxiv.org/abs/2603.02943v1)** | 2026-03-03 | CVPR 2026 |
+| **[SemanticDialect: Semantic-Aware Mixed-Format Quantization for Video Diffusion Transformers](https://arxiv.org/abs/2603.02883v1)** | 2026-03-03 |  |
+| **[SIGMark: Scalable In-Generation Watermark with Blind Extraction for Video Diffusion](https://arxiv.org/abs/2603.02882v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
+| **[Frame Guidance: Training-Free Guidance for Frame-Level Control in Video Diffusion Models](https://arxiv.org/abs/2506.07177v2)** | 2026-03-03 | <details><summary>ICLR ...</summary><p>ICLR 2026. Project page: https://frame-guidance-video.github.io/</p></details> |
+| **[BrandFusion: A Multi-Agent Framework for Seamless Brand Integration in Text-to-Video Generation](https://arxiv.org/abs/2603.02816v1)** | 2026-03-03 |  |
+| **[BindWeave: Subject-Consistent Video Generation via Cross-Modal Integration](https://arxiv.org/abs/2510.00438v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[ShareVerse: Multi-Agent Consistent Video Generation for Shared World Modeling](https://arxiv.org/abs/2603.02697v1)** | 2026-03-03 |  |
+| **[Audio-sync Video Instance Editing with Granularity-Aware Mask Refiner](https://arxiv.org/abs/2512.10571v2)** | 2026-03-03 |  |
+| **[Self-Improving Loops for Visual Robotic Planning](https://arxiv.org/abs/2506.06658v2)** | 2026-03-03 | <details><summary>ICLR ...</summary><p>ICLR 2026. Project Page: https://diffusion-supervision.github.io/silvr/</p></details> |
+| **[Direct Reward Fine-Tuning on Poses for Single Image to 3D Human in the Wild](https://arxiv.org/abs/2603.02619v1)** | 2026-03-03 | <details><summary>ICLR ...</summary><p>ICLR 2026, Project webpage: https://seunguk-do.github.io/drpose</p></details> |
+| **[Arbitrary Generative Video Interpolation](https://arxiv.org/abs/2510.00578v3)** | 2026-03-03 | ICLR 2026 |
+| **[PreciseCache: Precise Feature Caching for Efficient and High-fidelity Video Generation](https://arxiv.org/abs/2603.00976v2)** | 2026-03-03 | ICLR 2026 |
 | **[LiftAvatar: Kinematic-Space Completion for Expression-Controlled 3D Gaussian Avatar Animation](https://arxiv.org/abs/2603.02129v1)** | 2026-03-02 | 19 pages, 11 figures |
 | **[WorldStereo: Bridging Camera-Guided Video Generation and Scene Reconstruction via 3D Geometric Memories](https://arxiv.org/abs/2603.02049v1)** | 2026-03-02 |  |
-| **[Open-Sora 2.0: Training a Commercial-Level Video Generation Model in $200k](https://arxiv.org/abs/2503.09642v3)** | 2026-03-02 |  |
-| **[FastLightGen: Fast and Light Video Generation with Fewer Steps and Parameters](https://arxiv.org/abs/2603.01685v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[Adaptive Spectral Feature Forecasting for Diffusion Sampling Acceleration](https://arxiv.org/abs/2603.01623v1)** | 2026-03-02 | CVPR 2026 |
-| **[Arbitrary Generative Video Interpolation](https://arxiv.org/abs/2510.00578v2)** | 2026-03-02 | ICLR 2026 |
-| **[Retrieval, Refinement, and Ranking for Text-to-Video Generation via Prompt Optimization and Test-Time Scaling](https://arxiv.org/abs/2603.01509v1)** | 2026-03-02 | <details><summary>2026 ...</summary><p>2026 ICLR TTU Workshop</p></details> |
-| **[UniTalking: A Unified Audio-Video Framework for Talking Portrait Generation](https://arxiv.org/abs/2603.01418v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026 (Findings Track)</p></details> |
-| **[Stochastic Self-Guidance for Training-Free Enhancement of Diffusion Models](https://arxiv.org/abs/2508.12880v3)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[EchoTorrent: Towards Swift, Sustained, and Streaming Multi-Modal Video Generation](https://arxiv.org/abs/2602.13669v2)** | 2026-03-02 |  |
-| **[VII: Visual Instruction Injection for Jailbreaking Image-to-Video Generation Models](https://arxiv.org/abs/2602.20999v2)** | 2026-03-01 | <details><summary>Proje...</summary><p>Project page: https://Zbwwwwwwww.github.io/VII</p></details> |
-| **[QuantSparse: Comprehensively Compressing Video Diffusion Transformer with Model Quantization and Attention Sparsification](https://arxiv.org/abs/2509.23681v3)** | 2026-03-01 |  |
-| **[Let Your Image Move with Your Motion! -- Implicit Multi-Object Multi-Motion Transfer](https://arxiv.org/abs/2603.01000v1)** | 2026-03-01 | <details><summary>15 pa...</summary><p>15 pages, 11 figures, see https://ethan-li123.github.io/FlexiMMT_page/</p></details> |
-| **[EraseAnything++: Enabling Concept Erasure in Rectified Flow Transformers Leveraging Multi-Object Optimization](https://arxiv.org/abs/2603.00978v1)** | 2026-03-01 |  |
-| **[PreciseCache: Precise Feature Caching for Efficient and High-fidelity Video Generation](https://arxiv.org/abs/2603.00976v1)** | 2026-03-01 | ICLR 2026 |
 
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GeoDiT: Point-Conditioned Diffusion Transformer for Satellite Image Synthesis](https://arxiv.org/abs/2603.02172v1)** | 2026-03-02 | 26 pages, 17 figures |
-| **[Concept-TRAK: Understanding how diffusion models learn concepts through concept-level attribution](https://arxiv.org/abs/2507.06547v3)** | 2026-03-02 | <details><summary>This ...</summary><p>This paper has been accepted at ICLR 2026</p></details> |
-| **[CADC: Content Adaptive Diffusion-Based Generative Image Compression](https://arxiv.org/abs/2602.21591v2)** | 2026-03-02 |  |
-| **[LAD-Drive: Bridging Language and Trajectory with Action-Aware Diffusion Transformers](https://arxiv.org/abs/2603.02035v1)** | 2026-03-02 |  |
-| **[MAP-Diff: Multi-Anchor Guided Diffusion for Progressive 3D Whole-Body Low-Dose PET Denoising](https://arxiv.org/abs/2603.02012v1)** | 2026-03-02 | 8 pages, 3 figures |
-| **[Mitigating topology biases in Graph Diffusion via Counterfactual Intervention](https://arxiv.org/abs/2603.02005v1)** | 2026-03-02 |  |
-| **[ViTex: Visual Texture Control for Multi-Track Symbolic Music Generation via Discrete Diffusion Models](https://arxiv.org/abs/2603.01984v1)** | 2026-03-02 |  |
-| **[Clustering by Denoising: Latent plug-and-play diffusion for single-cell data](https://arxiv.org/abs/2510.22835v3)** | 2026-03-02 |  |
-| **[Closed-Loop Action Chunks with Dynamic Corrections for Training-Free Diffusion Policy](https://arxiv.org/abs/2603.01953v1)** | 2026-03-02 | Accepted by ICRA2026 |
-| **[MealRec: Multi-granularity Sequential Modeling via Hierarchical Diffusion Models for Micro-Video Recommendation](https://arxiv.org/abs/2603.01926v1)** | 2026-03-02 |  |
-| **[Zero-shot Low-Field MRI Enhancement via Diffusion-Based Adaptive Contrast Transport](https://arxiv.org/abs/2603.01913v1)** | 2026-03-02 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, conference paper</p></details> |
-| **[Soft-Masked Diffusion Language Models](https://arxiv.org/abs/2510.17206v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted at the Fourteenth International Conference on Learning Representations (ICLR2026)</p></details> |
-| **[HierarchicalPrune: Position-Aware Compression for Large-Scale Diffusion Models](https://arxiv.org/abs/2508.04663v4)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026 (Main Technical Track)</p></details> |
-| **[Constrained Particle Seeking: Solving Diffusion Inverse Problems with Just Forward Passes](https://arxiv.org/abs/2603.01837v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[D3LM: A Discrete DNA Diffusion Language Model for Bidirectional DNA Understanding and Generation](https://arxiv.org/abs/2603.01780v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted as a workshop paper at MLGenX 2026</p></details> |
+| **[CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2603.03281v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026; Project Page: https://hanyang-21.github.io/CFG-Ctrl</p></details> |
+| **[DuoMo: Dual Motion Diffusion for World-Space Human Reconstruction](https://arxiv.org/abs/2603.03265v1)** | 2026-03-03 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://yufu-wang.github.io/duomo/</p></details> |
+| **[COP-GEN: Latent Diffusion Transformer for Copernicus Earth Observation Data -- Generation Stochastic by Design](https://arxiv.org/abs/2603.03239v1)** | 2026-03-03 |  |
+| **[Navigating with Annealing Guidance Scale in Diffusion Space](https://arxiv.org/abs/2506.24108v3)** | 2026-03-03 | <details><summary>SIGGR...</summary><p>SIGGRAPH Asia, 2025. Project page: https://annealing-guidance.github.io/annealing-guidance/</p></details> |
+| **[AWDiff: An a trous wavelet diffusion model for lung ultrasound image synthesis](https://arxiv.org/abs/2603.03125v1)** | 2026-03-03 | <details><summary>5 pag...</summary><p>5 pages5 pages, 4 figures. Accepted to ICASSP 2026</p></details> |
+| **[Semantic-level Backdoor Attack against Text-to-Image Diffusion Models](https://arxiv.org/abs/2602.04898v2)** | 2026-03-03 |  |
+| **[RealOSR: Latent Guidance Boosts Diffusion-based Real-world Omnidirectional Image Super-Resolutions](https://arxiv.org/abs/2412.09646v2)** | 2026-03-03 |  |
+| **[TC-Padé: Trajectory-Consistent Padé Approximation for Diffusion Acceleration](https://arxiv.org/abs/2603.02943v1)** | 2026-03-03 | CVPR 2026 |
+| **[Interpretable Motion-Attentive Maps: Spatio-Temporally Localizing Concepts in Video Diffusion Transformers](https://arxiv.org/abs/2603.02919v1)** | 2026-03-03 | CVPR 2026 |
+| **[SemanticDialect: Semantic-Aware Mixed-Format Quantization for Video Diffusion Transformers](https://arxiv.org/abs/2603.02883v1)** | 2026-03-03 |  |
+| **[SIGMark: Scalable In-Generation Watermark with Blind Extraction for Video Diffusion](https://arxiv.org/abs/2603.02882v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
+| **[Frame Guidance: Training-Free Guidance for Frame-Level Control in Video Diffusion Models](https://arxiv.org/abs/2506.07177v2)** | 2026-03-03 | <details><summary>ICLR ...</summary><p>ICLR 2026. Project page: https://frame-guidance-video.github.io/</p></details> |
+| **[Toward Early Quality Assessment of Text-to-Image Diffusion Models](https://arxiv.org/abs/2603.02829v1)** | 2026-03-03 |  |
+| **[LaDiR: Latent Diffusion Enhances LLMs for Text Reasoning](https://arxiv.org/abs/2510.04573v5)** | 2026-03-03 |  |
+| **[Hybrid Machine Learning for Enhanced Prediction of Diffusion Coefficients in Liquids](https://arxiv.org/abs/2603.02761v1)** | 2026-03-03 |  |
 
